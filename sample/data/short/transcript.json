@@ -5,7 +5,6 @@
     {"word": "the", "start": 0.12, "end": 0.18},
     {"word": "INSERTED", "start": 0.12, "end": 0.18},
     {"word": "INSERTEDTWO", "start": 0.12, "end": 0.18},
-    {"word": "Gew", "start": 0.12, "end": 0.18},
-    {"word": "transcript", "start": 0.20, "end": 0.32}
+    {"word": "Gew", "start": 0.12, "end": 0.18}
   ]
 }
