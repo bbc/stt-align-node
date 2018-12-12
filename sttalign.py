@@ -32,7 +32,7 @@ def alignWords(sttData, transcriptWords):
     for tag, i1, i2, j1, j2 in matcher.get_opcodes():
         if tag == 'equal':
             transcriptData[j1:j2] = sttData[i1:i2]
-
+    
     # replace words with originals
     for i in range(len(transcriptData)):
         transcriptData[i]['word'] = transcriptWords[i];
