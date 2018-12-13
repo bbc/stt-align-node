@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node lib/index.js",
     "test": "jest",
-    "test:watch": "jest --watchAll"
+    "test:watch": "jest --watchAll",
+    "example": "node lib/example-usage.js"
   },
   "author": "",
   "license": "ISC",
