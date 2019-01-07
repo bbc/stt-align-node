@@ -7,9 +7,7 @@ _One liner + link to confluence page_
 _Screenshot of UI - optional_ -->
 
 _Work in progress_
-
  
-
 ## Setup
 
 _stack - optional_
