@@ -7,8 +7,8 @@
     display: inline-block;
     position: relative;
     // background-color: #ffe5e5;
-    background-color: #ff0000;
-    color: white;
+    // background-color: #ff0000;
+    // color: white;
     cursor: no-drop;
   }
 
@@ -120,6 +120,12 @@ span.replaceSttLine.line:before{
 .unplayedWord{
     color:grey!important;
 }
+
+video.videoPreview {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
 </style> 
 Equal: Some equal text
 <br>
@@ -152,7 +158,7 @@ Base Text Total Word Count: 2176
  
 Video <input class='videoInput' type="file" name="video" accept="video/*, audio/*">
 <br>
-<video class='videoPreview' style="width: 40vw;" controls></video>
+<video class='videoPreview' style="width: 40vw;" src="http://ia902604.us.archive.org/32/items/moby_dick_librivox/mobydick_001_002_melville.mp3" controls></video>
 
 <script>
 const videoEl =  document.querySelector('.videoPreview');
@@ -177,7 +183,7 @@ document.querySelector('video').addEventListener("timeupdate", function(){
     let currentTime = this.currentTime;
     let wordsEl = document.querySelectorAll('.word');
     wordsEl.forEach((word)=>{
-        if(word.dataset.start <= currentTime){
+        if(word.dataset.start >= currentTime){
             word.classList.add("unplayedWord");
         }
         else{
