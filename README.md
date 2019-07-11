@@ -101,7 +101,7 @@ In _pseudo code_
     - Array of word objects transcription from STT service.
 
 - Align words
-    - normalize words, my removing capitalization and punctuation and converting numbers to letters
+    - normalize words, by removing capitalization and punctuation and converting numbers to letters
     - generate array list of words from base text, and array list of words from stt transcript. 
         - get [opcodes](https://docs.python.org/2/library/difflib.html#difflib.SequenceMatcher.get_opcodes)  using `difflib` comparing two arrays
         - for equal matches, add matched STT word objects segment to results array base text index position.
