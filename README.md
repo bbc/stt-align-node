@@ -7,9 +7,7 @@ _One liner + link to confluence page_
 _Screenshot of UI - optional_ -->
 
 _Work in progress_
-
  
-
 ## Setup
 
 _stack - optional_
@@ -155,3 +153,12 @@ _How to deploy the code/app into test/staging/production_
 TBC 
 
 - [ ] deploy to npm 
+
+<!-- TODOs:
+
+- [ ] Clean up repository
+- [ ] change baseText and sttText mentions to be `referenceText` and `hypothesisText`
+- [ ] add linting 
+- [ ] add babel(?)
+- [ ] change if else to be switch statments
+ -->
