@@ -1,5 +1,5 @@
-# The problem
-The main problem this module is trying to solve is:
+# The Alignment problem
+The main Alignment problem this module is trying to solve is:
 Give some accurate base text, and some speech to text results that are not 100% accurate, how do you transpose the timings from the STT results to the words of the base text?
 Considering that there might be inserted, deleted, replaced and matched words in the comparison.
 
