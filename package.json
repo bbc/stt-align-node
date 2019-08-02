@@ -7,7 +7,8 @@
     "start": "node lib/index.js",
     "test": "jest",
     "test:watch": "jest --watchAll",
-    "example": "node lib/example-usage.js"
+    "example": "node lib/example-usage.js",
+    "build": "babel src -d dist"
   },
   "author": "",
   "license": "ISC",

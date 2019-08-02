@@ -64,8 +64,6 @@ function diffsListAsHtml(sttWords, transcriptText){
     return diffsListToHtml(alignedResults);;
 }
 
-
-
 function diffsList(sttWords, transcriptText){
     const sttWordsList = sttWords.words;
     const opCodes =  diff(sttWordsList, transcriptText);
