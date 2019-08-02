@@ -8,15 +8,30 @@ _Screenshot of UI - optional_ -->
 
 _Work in progress_
  
-## Setup
+## Setup - development
 
-_stack - optional_
+```
+git clon git@github.com:bbc/stt-align-node.git
+```
 
-_How to build and run the code/app_
+```
+cd stt-align-node
+```
 
+```
+ npm install
+```
+
+## Setup - in production
+
+```
+npm install @bbc/stt-align-node
+```
  
 
 ## Usage
+
+Usage for alignment
 
 ```js
 const alignJSONText = require('./index.js');
@@ -88,8 +103,9 @@ See [`/lib/example-usage`](./lib/example-usage.js) for an example that you can r
      { start: 19.17, end: 19.56, word: 'down.' } ] }
 ```
 
-## System Architecture
+There are other utilities, see `src/example-usage.js` for other examples of functions available as part of this module.
 
+## System Architecture
 <!-- _High level overview of system architecture_ -->
 
 Node version of [stt-align](https://github.com/bbc/stt-align) by Chris Baume - R&D.
@@ -117,11 +133,8 @@ In _pseudo code_
 
 
 ## Development env
-
  <!-- _How to run the development environment_
-
 _Coding style convention ref optional, eg which linter to use_
-
 _Linting, github pre-push hook - optional_ -->
 
 - node `10`
@@ -130,35 +143,33 @@ _Linting, github pre-push hook - optional_ -->
 
 ## Build
 
-_How to run build_
+```
+npm run build
+```
 
-NA
-<!-- only needed if adding ES6 and babel, with dist folder for npm ? -->
-  
+bundles the code with react, into a `./build` folder.
 
 ## Tests
-_How to carry out tests_
-
 
 ```
-npm run test
+npm run test:watch
 ```
 
 - [ ] add more tests 
 
 ## Deployment
 
-_How to deploy the code/app into test/staging/production_
+<!-- _How to deploy the code/app into test/staging/production_ -->
 
-TBC 
-
-- [ ] deploy to npm 
+```
+npm run publish:public
+```
 
 <!-- TODOs:
 
 - [ ] Clean up repository
 - [ ] change baseText and sttText mentions to be `referenceText` and `hypothesisText`
 - [ ] add linting 
-- [ ] add babel(?)
+- [x] add babel(?)
 - [ ] change if else to be switch statments
  -->

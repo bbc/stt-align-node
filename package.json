@@ -1,5 +1,5 @@
 {
-  "name": "stt-align-node",
+  "name": "@bbc/stt-align-node",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -8,7 +8,9 @@
     "test": "jest",
     "test:watch": "jest --watchAll",
     "example": "node lib/example-usage.js",
-    "build": "babel src -d dist"
+    "build": "babel src -d build",
+    "publish:public": "npm run build && npm publish build --access public",
+    "publish:dry:run": "npm publish --dry-run"
   },
   "author": "",
   "license": "ISC",

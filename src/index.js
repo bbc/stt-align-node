@@ -1,10 +1,10 @@
 const difflib = require('difflib');
-const normaliseWord = require('./normalise-word/index.js');
-const countDiffs = require('./count-diffs/index.js');
-const getDiffsList = require('./diffs-list/index.js');
-const alignRefTextWithSTT = require('./align/index.js');
-const calculateWordDuration = require('./calculate-word-duration/index.js');
-const diffsListToHtml = require('./diffs-list-to-html/index.js').diffsListToHtml;
+const normaliseWord = require('./normalise-word/index.js.js');
+const countDiffs = require('./count-diffs/index.js.js');
+const getDiffsList = require('./diffs-list/index.js.js');
+const alignRefTextWithSTT = require('./align/index.js.js');
+const calculateWordDuration = require('./calculate-word-duration/index.js.js');
+const diffsListToHtml = require('./diffs-list-to-html/index.js.js').diffsListToHtml;
 
 /**
  * 
