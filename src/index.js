@@ -56,12 +56,12 @@ function diff(sttWords, transcriptText){
 }
 
 
-function diffsListAsHtml(sttWords, transcriptText){
+function diffsListAsHtml(sttWords, transcriptText, mediaUrl){
     const sttWordsList = sttWords.words;
     const opCodes =  diff(sttWordsList, transcriptText);
     const transcriptWords = convertRefTextToList(transcriptText);
     const alignedResults = getDiffsList(opCodes,sttWordsList,transcriptWords);
-    return diffsListToHtml(alignedResults);;
+    return diffsListToHtml(alignedResults,mediaUrl);
 }
 
 function diffsList(sttWords, transcriptText){

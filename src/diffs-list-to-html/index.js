@@ -1,7 +1,7 @@
 // TODO: 
 // -  [ ] add possibility to hide inserted, deleted, and base text for replaced, to see stt?
 
-function diffsListToHtml(diffsList){
+function diffsListToHtml(diffsList, mediaUrl){
     let htmlResult = [];
     const style = `<style>
     .equal{
@@ -161,14 +161,16 @@ function diffsListToHtml(diffsList){
     `;
 
     htmlResult.push(styleLegend)
-
+    // Video <input class='videoInput' type="file" name="video" accept="video/*, audio/*">
+    // <br>
+    // <video class='videoPreview' style="width: 40vw;" src="${mediaUrl}" controls>
+    // </video>
 
     htmlResult.push(`
-    Video <input class='videoInput' type="file" name="video" accept="video/*, audio/*">
-    <br>
-    <video class='videoPreview' style="width: 40vw;" controls></video>
+    
+  
 
-    <script>
+    <script type="text/javascript">
     const videoEl =  document.querySelector('.videoPreview');
     const videoInputEl = document.querySelector('.videoInput');
 
