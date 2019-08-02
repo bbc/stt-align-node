@@ -3,7 +3,7 @@
         {
           "start": 13.05,
           "end": 13.21,
-          "word": "there",
+          "text": "there",
           "punct": "There",
           "index": 0
         },
@@ -11,7 +11,7 @@
           "start": 13.21,
           "confidence": 0.84,
           "end": 13.38,
-          "word": "is",
+          "text": "is",
           "punct": "is",
           "index": 1
         },
@@ -19,7 +19,7 @@
           "start": 13.38,
           "confidence": 1,
           "end": 13.44,
-          "word": "a",
+          "text": "a",
           "punct": "a",
           "index": 2
         },
@@ -27,7 +27,7 @@
           "start": 13.44,
           "confidence": 1,
           "end": 13.86,
-          "word": "day",
+          "text": "day",
           "punct": "day.",
           "index": 3
         },
@@ -35,7 +35,7 @@
           "start": 13.86,
           "confidence": 1,
           "end": 14.13,
-          "word": "about",
+          "text": "about",
           "punct": "About",
           "index": 4
         },
@@ -43,7 +43,7 @@
           "start": 14.13,
           "confidence": 1,
           "end": 14.37,
-          "word": "ten",
+          "text": "ten",
           "punct": "ten",
           "index": 5
         },
@@ -51,7 +51,7 @@
           "start": 14.37,
           "confidence": 1,
           "end": 14.61,
-          "word": "years",
+          "text": "years",
           "punct": "years",
           "index": 6
         },
@@ -59,7 +59,7 @@
           "start": 14.61,
           "confidence": 1,
           "end": 15.15,
-          "word": "ago",
+          "text": "ago",
           "punct": "ago",
           "index": 7
         },
@@ -67,7 +67,7 @@
           "start": 15.44,
           "confidence": 0.71,
           "end": 15.67,
-          "word": "when",
+          "text": "when",
           "punct": "when",
           "index": 8
         },
@@ -75,7 +75,7 @@
           "start": 15.67,
           "confidence": 1,
           "end": 15.82,
-          "word": "i",
+          "text": "i",
           "punct": "I",
           "index": 9
         },
@@ -83,7 +83,7 @@
           "start": 15.82,
           "confidence": 1,
           "end": 16.19,
-          "word": "asked",
+          "text": "asked",
           "punct": "asked",
           "index": 10
         },
@@ -91,7 +91,7 @@
           "start": 16.19,
           "confidence": 1,
           "end": 16.27,
-          "word": "a",
+          "text": "a",
           "punct": "a",
           "index": 11
         },
@@ -99,7 +99,7 @@
           "start": 16.27,
           "confidence": 1,
           "end": 16.65,
-          "word": "friend",
+          "text": "friend",
           "punct": "friend",
           "index": 12
         },
@@ -107,7 +107,7 @@
           "start": 16.65,
           "confidence": 1,
           "end": 16.74,
-          "word": "to",
+          "text": "to",
           "punct": "to",
           "index": 13
         },
@@ -115,7 +115,7 @@
           "start": 16.74,
           "confidence": 1,
           "end": 17.2,
-          "word": "hold",
+          "text": "hold",
           "punct": "hold",
           "index": 14
         },
@@ -123,7 +123,7 @@
           "start": 17.23,
           "confidence": 0.89,
           "end": 17.32,
-          "word": "a",
+          "text": "a",
           "punct": "a",
           "index": 15
         },
@@ -131,7 +131,7 @@
           "start": 17.32,
           "confidence": 1,
           "end": 17.63,
-          "word": "baby",
+          "text": "baby",
           "punct": "baby",
           "index": 16
         },
@@ -139,7 +139,7 @@
           "start": 17.63,
           "confidence": 1,
           "end": 18.13,
-          "word": "dinosaur",
+          "text": "dinosaur",
           "punct": "dinosaur",
           "index": 17
         },
@@ -147,7 +147,7 @@
           "start": 18.17,
           "confidence": 0.78,
           "end": 18.61,
-          "word": "robot",
+          "text": "robot",
           "punct": "robot",
           "index": 18
         },
@@ -155,7 +155,7 @@
           "start": 18.72,
           "confidence": 1,
           "end": 19.17,
-          "word": "upside",
+          "text": "upside",
           "punct": "upside",
           "index": 19
         },
@@ -163,7 +163,7 @@
           "start": 19.17,
           "confidence": 1,
           "end": 19.56,
-          "word": "down",
+          "text": "down",
           "punct": "down.",
           "index": 20
         }

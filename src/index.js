@@ -16,7 +16,7 @@ function diffGetOpcodes(sttWords, transcriptWords){
     // # convert words to lowercase and remove numbers and special characters
     // sttWordsStripped = [re.sub('[^a-z]', '', word.lower()) for word in sttWords]
     const sttWordsStripped = sttWords.map((word)=>{
-        return normaliseWord(word.word);
+        return normaliseWord(word.text);
     })
   
     // transcriptWordsStripped = [re.sub('[^a-z]', '', word.lower()) for word in transcriptWords]
@@ -46,7 +46,7 @@ function convertRefTextToList(refText){
  * @param {array} sttWords.words
  * @param {float} sttWords.words[0].start
  * @param {float} sttWords.words[0].end
- * @param {float} sttWords.words[0].word
+ * @param {float} sttWords.words[0].text
  * @param {string} transcriptText - plain text corrected transcript, base text
  */
 function diff(sttWords, transcriptText){
@@ -56,15 +56,13 @@ function diff(sttWords, transcriptText){
 }
 
 
-function diffsListAsHtml(sttWords, transcriptText){
+function diffsListAsHtml(sttWords, transcriptText, mediaUrl){
     const sttWordsList = sttWords.words;
     const opCodes =  diff(sttWordsList, transcriptText);
     const transcriptWords = convertRefTextToList(transcriptText);
     const alignedResults = getDiffsList(opCodes,sttWordsList,transcriptWords);
-    return diffsListToHtml(alignedResults);;
+    return diffsListToHtml(alignedResults,mediaUrl);
 }
-
-
 
 function diffsList(sttWords, transcriptText){
     const sttWordsList = sttWords.words;
@@ -101,3 +99,4 @@ module.exports.calculateWordDuration = calculateWordDuration;
 module.exports.diffsListToHtml = diffsListToHtml;
 
 module.exports.diffsListAsHtml = diffsListAsHtml;
+// module.exports = diffsListAsHtml;

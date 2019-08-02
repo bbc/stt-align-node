@@ -1,5 +1,5 @@
 {
-  "name": "stt-align-node",
+  "name": "@bbc/stt-align-node",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -7,7 +7,12 @@
     "start": "node lib/index.js",
     "test": "jest",
     "test:watch": "jest --watchAll",
-    "example": "node lib/example-usage.js"
+    "example": "node lib/example-usage.js",
+    "build": "babel src -d build",
+    "build:demo": "webpack --mode production",
+    "publish:public": "npm run build && npm publish build --access public",
+    "publish:dry:run": "npm publish --dry-run",
+    "deploy:ghpages": "gh-pages -d demo"
   },
   "author": "",
   "license": "ISC",
@@ -15,12 +20,16 @@
     "@babel/cli": "^7.2.0",
     "@babel/core": "^7.2.0",
     "@babel/node": "^7.2.0",
-    "@babel/preset-env": "^7.2.0",
-    "jest": "^23.6.0"
+    "@babel/preset-env": "^7.5.5",
+    "jest": "^23.6.0",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
   },
   "dependencies": {
+    "babel-loader": "^8.0.6",
     "difflib": "^0.2.4",
     "everpolate": "0.0.3",
+    "gh-pages": "^2.0.1",
     "number-to-words": "^1.2.4"
   }
 }

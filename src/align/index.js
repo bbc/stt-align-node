@@ -12,7 +12,7 @@ function interpolationOptimization(wordsList){
                 wordTmp = {
                     start: previousWord.end,
                     end: word.end,
-                    word: word.word
+                    text: word.text
                 }
             }
         }
@@ -25,7 +25,7 @@ function interpolationOptimization(wordsList){
                 wordTmp = {
                     end: nextWord.start,
                     start: word.start,
-                    word: word.word
+                    text: word.text
                 }
             }
         }
@@ -117,7 +117,7 @@ function alignRefTextWithSTT(opCodes, sttWords, transcriptWords){
   
         // # populate transcriptData with matching words
         transcriptData.forEach((wordObject, index)=>{
-            wordObject.word = transcriptWords[index];
+            wordObject.text = transcriptWords[index];
         })
         // # replace words with originals
         
