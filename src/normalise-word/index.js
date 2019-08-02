@@ -18,7 +18,6 @@ function normaliseWord(wordText){
     if(wordText!== undefined){
         let wordTextResult = wordText.toLowerCase().trim().replace(/[^a-z|0-9]+/g, '');
         if(isANumber(wordTextResult)){
-            console.log('console',wordTextResult)
             return converterNumbersToWords.toWords(wordTextResult);
         }
         return wordTextResult;

@@ -1,10 +1,10 @@
 const difflib = require('difflib');
-const normaliseWord = require('./normalise-word/index.js.js');
-const countDiffs = require('./count-diffs/index.js.js');
-const getDiffsList = require('./diffs-list/index.js.js');
-const alignRefTextWithSTT = require('./align/index.js.js');
-const calculateWordDuration = require('./calculate-word-duration/index.js.js');
-const diffsListToHtml = require('./diffs-list-to-html/index.js.js').diffsListToHtml;
+const normaliseWord = require('./normalise-word/index.js');
+const countDiffs = require('./count-diffs/index.js');
+const getDiffsList = require('./diffs-list/index.js');
+const alignRefTextWithSTT = require('./align/index.js');
+const calculateWordDuration = require('./calculate-word-duration/index.js');
+const diffsListToHtml = require('./diffs-list-to-html/index.js').diffsListToHtml;
 
 /**
  * 
@@ -16,7 +16,7 @@ function diffGetOpcodes(sttWords, transcriptWords){
     // # convert words to lowercase and remove numbers and special characters
     // sttWordsStripped = [re.sub('[^a-z]', '', word.lower()) for word in sttWords]
     const sttWordsStripped = sttWords.map((word)=>{
-        return normaliseWord(word.word);
+        return normaliseWord(word.text);
     })
   
     // transcriptWordsStripped = [re.sub('[^a-z]', '', word.lower()) for word in transcriptWords]
@@ -46,7 +46,7 @@ function convertRefTextToList(refText){
  * @param {array} sttWords.words
  * @param {float} sttWords.words[0].start
  * @param {float} sttWords.words[0].end
- * @param {float} sttWords.words[0].word
+ * @param {float} sttWords.words[0].text
  * @param {string} transcriptText - plain text corrected transcript, base text
  */
 function diff(sttWords, transcriptText){
