@@ -149,6 +149,14 @@ npm run build
 
 bundles the code with react, into a `./build` folder.
 
+
+## build demo
+
+```
+npm run build:demo
+```
+demo is in docs folder using github pages
+
 ## Tests
 
 ```
