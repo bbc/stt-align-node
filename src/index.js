@@ -99,3 +99,4 @@ module.exports.calculateWordDuration = calculateWordDuration;
 module.exports.diffsListToHtml = diffsListToHtml;
 
 module.exports.diffsListAsHtml = diffsListAsHtml;
+// module.exports = diffsListAsHtml;
