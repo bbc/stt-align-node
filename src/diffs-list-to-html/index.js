@@ -217,13 +217,13 @@ function diffsListToHtml(diffsList){
         if(matchType === 'equal' ){
             // TODO: do word level - use STT times and text
             let words = element.stt.map((w)=>{
-                return createSpanWord(w.word,'equal',w.start)
+                return createSpanWord(w.text,'equal',w.start)
             })
             htmlResult.push(words.join(' '))
         }
         if(matchType === 'insert' ){
             let words = element.stt.map((w)=>{
-                return createSpanWord(w.word,'insert',w.start)
+                return createSpanWord(w.text,'insert',w.start)
             })
             htmlResult.push(words.join(' '))
         }
@@ -235,7 +235,7 @@ function diffsListToHtml(diffsList){
         }
         if(matchType === 'replace' ){
             const wordsStt = element.stt.map((w)=>{
-                return createSpanWord(w.word,'replaceStt',w.start)
+                return createSpanWord(w.text,'replaceStt',w.start)
             })
             const wordsBaseText = element.baseText.map((w)=>{
                 return createSpanWord(w,'replaceBaseText')
