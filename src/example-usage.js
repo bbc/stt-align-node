@@ -36,18 +36,19 @@ const transcriptStt = require('../sample/data/ted-talk/ted-talk-kate-kaldi.json'
 // }
 
 // call function 
-const result = diffsListAsHtml( transcriptStt, transcriptText);
+const resultHtml = diffsListAsHtml( transcriptStt, transcriptText);
 
 
-const transcriptText = fs.readFileSync('./sample/data/trump-inauguration-2016/Trump-speech-correct.txt').toString();
+const transcriptTextTrump = fs.readFileSync('./sample/data/trump-inauguration-2016/Trump-speech-correct.txt').toString();
   // TODO: generate STT on media (eg with pocketsphinx) and get json
-const transcriptStt = require('../sample/data/trump-inauguration-2016/Trump-inauguration-speech-2016-pocketsphinx.json');
+const transcriptSttTrump = require('../sample/data/trump-inauguration-2016/Trump-inauguration-speech-2016-pocketsphinx.json');
 
-const result = alignSTT(transcriptStt, transcriptText)
+const resultAligned = alignSTT(transcriptSttTrump, transcriptTextTrump)
 console.log('-----result-----')
 // do something with result 
-console.log(result);
+console.log(resultAligned);
 
 // const htmlResult = diffsListAsHtml(result);
 
-fs.writeFileSync('./sample/output/ted-talk-kate-diffs.html',result);
+fs.writeFileSync('./sample/output/ted-talk-kate-diffs.html',resultHtml);
+fs.writeFileSync('./sample/output/trump-inauguration-speech-2016.json',resultAligned);
