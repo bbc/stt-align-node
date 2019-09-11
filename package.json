@@ -10,7 +10,7 @@
     "example": "node lib/example-usage.js",
     "build": "babel src -d build",
     "build:demo": "webpack --mode production",
-    "publish:public": "npm run build && npm publish build --access public",
+    "publish:public": "npm run build && /bin/cp -rf package.json build/ && npm publish build --access public",
     "publish:dry:run": "npm publish --dry-run",
     "deploy:ghpages": "gh-pages -d demo"
   },
