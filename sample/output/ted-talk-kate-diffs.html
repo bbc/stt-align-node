@@ -129,9 +129,9 @@
     </style> 
     Equal: Some equal text
     <br>
-    Inserted (by STT): <span class='insert'>an</span> <span class='insert'>inserted</span> <span class='insert'>word</span>
+    Inserted: <span class='insert'>an</span> <span class='insert'>inserted</span> <span class='insert'>word</span>
     <br>
-    Deleted (not recognised by STT):<span class='delete'>a</span>  <span class='delete'>deleted</span> <span class='delete'>word</span>
+    Deleted:<span class='delete'>a</span>  <span class='delete'>deleted</span> <span class='delete'>word</span>
     <br>
     Replaced:<span class='replaceBaseTextLine line'>
     <span class='replaceBaseText '>Some</span>
@@ -149,10 +149,11 @@
     <hr>
     <br>
      
-    
-  
+    Video <input class='videoInput' type="file" name="video" accept="video/*, audio/*">
+    <br>
+    <video class='videoPreview' style="width: 40vw;" controls></video>
 
-    <script type="text/javascript">
+    <script>
     const videoEl =  document.querySelector('.videoPreview');
     const videoInputEl = document.querySelector('.videoInput');
 
