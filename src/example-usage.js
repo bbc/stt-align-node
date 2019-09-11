@@ -1,11 +1,13 @@
 const fs = require('fs');
 const diffsList = require('./index.js').diffsList;
 const diffsListAsHtml = require('./index.js').diffsListAsHtml;
+const alignSTT = require('./index.js').alignSTT;
 
-// // file path relative to root
+// file path relative to root
 const transcriptText = fs.readFileSync('./sample/data/ted-talk/ted-talk-kate.txt').toString();
-// // file path relative to this file.
+// file path relative to this file.
 const transcriptStt = require('../sample/data/ted-talk/ted-talk-kate-kaldi.json').retval;
+
 // console.log(transcriptStt)
 // const transcriptStt = { 
 //     words: [
@@ -36,6 +38,12 @@ const transcriptStt = require('../sample/data/ted-talk/ted-talk-kate-kaldi.json'
 // call function 
 const result = diffsListAsHtml( transcriptStt, transcriptText);
 
+
+const transcriptText = fs.readFileSync('./sample/data/trump-inauguration-2016/Trump-speech-correct.txt').toString();
+  // TODO: generate STT on media (eg with pocketsphinx) and get json
+const transcriptStt = require('../sample/data/trump-inauguration-2016/Trump-inauguration-speech-2016-pocketsphinx.json');
+
+const result = alignSTT(transcriptStt, transcriptText)
 console.log('-----result-----')
 // do something with result 
 console.log(result);
