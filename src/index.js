@@ -31,7 +31,7 @@ function diffGetOpcodes(sttWords, transcriptWords){
 
 
 function removeNewLinesFromRefText(refText){
-    return refText.trim().replace(/\n\n/g,'').replace(/\n/g,' ')
+    return refText.trim().replace(/\n\n/g,' ').replace(/\n/g,' ')
 }
 
 function convertRefTextToList(refText){
