@@ -51,4 +51,4 @@ console.log(resultAligned);
 // const htmlResult = diffsListAsHtml(result);
 
 fs.writeFileSync('./sample/output/ted-talk-kate-diffs.html',resultHtml);
-fs.writeFileSync('./sample/output/trump-inauguration-speech-2016.json',resultAligned);
+fs.writeFileSync('./sample/output/trump-inauguration-speech-2016.json',rJSON.stringify(esultAligned,null,2);
