@@ -79,7 +79,7 @@ There are other utilities, see `src/example-usage.js` for other examples of func
 Diff list json 
 
 ```js
-const diffsList = require('stt-align-node').diffsList;
+const diffsList = require('@bbc/stt-align-node').diffsList;
 const transcriptText = 'There was a day, about 10 years ago, when I asked a friend to hold a baby dinosaur robot upside down. ';
 const transcriptStt //...
 const resultHtml = diffsList( transcriptStt, transcriptText);
