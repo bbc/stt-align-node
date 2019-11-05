@@ -122,7 +122,7 @@ const resultCount = diffsCount( transcriptStt, transcriptText);
 Chris Baume's heuristic to estimate duration of a word, based on BBC R&D work looking across a number of (english) transcripts. It estimates the duration of a word, in seconds.
 
 ```js
-const calculateWordDuration = require('stt-align-node').calculateWordDuration;
+const calculateWordDuration = require('@bbc/stt-align-node').calculateWordDuration;
 const word = 'Hello';
 const wordDuration = calculateWordDuration(word);
 // do something with the word duration 
