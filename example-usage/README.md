@@ -4,7 +4,7 @@
 Usage for alignment
 
 ```js
-const alignSTT = require('stt-align-node').alignSTT;
+const alignSTT = require('@bbc/stt-align-node').alignSTT;
 
 const transcriptText = 'There was a day, about 10 years ago, when I asked a friend to hold a baby dinosaur robot upside down. ';
 
