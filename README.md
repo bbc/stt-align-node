@@ -27,7 +27,7 @@ npm install
 ## Setup - in production
 
 ```
-npm install stt-align-node
+npm install @bbc/stt-align-node
 ```
  
 
