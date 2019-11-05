@@ -2,8 +2,7 @@
 
 Node version of [stt-align](https://github.com/bbc/stt-align) by Chris Baume - R&D.
 <!-- 
-_One liner + link to confluence page_
-
+_One liner + link to confluence page_ 
 _Screenshot of UI - optional_ -->
 
 See [The alignment problem](./docs/the-alignment-problem.md) in the docs for more background of the problem this module set out to address.
