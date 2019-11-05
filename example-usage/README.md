@@ -4,7 +4,7 @@
 Usage for alignment
 
 ```js
-const alignSTT = require('@bbc/stt-align-node').alignSTT;
+const alignSTT = require('stt-align-node').alignSTT;
 
 const transcriptText = 'There was a day, about 10 years ago, when I asked a friend to hold a baby dinosaur robot upside down. ';
 
@@ -79,7 +79,7 @@ There are other utilities, see `src/example-usage.js` for other examples of func
 Diff list json 
 
 ```js
-const diffsList = require('@bbc/stt-align-node').diffsList;
+const diffsList = require('stt-align-node').diffsList;
 const transcriptText = 'There was a day, about 10 years ago, when I asked a friend to hold a baby dinosaur robot upside down. ';
 const transcriptStt //...
 const resultHtml = diffsList( transcriptStt, transcriptText);
@@ -94,7 +94,7 @@ You can also combine the output of this with `diffsListToHtml` to get an HTML re
 
 Diff list as HTML
 ```js
-const diffsListAsHtml = require('@bbc/stt-align-node').diffsListAsHtml;
+const diffsListAsHtml = require('stt-align-node').diffsListAsHtml;
 const transcriptText = 'There was a day, about 10 years ago, when I asked a friend to hold a baby dinosaur robot upside down. ';
 const transcriptStt //...
 // optional url 
@@ -110,7 +110,7 @@ used by demo.
 ### `diffsCount`
 
 ```js
-const diffsCount = require('@bbc/stt-align-node').diffsCount;
+const diffsCount = require('stt-align-node').diffsCount;
 const transcriptText = 'There was a day, about 10 years ago, when I asked a friend to hold a baby dinosaur robot upside down. ';
 const transcriptStt //...
 const resultCount = diffsCount( transcriptStt, transcriptText);
@@ -122,7 +122,7 @@ const resultCount = diffsCount( transcriptStt, transcriptText);
 Chris Baume's heuristic to estimate duration of a word, based on BBC R&D work looking across a number of (english) transcripts. It estimates the duration of a word, in seconds.
 
 ```js
-const calculateWordDuration = require('@bbc/stt-align-node').calculateWordDuration;
+const calculateWordDuration = require('stt-align-node').calculateWordDuration;
 const word = 'Hello';
 const wordDuration = calculateWordDuration(word);
 // do something with the word duration 
