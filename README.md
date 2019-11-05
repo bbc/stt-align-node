@@ -9,7 +9,7 @@ See [The alignment problem](./docs/the-alignment-problem.md) in the docs for mor
 ## Setup - development
 
 ```
-git clone git@github.com:bbc/stt-align-node.git
+git clone git@github.com:pietrop/stt-align-node.git
 ```
 
 ```
