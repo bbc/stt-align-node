@@ -94,7 +94,7 @@ You can also combine the output of this with `diffsListToHtml` to get an HTML re
 
 Diff list as HTML
 ```js
-const diffsListAsHtml = require('stt-align-node').diffsListAsHtml;
+const diffsListAsHtml = require('@bbc/stt-align-node').diffsListAsHtml;
 const transcriptText = 'There was a day, about 10 years ago, when I asked a friend to hold a baby dinosaur robot upside down. ';
 const transcriptStt //...
 // optional url 
