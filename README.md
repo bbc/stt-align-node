@@ -6,7 +6,7 @@ _One liner + link to confluence page_
 
 _Screenshot of UI - optional_ -->
 
-See [The alignement problem](./docs/the-alignement-problem.md) in the docs for more background of the problem this module set out to address.
+See [The alignment problem](./docs/the-alignment-problem.md) in the docs for more background of the problem this module set out to address.
 
 - 
  
