@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <title>STT comparison</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="The HTML5 Herald" />
     <meta name="author" content="SitePoint" />
     <!-- <link rel="stylesheet" href="css/styles.css?v=1.0"> -->
@@ -20,7 +21,7 @@
     <div class="container">
       <!-- Content here -->
       <h1>STT Comparison</h1>
-      <a href="https://github.com/bbc/stt-align-node">github repo</a>
+      <a href="https://github.com/pietrop/stt-align-node" target="_blank" rel="noopener noreferrer">github repo</a>
       <div class="row">
         <div class="col-sm">
           <form>
@@ -65,6 +66,7 @@
         </div>
       </div>
       <div class="row">
+          <div class="col">
         <button
           type="button"
           id="comparisonBtn"
@@ -73,6 +75,16 @@
           Generate comparison
         </button>
       </div>
+      <div class="col">
+        <button
+          type="button"
+          id="loadDemoBtn"
+          class="btn btn-outline-success btn-block"
+        >
+          Load Demo
+        </button>
+      </div>
+    </div>
       <hr />
 
       <video class="videoPreview" style="width: 40vw;" controls></video>
@@ -82,6 +94,7 @@
       <div id="comparison"></div>
     </div>
     <script type="text/javascript">
+      const loadDemoBtn = document.querySelector('#loadDemoBtn');
       const comparisonEl = document.querySelector("#comparison");
       const comparisonCountEl = document.querySelector("#comparisonCount");
       const baseTextInputEl = document.querySelector("#baseTextInput");
@@ -96,16 +109,10 @@
 
       // initial setup 
       sourceMediaUrl = sourceMediaInputEl.value;
-      videoEl.src = sourceMediaUrl
-      console.log('sourceMediaUrl sourceMediaUrl', sourceMediaUrl)
+      videoEl.src = sourceMediaUrl;
 
       function displayCompariosn(el) {
-        // console.log(el)
-        // console.log(typeof el)
-        // doc = new DOMParser().parseFromString(el, "text/xml");
-        // comparisonEl.appendChild(doc);
         comparisonEl.innerHTML = el;
-        // comparisonBtnEl.insertAdjacentHTML('afterend',el)
       }
 
       function readSingleFile(e, cb) {
@@ -125,21 +132,18 @@
 
       baseTextInputEl.addEventListener("change", function(e) {
         readSingleFile(e, res => {
-          console.log(res);
           baseText = res;
         });
       });
 
       sttCompareInputEl.addEventListener("change", function(e) {
         readSingleFile(e, res => {
-          console.log(res);
           sttTocompare = JSON.parse(res);
         });
       });
 
       // TODO: change to a text input?
       sourceMediaInputEl.addEventListener("input", function(e) {
-        console.log(e.target.value);
         sourceMediaUrl = e.target.value;
         document.querySelector("video").src = sourceMediaUrl;
       });
@@ -153,8 +157,25 @@
        base text total word count: <span>${results.baseTextTotalWordCount}</span>`
      }
 
+    
+     loadDemoBtn.addEventListener("click",async (e) => {
+      const response = await fetch('/Soleio_Cuervo.json')
+      const data = await response.json()
+      const sttTocompare = data;
+
+      const responseText = await fetch('/Soleio_Cuervo_text.json')
+      const dataText = await responseText.json()
+      const baseText = dataText.text;
+      // const sourceMediaUrl = "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Soleio+Cuervo-OIAUfZBd_7w.mp4";
+      const result = STTdiff.diffsListAsHtml(
+            sttTocompare,
+            baseText,
+            // sourceMediaUrl
+          );
+      displayCompariosn(result);
+     })
+
       comparisonBtnEl.addEventListener("click", function(e) {
-        console.log(e);
         if (baseText && sttTocompare) {
           const result = STTdiff.diffsListAsHtml(
             sttTocompare,
@@ -172,17 +193,15 @@
       });
 
       comparisonEl.addEventListener("click", function(e) {
-        console.log(e, e.target, e.target.dataset, e.target.dataset.start);
-        // if (e.target.className === "word") {
+        if (e.target.classList.contains("word")) {
           document.querySelector("video").currentTime = parseFloat(
             e.target.dataset.start
           );
           document.querySelector("video").play();
-        // }
+        }
       });
 
       document.querySelector('video').addEventListener("timeupdate", function(){
-        console.log('time updated', this.currentTime)
         let currentTime = this.currentTime;
         let wordsEl = document.querySelectorAll('.word');
         wordsEl.forEach((word)=>{
