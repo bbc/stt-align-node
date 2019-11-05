@@ -110,7 +110,7 @@ used by demo.
 ### `diffsCount`
 
 ```js
-const diffsCount = require('stt-align-node').diffsCount;
+const diffsCount = require('@bbc/stt-align-node').diffsCount;
 const transcriptText = 'There was a day, about 10 years ago, when I asked a friend to hold a baby dinosaur robot upside down. ';
 const transcriptStt //...
 const resultCount = diffsCount( transcriptStt, transcriptText);
