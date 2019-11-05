@@ -13,7 +13,7 @@ See [The alignement problem](./docs/the-alignement-problem.md) in the docs for m
 ## Setup - development
 
 ```
-git clone git@github.com:pietrop/stt-align-node.git
+git clone git@github.com:bbc/stt-align-node.git
 ```
 
 ```
