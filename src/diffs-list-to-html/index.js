@@ -161,47 +161,48 @@ function diffsListToHtml(diffsList, mediaUrl){
     `;
 
     htmlResult.push(styleLegend)
+    if(mediaUrl){
+        htmlResult.push(`<video class='videoPreview' style="width: 40vw;" src="${mediaUrl}" controls></video>`)
+    }
     // Video <input class='videoInput' type="file" name="video" accept="video/*, audio/*">
     // <br>
     // <video class='videoPreview' style="width: 40vw;" src="${mediaUrl}" controls>
     // </video>
 
     htmlResult.push(`
-    
-  
-
     <script type="text/javascript">
-    const videoEl =  document.querySelector('.videoPreview');
-    const videoInputEl = document.querySelector('.videoInput');
+    document.addEventListener('DOMContentLoaded', (event) => {
+
+        const videoEl =  document.querySelector('.videoPreview');
+        // const videoInputEl = document.querySelector('.videoInput');
+
+        // videoInputEl.addEventListener('change', function(e) {
+        //     console.log(e.target.value, this.files)
+        //     var url = URL.createObjectURL(this.files[0]);
+        //     document.querySelector('.videoPreview').src =url; 
+        // });
 
 
-    videoInputEl.addEventListener('change', function(e) {
-        console.log(e.target.value, this.files)
-        var url = URL.createObjectURL(this.files[0]);
-        document.querySelector('.videoPreview').src =url; 
-    });
-
-
-    document.querySelector('.text').addEventListener('click', function(e) {
-        console.log(e.target.dataset.start);
-        videoEl.currentTime = e.target.dataset.start;
-        videoEl.play();
-    })
-
-    document.querySelector('video').addEventListener("timeupdate", function(){
-        console.log('time updated', this.currentTime)
-        let currentTime = this.currentTime;
-        let wordsEl = document.querySelectorAll('.word');
-        wordsEl.forEach((word)=>{
-            if(word.dataset.start >= currentTime){
-                word.classList.add("unplayedWord");
-            }
-            else{
-                word.classList.remove("unplayedWord");
-            }
+        document.querySelector('.text').addEventListener('click', function(e) {
+            console.log(e.target.dataset.start);
+            videoEl.currentTime = e.target.dataset.start;
+            videoEl.play();
         })
-    });
 
+        document.querySelector('video').addEventListener("timeupdate", function(){
+            console.log('time updated', this.currentTime)
+            let currentTime = this.currentTime;
+            let wordsEl = document.querySelectorAll('.word');
+            wordsEl.forEach((word)=>{
+                if(word.dataset.start >= currentTime){
+                    word.classList.add("unplayedWord");
+                }
+                else{
+                    word.classList.remove("unplayedWord");
+                }
+            })
+        });
+    })
     </script>
     <hr>`)
 

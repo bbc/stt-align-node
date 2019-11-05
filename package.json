@@ -12,7 +12,7 @@
     "build:demo": "webpack --mode production",
     "publish:public": "npm run build && /bin/cp -rf package.json build/ && /bin/cp -rf README.md build/README.md  && npm publish build --access public",
     "publish:dry:run": "npm publish --dry-run",
-    "deploy:ghpages": "gh-pages -d demo"
+    "deploy:ghpages": "npm run build:demo && gh-pages -d demo"
   },
   "author": "",
   "license": "ISC",
