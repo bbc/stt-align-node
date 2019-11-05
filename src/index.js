@@ -88,15 +88,10 @@ function alignSTT(sttWords, transcriptText){
     return alignedResults;
 }
 
-module.exports.diffsList = diffsList;
-
-module.exports.diffsCount = diffsCount;
-
+module.exports = alignSTT; 
 module.exports.alignSTT = alignSTT; 
-
+module.exports.diffsList = diffsList;
+module.exports.diffsCount = diffsCount;
 module.exports.calculateWordDuration = calculateWordDuration;
-
 module.exports.diffsListToHtml = diffsListToHtml;
-
 module.exports.diffsListAsHtml = diffsListAsHtml;
-// module.exports = diffsListAsHtml;

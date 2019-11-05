@@ -3,2498 +3,2498 @@
     "start": 13.05,
     "confidence": 0.84,
     "end": 13.21,
-    "word": "There",
+    "text": "There",
     "punct": "There",
     "index": 0
   },
   {
-    "word": "was",
+    "text": "was",
     "start": 13.215,
     "end": 13.325
   },
   {
     "end": 13.44,
     "start": 13.38,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 13.86,
     "start": 13.44,
-    "word": "day,"
+    "text": "day,"
   },
   {
     "end": 14.13,
     "start": 13.86,
-    "word": "about"
+    "text": "about"
   },
   {
     "end": 14.37,
     "start": 14.13,
-    "word": "10"
+    "text": "10"
   },
   {
     "end": 14.61,
     "start": 14.37,
-    "word": "years"
+    "text": "years"
   },
   {
     "end": 15.44,
     "start": 14.61,
-    "word": "ago,"
+    "text": "ago,"
   },
   {
     "end": 15.67,
     "start": 15.44,
-    "word": "when"
+    "text": "when"
   },
   {
     "end": 15.82,
     "start": 15.67,
-    "word": "I"
+    "text": "I"
   },
   {
     "end": 16.19,
     "start": 15.82,
-    "word": "asked"
+    "text": "asked"
   },
   {
     "end": 16.27,
     "start": 16.19,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 16.65,
     "start": 16.27,
-    "word": "friend"
+    "text": "friend"
   },
   {
     "end": 16.74,
     "start": 16.65,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 17.23,
     "start": 16.74,
-    "word": "hold"
+    "text": "hold"
   },
   {
     "end": 17.32,
     "start": 17.23,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 17.63,
     "start": 17.32,
-    "word": "baby"
+    "text": "baby"
   },
   {
     "end": 18.17,
     "start": 17.63,
-    "word": "dinosaur"
+    "text": "dinosaur"
   },
   {
     "end": 18.72,
     "start": 18.17,
-    "word": "robot"
+    "text": "robot"
   },
   {
     "end": 19.17,
     "start": 18.72,
-    "word": "upside"
+    "text": "upside"
   },
   {
     "start": 19.17,
     "end": 19.56,
-    "word": "down."
+    "text": "down."
   },
   {
-    "word": "It",
+    "text": "It",
     "start": 20.525,
     "end": 20.819999999999997
   },
   {
     "end": 22.08,
     "start": 21.88,
-    "word": "was"
+    "text": "was"
   },
   {
     "end": 22.25,
     "start": 22.08,
-    "word": "this"
+    "text": "this"
   },
   {
     "start": 22.25,
     "end": 22.69,
-    "word": "toy"
+    "text": "toy"
   },
   {
-    "word": "called",
-    "start": 22.624285714285715,
+    "text": "called",
+    "start": 22.69,
     "end": 23.06714285714286
   },
   {
-    "word": "a",
-    "start": 22.99857142857143,
+    "text": "a",
+    "start": 23.06714285714286,
     "end": 23.444285714285716
   },
   {
-    "word": "Pleo",
-    "start": 23.372857142857143,
+    "text": "Pleo",
+    "start": 23.444285714285716,
     "end": 23.82142857142857
   },
   {
-    "word": "that",
-    "start": 23.747142857142858,
+    "text": "that",
+    "start": 23.82142857142857,
     "end": 24.198571428571427
   },
   {
-    "word": "I",
-    "start": 24.121428571428574,
+    "text": "I",
+    "start": 24.198571428571427,
     "end": 24.575714285714284
   },
   {
-    "word": "had",
-    "start": 24.495714285714286,
+    "text": "had",
+    "start": 24.575714285714284,
     "end": 24.95285714285714
   },
   {
     "end": 25.33,
-    "start": 24.87,
-    "word": "ordered,"
+    "start": 24.95285714285714,
+    "text": "ordered,"
   },
   {
     "end": 25.43,
     "start": 25.33,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 25.49,
     "start": 25.43,
-    "word": "I"
+    "text": "I"
   },
   {
     "end": 25.66,
     "start": 25.49,
-    "word": "was"
+    "text": "was"
   },
   {
     "end": 25.87,
     "start": 25.66,
-    "word": "really"
+    "text": "really"
   },
   {
     "end": 26.49,
     "start": 25.87,
-    "word": "excited"
+    "text": "excited"
   },
   {
     "end": 26.82,
     "start": 26.49,
-    "word": "about"
+    "text": "about"
   },
   {
     "end": 27.05,
     "start": 26.82,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 28.44,
     "start": 27.05,
-    "word": "because"
+    "text": "because"
   },
   {
     "end": 28.59,
     "start": 28.44,
-    "word": "I've"
+    "text": "I've"
   },
   {
     "end": 28.78,
     "start": 28.59,
-    "word": "always"
+    "text": "always"
   },
   {
     "start": 28.78,
     "end": 29.04,
-    "word": "loved"
+    "text": "loved"
   },
   {
-    "word": "robots.",
+    "text": "robots.",
     "start": 29.116666666666667,
     "end": 29.37333333333333
   },
   {
-    "word": "And",
+    "text": "And",
     "start": 29.453333333333333,
     "end": 29.706666666666663
   },
   {
     "end": 30.04,
     "start": 29.79,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 30.19,
     "start": 30.04,
-    "word": "one"
+    "text": "one"
   },
   {
     "end": 30.45,
     "start": 30.19,
-    "word": "has"
+    "text": "has"
   },
   {
     "start": 30.45,
     "end": 30.77,
-    "word": "really"
+    "text": "really"
   },
   {
-    "word": "cool",
-    "start": 30.705,
+    "text": "cool",
+    "start": 30.77,
     "end": 31.049999999999997
   },
   {
     "end": 31.33,
-    "start": 30.96,
-    "word": "technical"
+    "start": 31.049999999999997,
+    "text": "technical"
   },
   {
     "end": 31.81,
     "start": 31.33,
-    "word": "features."
+    "text": "features."
   },
   {
     "end": 31.92,
     "start": 31.81,
-    "word": "It"
+    "text": "It"
   },
   {
     "start": 31.92,
     "end": 32.15,
-    "word": "had"
+    "text": "had"
   },
   {
-    "word": "motors",
+    "text": "motors",
     "start": 32.335,
     "end": 32.53
   },
   {
     "end": 32.91,
     "start": 32.75,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 33.17,
     "start": 32.91,
-    "word": "touch"
+    "text": "touch"
   },
   {
     "end": 34.2,
     "start": 33.17,
-    "word": "sensors"
+    "text": "sensors"
   },
   {
-    "start": 33.88,
+    "start": 34.2,
     "end": 34.47,
-    "word": "and"
+    "text": "and"
   },
   {
-    "word": "it",
-    "start": 34.185,
+    "text": "it",
+    "start": 34.47,
     "end": 34.59
   },
   {
     "end": 34.71,
-    "start": 34.49,
-    "word": "had"
+    "start": 34.59,
+    "text": "had"
   },
   {
     "end": 34.8,
     "start": 34.71,
-    "word": "an"
+    "text": "an"
   },
   {
     "end": 35.32,
     "start": 34.8,
-    "word": "infrared"
+    "text": "infrared"
   },
   {
     "end": 36.48,
     "start": 35.32,
-    "word": "camera."
+    "text": "camera."
   },
   {
     "end": 36.65,
     "start": 36.48,
-    "word": "And"
+    "text": "And"
   },
   {
     "end": 36.79,
     "start": 36.65,
-    "word": "one"
+    "text": "one"
   },
   {
     "end": 36.87,
     "start": 36.79,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 36.98,
     "start": 36.87,
-    "word": "the"
+    "text": "the"
   },
   {
     "start": 36.98,
     "end": 37.22,
-    "word": "things"
+    "text": "things"
   },
   {
-    "word": "it",
-    "start": 37.155,
+    "text": "it",
+    "start": 37.22,
     "end": 37.375
   },
   {
     "end": 37.53,
-    "start": 37.33,
-    "word": "had"
+    "start": 37.375,
+    "text": "had"
   },
   {
     "end": 37.63,
     "start": 37.53,
-    "word": "was"
+    "text": "was"
   },
   {
     "end": 37.95,
     "start": 37.63,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 38.39,
     "start": 37.95,
-    "word": "tilt"
+    "text": "tilt"
   },
   {
     "end": 39.24,
     "start": 38.39,
-    "word": "sensor,"
+    "text": "sensor,"
   },
   {
     "end": 39.51,
     "start": 39.24,
-    "word": "so"
+    "text": "so"
   },
   {
     "end": 39.62,
     "start": 39.51,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 39.82,
     "start": 39.62,
-    "word": "knew"
+    "text": "knew"
   },
   {
     "end": 39.96,
     "start": 39.82,
-    "word": "what"
+    "text": "what"
   },
   {
     "end": 40.53,
     "start": 39.96,
-    "word": "direction"
+    "text": "direction"
   },
   {
     "end": 40.64,
     "start": 40.53,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 40.85,
     "start": 40.64,
-    "word": "was"
+    "text": "was"
   },
   {
     "start": 40.85,
     "end": 41.54,
-    "word": "facing."
+    "text": "facing."
   },
   {
-    "word": "And",
-    "start": 41.44,
+    "text": "And",
+    "start": 41.54,
     "end": 41.93
   },
   {
     "end": 42.32,
     "start": 42.03,
-    "word": "when"
+    "text": "when"
   },
   {
     "end": 42.44,
     "start": 42.32,
-    "word": "you"
+    "text": "you"
   },
   {
     "end": 42.62,
     "start": 42.44,
-    "word": "held"
+    "text": "held"
   },
   {
     "end": 42.73,
     "start": 42.62,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 43.05,
     "start": 42.73,
-    "word": "upside"
+    "text": "upside"
   },
   {
     "start": 43.05,
     "end": 43.61,
-    "word": "down,"
+    "text": "down,"
   },
   {
-    "word": "it",
-    "start": 43.54714285714286,
+    "text": "it",
+    "start": 43.61,
     "end": 44.05
   },
   {
-    "word": "would",
-    "start": 44.044285714285714,
+    "text": "would",
+    "start": 44.05,
     "end": 44.489999999999995
   },
   {
-    "word": "start",
+    "text": "start",
     "start": 44.541428571428575,
     "end": 44.93
   },
   {
-    "word": "to",
+    "text": "to",
     "start": 45.03857142857143,
     "end": 45.37
   },
   {
-    "word": "cry.",
+    "text": "cry.",
     "start": 45.535714285714285,
     "end": 45.809999999999995
   },
   {
-    "word": "And",
+    "text": "And",
     "start": 46.03285714285715,
     "end": 46.24999999999999
   },
   {
     "end": 46.69,
     "start": 46.53,
-    "word": "I"
+    "text": "I"
   },
   {
     "start": 46.69,
     "end": 46.91,
-    "word": "thought"
+    "text": "thought"
   },
   {
-    "word": "this",
-    "start": 46.78666666666667,
+    "text": "this",
+    "start": 46.91,
     "end": 47.129999999999995
   },
   {
-    "word": "was",
-    "start": 46.88333333333333,
+    "text": "was",
+    "start": 47.129999999999995,
     "end": 47.35
   },
   {
-    "start": 46.98,
+    "start": 47.35,
     "confidence": 0.84,
     "end": 47.57,
-    "word": "super",
+    "text": "super",
     "punct": "super",
     "index": 86
   },
   {
-    "word": "cool,",
-    "start": 47.232,
+    "text": "cool,",
+    "start": 47.57,
     "end": 47.794
   },
   {
-    "word": "so",
-    "start": 47.484,
+    "text": "so",
+    "start": 47.794,
     "end": 48.018
   },
   {
-    "word": "I",
-    "start": 47.736000000000004,
+    "text": "I",
+    "start": 48.018,
     "end": 48.242
   },
   {
-    "word": "was",
-    "start": 47.988,
+    "text": "was",
+    "start": 48.242,
     "end": 48.465999999999994
   },
   {
-    "start": 48.24,
+    "start": 48.465999999999994,
     "confidence": 0.99,
     "end": 48.69,
-    "word": "showing",
+    "text": "showing",
     "punct": "showing",
     "index": 89
   },
   {
-    "word": "it",
-    "start": 48.4125,
+    "text": "it",
+    "start": 48.69,
     "end": 48.7775
   },
   {
-    "word": "off",
-    "start": 48.585,
+    "text": "off",
+    "start": 48.7775,
     "end": 48.865
   },
   {
-    "word": "to",
-    "start": 48.7575,
+    "text": "to",
+    "start": 48.865,
     "end": 48.9525
   },
   {
     "end": 49.04,
-    "start": 48.93,
-    "word": "my"
+    "start": 48.9525,
+    "text": "my"
   },
   {
     "end": 49.97,
     "start": 49.04,
-    "word": "friend,"
+    "text": "friend,"
   },
   {
     "end": 50.14,
     "start": 49.97,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 50.22,
     "start": 50.14,
-    "word": "I"
+    "text": "I"
   },
   {
     "start": 50.22,
     "end": 50.41,
-    "word": "said,"
+    "text": "said,"
   },
   {
-    "word": "\"Oh,",
-    "start": 50.405,
+    "text": "\"Oh,",
+    "start": 50.41,
     "end": 50.62
   },
   {
     "end": 50.83,
-    "start": 50.59,
-    "word": "hold"
+    "start": 50.62,
+    "text": "hold"
   },
   {
     "start": 50.83,
     "end": 50.95,
-    "word": "it"
+    "text": "it"
   },
   {
-    "word": "up",
-    "start": 50.89,
+    "text": "up",
+    "start": 50.95,
     "end": 51.010000000000005
   },
   {
-    "start": 50.95,
+    "start": 51.010000000000005,
     "confidence": 0.58,
     "end": 51.07,
-    "word": "by",
+    "text": "by",
     "punct": "by",
     "index": 99
   },
   {
-    "word": "the",
+    "text": "the",
     "start": 51.49875,
     "end": 51.62250000000001
   },
   {
-    "word": "tail.",
+    "text": "tail.",
     "start": 52.0475,
     "end": 52.175000000000004
   },
   {
-    "word": "See",
+    "text": "See",
     "start": 52.59625,
     "end": 52.7275
   },
   {
-    "word": "what",
+    "text": "what",
     "start": 53.144999999999996,
     "end": 53.28000000000001
   },
   {
-    "word": "it",
+    "text": "it",
     "start": 53.693749999999994,
     "end": 53.8325
   },
   {
-    "word": "does.\"",
+    "text": "does.\"",
     "start": 54.24250000000001,
     "end": 54.385
   },
   {
-    "word": "So",
+    "text": "So",
     "start": 54.791250000000005,
     "end": 54.93750000000001
   },
   {
     "end": 55.49,
     "start": 55.34,
-    "word": "we're"
+    "text": "we're"
   },
   {
     "end": 55.93,
     "start": 55.49,
-    "word": "watching"
+    "text": "watching"
   },
   {
     "end": 56.02,
     "start": 55.93,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 56.92,
     "start": 56.02,
-    "word": "theatrics"
+    "text": "theatrics"
   },
   {
     "end": 57.02,
     "start": 56.92,
-    "word": "of"
+    "text": "of"
   },
   {
     "start": 57.02,
     "end": 57.24,
-    "word": "this"
+    "text": "this"
   },
   {
-    "word": "robot",
+    "text": "robot",
     "start": 57.955,
     "end": 58.565000000000026
   },
   {
     "end": 59.89,
     "start": 58.89,
-    "word": "struggle"
+    "text": "struggle"
   },
   {
     "end": 60.09,
     "start": 59.89,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 60.68,
     "start": 60.09,
-    "word": "cry"
+    "text": "cry"
   },
   {
     "end": 62.77,
     "start": 60.68,
-    "word": "out."
+    "text": "out."
   },
   {
     "end": 63.25,
     "start": 62.77,
-    "word": "And"
+    "text": "And"
   },
   {
     "end": 63.53,
     "start": 63.25,
-    "word": "after"
+    "text": "after"
   },
   {
     "end": 63.58,
     "start": 63.53,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 63.74,
     "start": 63.58,
-    "word": "few"
+    "text": "few"
   },
   {
     "start": 63.74,
     "end": 64.52,
-    "word": "seconds,"
+    "text": "seconds,"
   },
   {
-    "word": "it",
-    "start": 64.26666666666665,
+    "text": "it",
+    "start": 64.52,
     "end": 64.83333333333333
   },
   {
-    "word": "starts",
-    "start": 64.79333333333332,
+    "text": "starts",
+    "start": 64.83333333333333,
     "end": 65.14666666666666
   },
   {
     "end": 65.46,
     "start": 65.32,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 65.76,
     "start": 65.46,
-    "word": "bother"
+    "text": "bother"
   },
   {
     "end": 65.95,
     "start": 65.76,
-    "word": "me"
+    "text": "me"
   },
   {
     "end": 66.06,
     "start": 65.95,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 67.77,
     "start": 66.06,
-    "word": "little,"
+    "text": "little,"
   },
   {
     "end": 67.84,
     "start": 67.77,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 67.97,
     "start": 67.84,
-    "word": "I"
+    "text": "I"
   },
   {
     "end": 68.22,
     "start": 67.97,
-    "word": "said,"
+    "text": "said,"
   },
   {
     "end": 69.97,
     "start": 68.22,
-    "word": "\"OK,"
+    "text": "\"OK,"
   },
   {
     "end": 70.22,
     "start": 69.97,
-    "word": "that's"
+    "text": "that's"
   },
   {
     "end": 70.58,
     "start": 70.22,
-    "word": "enough"
+    "text": "enough"
   },
   {
     "end": 71.92,
     "start": 70.58,
-    "word": "now."
+    "text": "now."
   },
   {
     "end": 72.12,
     "start": 71.92,
-    "word": "Let's"
+    "text": "Let's"
   },
   {
     "end": 72.25,
     "start": 72.12,
-    "word": "put"
+    "text": "put"
   },
   {
     "end": 72.33,
     "start": 72.25,
-    "word": "him"
+    "text": "him"
   },
   {
     "end": 72.54,
     "start": 72.33,
-    "word": "back"
+    "text": "back"
   },
   {
     "end": 74.17,
     "start": 72.54,
-    "word": "down.\""
+    "text": "down.\""
   },
   {
     "end": 74.51,
     "start": 74.17,
-    "word": "And"
+    "text": "And"
   },
   {
-    "start": 74.41,
+    "start": 74.51,
     "end": 74.6,
-    "word": "then"
+    "text": "then"
   },
   {
-    "word": "I",
-    "start": 74.59199999999998,
+    "text": "I",
+    "start": 74.6,
     "end": 74.76599999999999
   },
   {
-    "word": "pet",
+    "text": "pet",
     "start": 74.77399999999999,
     "end": 74.932
   },
   {
-    "word": "the",
+    "text": "the",
     "start": 74.95599999999999,
     "end": 75.098
   },
   {
-    "word": "robot",
+    "text": "robot",
     "start": 75.13799999999999,
     "end": 75.26400000000001
   },
   {
     "end": 75.43,
     "start": 75.32,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 75.57,
     "start": 75.43,
-    "word": "make"
+    "text": "make"
   },
   {
     "end": 75.67,
     "start": 75.57,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 75.92,
     "start": 75.67,
-    "word": "stop"
+    "text": "stop"
   },
   {
     "start": 75.92,
     "end": 76.45,
-    "word": "crying."
+    "text": "crying."
   },
   {
-    "word": "And",
+    "text": "And",
     "start": 76.99666666666666,
     "end": 77.39666666666666
   },
   {
-    "word": "that",
+    "text": "that",
     "start": 78.07333333333331,
     "end": 78.34333333333332
   },
   {
     "end": 79.29,
     "start": 79.15,
-    "word": "was"
+    "text": "was"
   },
   {
     "end": 79.44,
     "start": 79.29,
-    "word": "kind"
+    "text": "kind"
   },
   {
     "end": 79.51,
     "start": 79.44,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 79.65,
     "start": 79.51,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 79.93,
     "start": 79.65,
-    "word": "weird"
+    "text": "weird"
   },
   {
     "end": 80.64,
     "start": 79.93,
-    "word": "experience"
+    "text": "experience"
   },
   {
     "end": 80.78,
     "start": 80.64,
-    "word": "for"
+    "text": "for"
   },
   {
     "start": 80.78,
     "end": 81.38,
-    "word": "me."
+    "text": "me."
   },
   {
-    "word": "For",
+    "text": "For",
     "start": 81.44,
     "end": 81.86999999999999
   },
   {
     "end": 82.36,
     "start": 82.1,
-    "word": "one"
+    "text": "one"
   },
   {
     "end": 82.85,
     "start": 82.36,
-    "word": "thing,"
+    "text": "thing,"
   },
   {
     "end": 83.03,
     "start": 82.85,
-    "word": "I"
+    "text": "I"
   },
   {
     "end": 83.31,
     "start": 83.03,
-    "word": "wasn't"
+    "text": "wasn't"
   },
   {
     "end": 83.38,
     "start": 83.31,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 83.76,
     "start": 83.38,
-    "word": "most"
+    "text": "most"
   },
   {
     "end": 84.39,
     "start": 83.76,
-    "word": "maternal"
+    "text": "maternal"
   },
   {
     "end": 84.94,
     "start": 84.39,
-    "word": "person"
+    "text": "person"
   },
   {
     "end": 85.07,
     "start": 84.94,
-    "word": "at"
+    "text": "at"
   },
   {
     "end": 85.15,
     "start": 85.07,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 86.66,
     "start": 85.15,
-    "word": "time."
+    "text": "time."
   },
   {
     "end": 86.94,
     "start": 86.66,
-    "word": "Although"
+    "text": "Although"
   },
   {
-    "start": 86.93,
+    "start": 86.94,
     "end": 87.19,
-    "word": "since"
+    "text": "since"
   },
   {
-    "word": "then",
-    "start": 87.07,
+    "text": "then",
+    "start": 87.19,
     "end": 87.285
   },
   {
     "end": 87.38,
-    "start": 87.21,
-    "word": "I've"
+    "start": 87.285,
+    "text": "I've"
   },
   {
     "end": 87.6,
     "start": 87.38,
-    "word": "become"
+    "text": "become"
   },
   {
     "end": 87.65,
     "start": 87.6,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 88.06,
     "start": 87.65,
-    "word": "mother,"
+    "text": "mother,"
   },
   {
     "end": 88.26,
     "start": 88.06,
-    "word": "nine"
+    "text": "nine"
   },
   {
     "end": 88.49,
     "start": 88.26,
-    "word": "months"
+    "text": "months"
   },
   {
     "end": 89.44,
     "start": 88.49,
-    "word": "ago,"
+    "text": "ago,"
   },
   {
-    "start": 88.91,
+    "start": 89.44,
     "end": 89.78,
-    "word": "and"
+    "text": "and"
   },
   {
-    "word": "I've",
-    "start": 89.22749999999999,
+    "text": "I've",
+    "start": 89.78,
     "end": 89.9575
   },
   {
-    "word": "learned",
-    "start": 89.545,
+    "text": "learned",
+    "start": 89.9575,
     "end": 90.13499999999999
   },
   {
-    "word": "that",
-    "start": 89.86250000000001,
+    "text": "that",
+    "start": 90.13499999999999,
     "end": 90.3125
   },
   {
     "end": 90.49,
-    "start": 90.18,
-    "word": "babies"
+    "start": 90.3125,
+    "text": "babies"
   },
   {
-    "start": 90.47,
+    "start": 90.49,
     "end": 90.7,
-    "word": "also"
+    "text": "also"
   },
   {
-    "word": "squirm",
+    "text": "squirm",
     "start": 90.97666666666667,
     "end": 91.20777777777778
   },
   {
-    "word": "when",
+    "text": "when",
     "start": 91.48333333333333,
     "end": 91.71555555555555
   },
   {
-    "word": "you",
+    "text": "you",
     "start": 91.99,
     "end": 92.22333333333333
   },
   {
-    "word": "hold",
+    "text": "hold",
     "start": 92.49666666666667,
     "end": 92.7311111111111
   },
   {
-    "word": "them",
+    "text": "them",
     "start": 93.00333333333333,
     "end": 93.23888888888888
   },
   {
-    "word": "upside",
+    "text": "upside",
     "start": 93.51,
     "end": 93.74666666666667
   },
   {
-    "word": "down.",
+    "text": "down.",
     "start": 94.01666666666667,
     "end": 94.25444444444445
   },
   {
-    "word": "(Laughter)",
+    "text": "(Laughter)",
     "start": 94.52333333333334,
     "end": 94.76222222222222
   },
   {
     "end": 95.27,
     "start": 95.03,
-    "word": "But"
+    "text": "But"
   },
   {
     "end": 95.48,
     "start": 95.27,
-    "word": "my"
+    "text": "my"
   },
   {
     "start": 95.48,
     "end": 95.9,
-    "word": "response"
+    "text": "response"
   },
   {
-    "word": "to",
-    "start": 95.695,
+    "text": "to",
+    "start": 95.9,
     "end": 96.01
   },
   {
     "end": 96.12,
-    "start": 95.91,
-    "word": "this"
+    "start": 96.01,
+    "text": "this"
   },
   {
     "end": 96.43,
     "start": 96.12,
-    "word": "robot"
+    "text": "robot"
   },
   {
     "end": 96.58,
     "start": 96.43,
-    "word": "was"
+    "text": "was"
   },
   {
     "end": 96.85,
     "start": 96.58,
-    "word": "also"
+    "text": "also"
   },
   {
     "end": 97.26,
     "start": 96.85,
-    "word": "interesting"
+    "text": "interesting"
   },
   {
     "end": 97.84,
     "start": 97.26,
-    "word": "because"
+    "text": "because"
   },
   {
     "end": 98,
     "start": 97.84,
-    "word": "I"
+    "text": "I"
   },
   {
     "end": 98.18,
     "start": 98,
-    "word": "knew"
+    "text": "knew"
   },
   {
     "end": 98.91,
     "start": 98.18,
-    "word": "exactly"
+    "text": "exactly"
   },
   {
     "end": 99.18,
     "start": 98.91,
-    "word": "how"
+    "text": "how"
   },
   {
     "end": 99.4,
     "start": 99.18,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 100.07,
     "start": 99.4,
-    "word": "machine"
+    "text": "machine"
   },
   {
-    "start": 100.04,
+    "start": 100.07,
     "end": 100.5,
-    "word": "worked,"
+    "text": "worked,"
   },
   {
-    "word": "and",
+    "text": "and",
     "start": 100.855,
     "end": 101.185
   },
   {
     "end": 101.87,
     "start": 101.67,
-    "word": "yet"
+    "text": "yet"
   },
   {
     "end": 101.97,
     "start": 101.87,
-    "word": "I"
+    "text": "I"
   },
   {
     "end": 102.37,
     "start": 101.97,
-    "word": "still"
+    "text": "still"
   },
   {
     "end": 102.65,
     "start": 102.37,
-    "word": "felt"
+    "text": "felt"
   },
   {
     "end": 103.39,
     "start": 102.65,
-    "word": "compelled"
+    "text": "compelled"
   },
   {
     "end": 103.51,
     "start": 103.39,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 103.66,
     "start": 103.51,
-    "word": "be"
+    "text": "be"
   },
   {
     "end": 104.44,
     "start": 103.66,
-    "word": "kind"
+    "text": "kind"
   },
   {
     "end": 104.58,
     "start": 104.44,
-    "word": "to"
+    "text": "to"
   },
   {
     "start": 104.58,
     "end": 104.79,
-    "word": "it."
+    "text": "it."
   },
   {
-    "word": "And",
+    "text": "And",
     "start": 105.53999999999996,
     "end": 105.86000000000001
   },
   {
     "end": 106.93,
     "start": 106.5,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 107.7,
     "start": 106.93,
-    "word": "observation"
+    "text": "observation"
   },
   {
     "start": 107.7,
     "end": 108.1,
-    "word": "sparked"
+    "text": "sparked"
   },
   {
-    "word": "a",
-    "start": 107.92,
+    "text": "a",
+    "start": 108.1,
     "end": 108.515
   },
   {
     "end": 108.93,
-    "start": 108.14,
-    "word": "curiosity"
+    "start": 108.515,
+    "text": "curiosity"
   },
   {
     "start": 108.93,
     "end": 109.27,
-    "word": "that"
+    "text": "that"
   },
   {
-    "word": "I've",
-    "start": 109.17,
+    "text": "I've",
+    "start": 109.27,
     "end": 109.77
   },
   {
     "end": 110.27,
-    "start": 109.41,
-    "word": "spent"
+    "start": 109.77,
+    "text": "spent"
   },
   {
     "end": 110.36,
     "start": 110.27,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 110.74,
     "start": 110.36,
-    "word": "past"
+    "text": "past"
   },
   {
     "end": 111.29,
     "start": 110.74,
-    "word": "decade"
+    "text": "decade"
   },
   {
     "end": 112.92,
     "start": 111.29,
-    "word": "pursuing."
+    "text": "pursuing."
   },
   {
     "end": 113.19,
     "start": 112.92,
-    "word": "Why"
+    "text": "Why"
   },
   {
     "start": 113.19,
     "end": 113.33,
-    "word": "did"
+    "text": "did"
   },
   {
-    "word": "I",
-    "start": 113.32,
+    "text": "I",
+    "start": 113.33,
     "end": 113.625
   },
   {
     "end": 113.92,
-    "start": 113.45,
-    "word": "comfort"
+    "start": 113.625,
+    "text": "comfort"
   },
   {
-    "start": 113.9,
+    "start": 113.92,
     "end": 114.18,
-    "word": "this"
+    "text": "this"
   },
   {
-    "word": "robot?",
+    "text": "robot?",
     "start": 114.69666666666669,
     "end": 114.94666666666666
   },
   {
-    "word": "And",
+    "text": "And",
     "start": 115.49333333333337,
     "end": 115.71333333333331
   },
   {
     "end": 116.48,
     "start": 116.29,
-    "word": "one"
+    "text": "one"
   },
   {
     "end": 116.57,
     "start": 116.48,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 116.64,
     "start": 116.57,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 116.87,
     "start": 116.64,
-    "word": "things"
+    "text": "things"
   },
   {
     "end": 116.93,
     "start": 116.87,
-    "word": "I"
+    "text": "I"
   },
   {
     "end": 117.57,
     "start": 116.93,
-    "word": "discovered"
+    "text": "discovered"
   },
   {
     "end": 117.76,
     "start": 117.57,
-    "word": "was"
+    "text": "was"
   },
   {
     "end": 118.45,
     "start": 117.76,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 118.6,
     "start": 118.45,
-    "word": "my"
+    "text": "my"
   },
   {
     "end": 119.19,
     "start": 118.6,
-    "word": "treatment"
+    "text": "treatment"
   },
   {
     "end": 119.26,
     "start": 119.19,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 119.45,
     "start": 119.26,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 119.79,
     "start": 119.45,
-    "word": "machine"
+    "text": "machine"
   },
   {
     "end": 119.95,
     "start": 119.79,
-    "word": "was"
+    "text": "was"
   },
   {
     "end": 120.22,
     "start": 119.95,
-    "word": "more"
+    "text": "more"
   },
   {
     "end": 120.36,
     "start": 120.22,
-    "word": "than"
+    "text": "than"
   },
   {
     "end": 120.98,
     "start": 120.36,
-    "word": "just"
+    "text": "just"
   },
   {
     "end": 121.19,
     "start": 120.98,
-    "word": "an"
+    "text": "an"
   },
   {
     "end": 121.6,
     "start": 121.19,
-    "word": "awkward"
+    "text": "awkward"
   },
   {
     "end": 122.09,
     "start": 121.6,
-    "word": "moment"
+    "text": "moment"
   },
   {
     "end": 122.16,
     "start": 122.09,
-    "word": "in"
+    "text": "in"
   },
   {
     "end": 122.3,
     "start": 122.16,
-    "word": "my"
+    "text": "my"
   },
   {
     "end": 122.62,
     "start": 122.3,
-    "word": "living"
+    "text": "living"
   },
   {
     "end": 123.54,
     "start": 122.62,
-    "word": "room,"
+    "text": "room,"
   },
   {
-    "start": 123,
+    "start": 123.54,
     "end": 123.76,
-    "word": "that"
+    "text": "that"
   },
   {
-    "word": "in",
-    "start": 123.31666666666668,
+    "text": "in",
+    "start": 123.76,
     "end": 123.98
   },
   {
-    "word": "a",
-    "start": 123.63333333333334,
+    "text": "a",
+    "start": 123.98,
     "end": 124.2
   },
   {
-    "start": 123.95,
+    "start": 124.2,
     "confidence": 0.9,
     "end": 124.42,
-    "word": "world",
+    "text": "world",
     "punct": "world",
     "index": 264
   },
   {
-    "word": "where",
-    "start": 124.195,
+    "text": "where",
+    "start": 124.42,
     "end": 124.53
   },
   {
     "end": 124.64,
-    "start": 124.44,
-    "word": "we're"
+    "start": 124.53,
+    "text": "we're"
   },
   {
-    "start": 124.63,
+    "start": 124.64,
     "end": 125.42,
-    "word": "increasingly"
+    "text": "increasingly"
   },
   {
-    "word": "integrating",
+    "text": "integrating",
     "start": 125.56,
     "end": 126.32
   },
   {
     "end": 127.22,
     "start": 126.49,
-    "word": "robots"
+    "text": "robots"
   },
   {
     "end": 127.53,
     "start": 127.22,
-    "word": "into"
+    "text": "into"
   },
   {
     "start": 127.53,
     "end": 128.09,
-    "word": "our"
+    "text": "our"
   },
   {
-    "word": "lives,",
-    "start": 128.04,
+    "text": "lives,",
+    "start": 128.09,
     "end": 128.505
   },
   {
-    "word": "an",
+    "text": "an",
     "start": 128.55,
     "end": 128.92000000000002
   },
   {
-    "word": "instinct",
+    "text": "instinct",
     "start": 129.06,
     "end": 129.335
   },
   {
     "end": 129.75,
     "start": 129.57,
-    "word": "like"
+    "text": "like"
   },
   {
     "end": 130.04,
     "start": 129.75,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 130.39,
     "start": 130.04,
-    "word": "might"
+    "text": "might"
   },
   {
     "end": 130.75,
     "start": 130.39,
-    "word": "actually"
+    "text": "actually"
   },
   {
     "end": 130.88,
     "start": 130.75,
-    "word": "have"
+    "text": "have"
   },
   {
     "end": 133.44,
     "start": 130.88,
-    "word": "consequences,"
+    "text": "consequences,"
   },
   {
     "end": 133.68,
     "start": 133.44,
-    "word": "because"
+    "text": "because"
   },
   {
     "end": 133.76,
     "start": 133.68,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 134.02,
     "start": 133.76,
-    "word": "first"
+    "text": "first"
   },
   {
     "start": 134.02,
     "end": 134.2,
-    "word": "thing"
+    "text": "thing"
   },
   {
-    "word": "that",
-    "start": 134.13,
+    "text": "that",
+    "start": 134.2,
     "end": 134.265
   },
   {
     "end": 134.33,
-    "start": 134.24,
-    "word": "I"
+    "start": 134.265,
+    "text": "I"
   },
   {
     "end": 135.16,
     "start": 134.33,
-    "word": "discovered"
+    "text": "discovered"
   },
   {
     "end": 135.34,
     "start": 135.16,
-    "word": "is"
+    "text": "is"
   },
   {
     "end": 135.55,
     "start": 135.34,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 135.8,
     "start": 135.55,
-    "word": "it's"
+    "text": "it's"
   },
   {
     "end": 136.04,
     "start": 135.8,
-    "word": "not"
+    "text": "not"
   },
   {
     "end": 136.41,
     "start": 136.04,
-    "word": "just"
+    "text": "just"
   },
   {
     "end": 139.25,
     "start": 136.41,
-    "word": "me."
+    "text": "me."
   },
   {
-    "start": 136.98,
+    "start": 139.25,
     "end": 139.41,
-    "word": "In"
+    "text": "In"
   },
   {
-    "word": "2007,",
-    "start": 138.865,
+    "text": "2007,",
+    "start": 139.41,
     "end": 140.145
   },
   {
     "end": 140.88,
     "start": 140.75,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 141.4,
     "start": 140.88,
-    "word": "Washington"
+    "text": "Washington"
   },
   {
     "end": 141.74,
     "start": 141.4,
-    "word": "Post"
+    "text": "Post"
   },
   {
     "end": 142.27,
     "start": 141.74,
-    "word": "reported"
+    "text": "reported"
   },
   {
     "end": 142.42,
     "start": 142.27,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 142.51,
     "start": 142.42,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 142.92,
     "start": 142.51,
-    "word": "United"
+    "text": "United"
   },
   {
     "end": 143.21,
     "start": 142.92,
-    "word": "States"
+    "text": "States"
   },
   {
     "end": 144.08,
     "start": 143.21,
-    "word": "military"
+    "text": "military"
   },
   {
     "end": 144.28,
     "start": 144.08,
-    "word": "was"
+    "text": "was"
   },
   {
     "end": 144.82,
     "start": 144.28,
-    "word": "testing"
+    "text": "testing"
   },
   {
     "end": 145.33,
     "start": 144.82,
-    "word": "this"
+    "text": "this"
   },
   {
-    "start": 145.13,
+    "start": 145.33,
     "end": 145.75,
-    "word": "robot"
+    "text": "robot"
   },
   {
-    "word": "that",
-    "start": 145.4090909090909,
+    "text": "that",
+    "start": 145.75,
     "end": 145.99363636363637
   },
   {
-    "word": "defused",
-    "start": 145.68818181818182,
+    "text": "defused",
+    "start": 145.99363636363637,
     "end": 146.23727272727274
   },
   {
-    "word": "land",
-    "start": 145.96727272727273,
+    "text": "land",
+    "start": 146.23727272727274,
     "end": 146.48090909090908
   },
   {
-    "word": "mines.",
-    "start": 146.24636363636364,
+    "text": "mines.",
+    "start": 146.48090909090908,
     "end": 146.72454545454545
   },
   {
-    "word": "And",
-    "start": 146.52545454545452,
+    "text": "And",
+    "start": 146.72454545454545,
     "end": 146.96818181818182
   },
   {
-    "word": "the",
-    "start": 146.80454545454546,
+    "text": "the",
+    "start": 146.96818181818182,
     "end": 147.21181818181816
   },
   {
-    "word": "way",
-    "start": 147.08363636363634,
+    "text": "way",
+    "start": 147.21181818181816,
     "end": 147.45545454545453
   },
   {
-    "word": "it",
-    "start": 147.36272727272728,
+    "text": "it",
+    "start": 147.45545454545453,
     "end": 147.6990909090909
   },
   {
-    "word": "worked",
-    "start": 147.64181818181817,
+    "text": "worked",
+    "start": 147.6990909090909,
     "end": 147.94272727272727
   },
   {
-    "word": "was",
-    "start": 147.92090909090908,
+    "text": "was",
+    "start": 147.94272727272727,
     "end": 148.18636363636364
   },
   {
     "end": 148.43,
     "start": 148.2,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 148.59,
     "start": 148.43,
-    "word": "was"
+    "text": "was"
   },
   {
     "end": 148.95,
     "start": 148.59,
-    "word": "shaped"
+    "text": "shaped"
   },
   {
     "end": 149.09,
     "start": 148.95,
-    "word": "like"
+    "text": "like"
   },
   {
     "end": 149.16,
     "start": 149.09,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 149.59,
     "start": 149.16,
-    "word": "stick"
+    "text": "stick"
   },
   {
     "end": 150.1,
     "start": 149.59,
-    "word": "insect"
+    "text": "insect"
   },
   {
-    "start": 150.09,
+    "start": 150.1,
     "end": 150.4,
-    "word": "and"
+    "text": "and"
   },
   {
-    "word": "it",
-    "start": 150.29333333333335,
+    "text": "it",
+    "start": 150.4,
     "end": 150.57999999999998
   },
   {
-    "word": "would",
-    "start": 150.49666666666667,
+    "text": "would",
+    "start": 150.57999999999998,
     "end": 150.76
   },
   {
     "end": 150.94,
-    "start": 150.7,
-    "word": "walk"
+    "start": 150.76,
+    "text": "walk"
   },
   {
     "end": 151.16,
     "start": 150.94,
-    "word": "around"
+    "text": "around"
   },
   {
     "end": 151.2,
     "start": 151.16,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 151.8,
     "start": 151.2,
-    "word": "minefield"
+    "text": "minefield"
   },
   {
     "end": 151.89,
     "start": 151.8,
-    "word": "on"
+    "text": "on"
   },
   {
     "end": 152.06,
     "start": 151.89,
-    "word": "its"
+    "text": "its"
   },
   {
     "end": 152.83,
     "start": 152.06,
-    "word": "legs,"
+    "text": "legs,"
   },
   {
     "end": 153.07,
     "start": 152.83,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 153.29,
     "start": 153.07,
-    "word": "every"
+    "text": "every"
   },
   {
     "start": 153.29,
     "end": 153.47,
-    "word": "time"
+    "text": "time"
   },
   {
-    "word": "it",
-    "start": 153.415,
+    "text": "it",
+    "start": 153.47,
     "end": 153.685
   },
   {
     "end": 153.9,
-    "start": 153.54,
-    "word": "stepped"
+    "start": 153.685,
+    "text": "stepped"
   },
   {
     "end": 153.98,
     "start": 153.9,
-    "word": "on"
+    "text": "on"
   },
   {
     "end": 154.03,
     "start": 153.98,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 154.48,
     "start": 154.03,
-    "word": "mine,"
+    "text": "mine,"
   },
   {
     "end": 154.64,
     "start": 154.48,
-    "word": "one"
+    "text": "one"
   },
   {
     "end": 154.73,
     "start": 154.64,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 154.82,
     "start": 154.73,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 155.09,
     "start": 154.82,
-    "word": "legs"
+    "text": "legs"
   },
   {
     "end": 155.21,
     "start": 155.09,
-    "word": "would"
+    "text": "would"
   },
   {
     "end": 155.47,
     "start": 155.21,
-    "word": "blow"
+    "text": "blow"
   },
   {
     "end": 155.79,
     "start": 155.47,
-    "word": "up,"
+    "text": "up,"
   },
   {
-    "start": 155.76,
+    "start": 155.79,
     "end": 155.99,
-    "word": "and"
+    "text": "and"
   },
   {
-    "word": "it",
-    "start": 155.84666666666666,
+    "text": "it",
+    "start": 155.99,
     "end": 156.17000000000002
   },
   {
-    "word": "would",
-    "start": 155.93333333333334,
+    "text": "would",
+    "start": 156.17000000000002,
     "end": 156.35000000000002
   },
   {
     "end": 156.53,
-    "start": 156.02,
-    "word": "continue"
+    "start": 156.35000000000002,
+    "text": "continue"
   },
   {
     "end": 156.63,
     "start": 156.53,
-    "word": "on"
+    "text": "on"
   },
   {
     "end": 156.71,
     "start": 156.63,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 156.91,
     "start": 156.71,
-    "word": "other"
+    "text": "other"
   },
   {
     "end": 157.28,
     "start": 156.91,
-    "word": "legs"
+    "text": "legs"
   },
   {
     "end": 157.39,
     "start": 157.28,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 157.58,
     "start": 157.39,
-    "word": "blow"
+    "text": "blow"
   },
   {
     "start": 157.58,
     "end": 157.73,
-    "word": "up"
+    "text": "up"
   },
   {
-    "word": "more",
+    "text": "more",
     "start": 158.13000000000002,
     "end": 158.33
   },
   {
-    "word": "mines.",
+    "text": "mines.",
     "start": 158.68,
     "end": 158.93
   },
   {
     "end": 159.53,
     "start": 159.23,
-    "word": "And"
+    "text": "And"
   },
   {
     "end": 159.69,
     "start": 159.53,
-    "word": "the"
+    "text": "the"
   },
   {
     "start": 159.69,
     "end": 160.15,
-    "word": "colonel"
+    "text": "colonel"
   },
   {
-    "word": "who",
-    "start": 159.92000000000002,
+    "text": "who",
+    "start": 160.15,
     "end": 160.255
   },
   {
     "end": 160.36,
-    "start": 160.15,
-    "word": "was"
+    "start": 160.255,
+    "text": "was"
   },
   {
     "end": 160.46,
     "start": 160.36,
-    "word": "in"
+    "text": "in"
   },
   {
     "end": 160.94,
     "start": 160.46,
-    "word": "charge"
+    "text": "charge"
   },
   {
     "end": 161.03,
     "start": 160.94,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 161.2,
     "start": 161.03,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 161.72,
     "start": 161.2,
-    "word": "testing"
+    "text": "testing"
   },
   {
     "start": 161.72,
     "end": 162.65,
-    "word": "exercise"
+    "text": "exercise"
   },
   {
-    "word": "ends",
-    "start": 162.21,
+    "text": "ends",
+    "start": 162.65,
     "end": 162.965
   },
   {
-    "word": "up",
-    "start": 162.70000000000002,
+    "text": "up",
+    "start": 162.965,
     "end": 163.28
   },
   {
-    "word": "calling",
-    "start": 163.19,
+    "text": "calling",
+    "start": 163.28,
     "end": 163.595
   },
   {
     "end": 163.91,
     "start": 163.68,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 165.18,
     "start": 163.91,
-    "word": "off,"
+    "text": "off,"
   },
   {
     "end": 165.59,
     "start": 165.18,
-    "word": "because,"
+    "text": "because,"
   },
   {
     "end": 165.74,
     "start": 165.59,
-    "word": "he"
+    "text": "he"
   },
   {
     "end": 166.19,
     "start": 165.74,
-    "word": "says,"
+    "text": "says,"
   },
   {
     "end": 166.49,
     "start": 166.19,
-    "word": "it's"
+    "text": "it's"
   },
   {
     "end": 166.77,
     "start": 166.49,
-    "word": "too"
+    "text": "too"
   },
   {
     "end": 167.63,
     "start": 166.77,
-    "word": "inhumane"
+    "text": "inhumane"
   },
   {
     "end": 167.82,
     "start": 167.63,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 168.38,
     "start": 167.82,
-    "word": "watch"
+    "text": "watch"
   },
   {
     "end": 168.6,
     "start": 168.38,
-    "word": "this"
+    "text": "this"
   },
   {
     "start": 168.6,
     "end": 169.1,
-    "word": "damaged"
+    "text": "damaged"
   },
   {
-    "word": "robot",
+    "text": "robot",
     "start": 169.1,
     "end": 169.54999999999998
   },
   {
-    "word": "drag",
+    "text": "drag",
     "start": 169.6,
     "end": 169.99999999999997
   },
   {
     "end": 170.45,
     "start": 170.1,
-    "word": "itself"
+    "text": "itself"
   },
   {
     "start": 170.45,
     "end": 170.95,
-    "word": "along"
+    "text": "along"
   },
   {
-    "word": "the",
+    "text": "the",
     "start": 171.95,
     "end": 172.3633333333333
   },
   {
-    "word": "minefield.",
+    "text": "minefield.",
     "start": 173.45,
     "end": 173.7766666666667
   },
   {
     "end": 175.19,
     "start": 174.95,
-    "word": "Now,"
+    "text": "Now,"
   },
   {
     "end": 175.41,
     "start": 175.19,
-    "word": "what"
+    "text": "what"
   },
   {
     "end": 175.54,
     "start": 175.41,
-    "word": "would"
+    "text": "would"
   },
   {
     "end": 176.24,
     "start": 175.54,
-    "word": "cause"
+    "text": "cause"
   },
   {
     "end": 176.42,
     "start": 176.24,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 176.97,
     "start": 176.42,
-    "word": "hardened"
+    "text": "hardened"
   },
   {
     "end": 177.67,
     "start": 176.97,
-    "word": "military"
+    "text": "military"
   },
   {
     "end": 178.8,
     "start": 177.67,
-    "word": "officer"
+    "text": "officer"
   },
   {
     "end": 179.05,
     "start": 178.8,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 179.44,
     "start": 179.05,
-    "word": "someone"
+    "text": "someone"
   },
   {
     "end": 179.6,
     "start": 179.44,
-    "word": "like"
+    "text": "like"
   },
   {
     "end": 180.95,
     "start": 179.6,
-    "word": "myself"
+    "text": "myself"
   },
   {
     "end": 181.1,
     "start": 180.95,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 181.29,
     "start": 181.1,
-    "word": "have"
+    "text": "have"
   },
   {
     "end": 181.44,
     "start": 181.29,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 181.94,
     "start": 181.44,
-    "word": "response"
+    "text": "response"
   },
   {
     "start": 181.94,
     "end": 182.06,
-    "word": "to"
+    "text": "to"
   },
   {
-    "word": "robots?",
+    "text": "robots?",
     "start": 182.65000000000003,
     "end": 182.7833333333333
   },
   {
-    "word": "Well,",
+    "text": "Well,",
     "start": 183.36,
     "end": 183.5066666666666
   },
   {
     "end": 184.23,
     "start": 184.07,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 184.53,
     "start": 184.23,
-    "word": "course,"
+    "text": "course,"
   },
   {
     "end": 184.65,
     "start": 184.53,
-    "word": "we're"
+    "text": "we're"
   },
   {
     "end": 185.2,
     "start": 184.65,
-    "word": "primed"
+    "text": "primed"
   },
   {
     "end": 185.32,
     "start": 185.2,
-    "word": "by"
+    "text": "by"
   },
   {
     "end": 185.78,
     "start": 185.32,
-    "word": "science"
+    "text": "science"
   },
   {
     "start": 185.78,
     "end": 186.09,
-    "word": "fiction"
+    "text": "fiction"
   },
   {
-    "word": "and",
-    "start": 185.935,
+    "text": "and",
+    "start": 186.09,
     "end": 186.26999999999998
   },
   {
     "end": 186.45,
-    "start": 186.09,
-    "word": "pop"
+    "start": 186.26999999999998,
+    "text": "pop"
   },
   {
     "start": 186.45,
     "end": 186.87,
-    "word": "culture"
+    "text": "culture"
   },
   {
-    "word": "to",
-    "start": 186.675,
+    "text": "to",
+    "start": 186.87,
     "end": 187.025
   },
   {
-    "start": 186.9,
+    "start": 187.025,
     "confidence": 1,
     "end": 187.18,
-    "word": "really",
+    "text": "really",
     "punct": "really",
     "index": 414
   },
   {
-    "word": "want",
+    "text": "want",
     "start": 187.19,
     "end": 187.4625
   },
   {
-    "word": "to",
+    "text": "to",
     "start": 187.48,
     "end": 187.745
   },
   {
-    "word": "personify",
+    "text": "personify",
     "start": 187.76999999999998,
     "end": 188.0275
   },
   {
     "end": 188.31,
     "start": 188.06,
-    "word": "these"
+    "text": "these"
   },
   {
     "end": 189.47,
     "start": 188.31,
-    "word": "things,"
+    "text": "things,"
   },
   {
     "end": 189.76,
     "start": 189.47,
-    "word": "but"
+    "text": "but"
   },
   {
     "end": 189.89,
     "start": 189.76,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 190.08,
     "start": 189.89,
-    "word": "goes"
+    "text": "goes"
   },
   {
     "end": 190.13,
     "start": 190.08,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 190.33,
     "start": 190.13,
-    "word": "little"
+    "text": "little"
   },
   {
     "end": 190.49,
     "start": 190.33,
-    "word": "bit"
+    "text": "bit"
   },
   {
     "end": 190.8,
     "start": 190.49,
-    "word": "deeper"
+    "text": "deeper"
   },
   {
     "end": 190.94,
     "start": 190.8,
-    "word": "than"
+    "text": "than"
   },
   {
     "end": 192.24,
     "start": 190.94,
-    "word": "that."
+    "text": "that."
   },
   {
     "end": 192.38,
     "start": 192.24,
-    "word": "It"
+    "text": "It"
   },
   {
     "end": 192.7,
     "start": 192.38,
-    "word": "turns"
+    "text": "turns"
   },
   {
     "end": 192.82,
     "start": 192.7,
-    "word": "out"
+    "text": "out"
   },
   {
     "start": 192.82,
     "end": 192.95,
-    "word": "that"
+    "text": "that"
   },
   {
-    "word": "we're",
+    "text": "we're",
     "start": 192.95000000000002,
     "end": 193.45
   },
   {
-    "start": 193.08,
+    "start": 193.45,
     "confidence": 1,
     "end": 193.95,
-    "word": "biologically",
+    "text": "biologically",
     "punct": "biologically",
     "index": 434
   },
   {
-    "word": "hardwired",
+    "text": "hardwired",
     "start": 194.02,
     "end": 194.51999999999998
   },
   {
     "end": 195.09,
     "start": 194.96,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 196.1,
     "start": 195.09,
-    "word": "project"
+    "text": "project"
   },
   {
     "end": 196.9,
     "start": 196.1,
-    "word": "intent"
+    "text": "intent"
   },
   {
     "end": 197.19,
     "start": 196.9,
-    "word": "and"
+    "text": "and"
   },
   {
-    "start": 197.16,
+    "start": 197.19,
     "end": 197.62,
-    "word": "life"
+    "text": "life"
   },
   {
-    "word": "onto",
+    "text": "onto",
     "start": 197.70666666666668,
     "end": 198.20666666666665
   },
   {
-    "word": "any",
+    "text": "any",
     "start": 198.25333333333336,
     "end": 198.7933333333333
   },
   {
     "end": 199.38,
     "start": 198.8,
-    "word": "movement"
+    "text": "movement"
   },
   {
     "start": 199.38,
     "end": 199.48,
-    "word": "in"
+    "text": "in"
   },
   {
-    "word": "our",
-    "start": 199.47,
+    "text": "our",
+    "start": 199.48,
     "end": 199.8
   },
   {
     "end": 200.12,
-    "start": 199.56,
-    "word": "physical"
+    "start": 199.8,
+    "text": "physical"
   },
   {
     "start": 200.12,
     "end": 200.52,
-    "word": "space"
+    "text": "space"
   },
   {
-    "word": "that",
-    "start": 200.39499999999998,
+    "text": "that",
+    "start": 200.52,
     "end": 200.82500000000002
   },
   {
-    "start": 200.67,
+    "start": 200.82500000000002,
     "confidence": 1,
     "end": 201.13,
-    "word": "seems",
+    "text": "seems",
     "punct": "seems",
     "index": 450
   },
   {
-    "word": "autonomous",
+    "text": "autonomous",
     "start": 201.24500000000003,
     "end": 201.545
   },
   {
     "end": 201.96,
     "start": 201.82,
-    "word": "to"
+    "text": "to"
   },
   {
     "start": 201.96,
     "end": 202.44,
-    "word": "us."
+    "text": "us."
   },
   {
-    "word": "So",
+    "text": "So",
     "start": 202.67000000000004,
     "end": 203.09500000000003
   },
@@ -2502,52 +2502,52 @@
     "start": 203.38,
     "confidence": 1,
     "end": 203.75,
-    "word": "people",
+    "text": "people",
     "punct": "people",
     "index": 456
   },
   {
-    "word": "will",
-    "start": 203.565,
+    "text": "will",
+    "start": 203.75,
     "end": 203.89
   },
   {
     "end": 204.03,
-    "start": 203.75,
-    "word": "treat"
+    "start": 203.89,
+    "text": "treat"
   },
   {
-    "start": 204,
+    "start": 204.03,
     "end": 204.22,
-    "word": "all"
+    "text": "all"
   },
   {
-    "word": "sorts",
+    "text": "sorts",
     "start": 204.235,
     "end": 204.405
   },
   {
     "end": 204.59,
     "start": 204.47,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 204.95,
     "start": 204.59,
-    "word": "robots"
+    "text": "robots"
   },
   {
     "start": 204.95,
     "end": 205.13,
-    "word": "like"
+    "text": "like"
   },
   {
-    "word": "they're",
+    "text": "they're",
     "start": 205.52666666666664,
     "end": 205.73666666666668
   },
   {
-    "word": "alive.",
+    "text": "alive.",
     "start": 206.1033333333333,
     "end": 206.34333333333336
   },
@@ -2555,217 +2555,217 @@
     "start": 206.68,
     "confidence": 0.91,
     "end": 206.95,
-    "word": "These",
+    "text": "These",
     "punct": "these",
     "index": 466
   },
   {
-    "word": "bomb-disposal",
+    "text": "bomb-disposal",
     "start": 207.365,
     "end": 207.765
   },
   {
     "end": 208.58,
     "start": 208.05,
-    "word": "units"
+    "text": "units"
   },
   {
     "end": 208.76,
     "start": 208.58,
-    "word": "get"
+    "text": "get"
   },
   {
     "end": 209.42,
     "start": 208.76,
-    "word": "names."
+    "text": "names."
   },
   {
     "end": 209.54,
     "start": 209.42,
-    "word": "They"
+    "text": "They"
   },
   {
     "end": 209.73,
     "start": 209.54,
-    "word": "get"
+    "text": "get"
   },
   {
     "end": 210.18,
     "start": 209.73,
-    "word": "medals"
+    "text": "medals"
   },
   {
     "start": 210.18,
     "end": 210.27,
-    "word": "of"
+    "text": "of"
   },
   {
-    "word": "honor.",
+    "text": "honor.",
     "start": 210.64000000000001,
     "end": 210.77
   },
   {
     "end": 211.27,
     "start": 211.1,
-    "word": "They've"
+    "text": "They've"
   },
   {
     "end": 211.41,
     "start": 211.27,
-    "word": "had"
+    "text": "had"
   },
   {
     "end": 212.05,
     "start": 211.41,
-    "word": "funerals"
+    "text": "funerals"
   },
   {
     "end": 212.19,
     "start": 212.05,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 212.37,
     "start": 212.19,
-    "word": "them"
+    "text": "them"
   },
   {
     "end": 212.53,
     "start": 212.37,
-    "word": "with"
+    "text": "with"
   },
   {
     "end": 212.81,
     "start": 212.53,
-    "word": "gun"
+    "text": "gun"
   },
   {
     "start": 212.81,
     "end": 213.35,
-    "word": "salutes."
+    "text": "salutes."
   },
   {
-    "word": "And",
+    "text": "And",
     "start": 213.87499999999994,
     "end": 214.35500000000002
   },
   {
     "end": 215.36,
     "start": 214.94,
-    "word": "research"
+    "text": "research"
   },
   {
     "end": 215.58,
     "start": 215.36,
-    "word": "shows"
+    "text": "shows"
   },
   {
     "end": 215.67,
     "start": 215.58,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 215.76,
     "start": 215.67,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 215.88,
     "start": 215.76,
-    "word": "do"
+    "text": "do"
   },
   {
     "end": 216.09,
     "start": 215.88,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 216.33,
     "start": 216.09,
-    "word": "even"
+    "text": "even"
   },
   {
     "end": 216.5,
     "start": 216.33,
-    "word": "with"
+    "text": "with"
   },
   {
     "end": 216.8,
     "start": 216.5,
-    "word": "very"
+    "text": "very"
   },
   {
     "end": 217.19,
     "start": 216.8,
-    "word": "simple"
+    "text": "simple"
   },
   {
     "end": 217.76,
     "start": 217.19,
-    "word": "household"
+    "text": "household"
   },
   {
     "end": 218.27,
     "start": 217.76,
-    "word": "robots,"
+    "text": "robots,"
   },
   {
     "end": 218.83,
     "start": 218.27,
-    "word": "like"
+    "text": "like"
   },
   {
-    "start": 218.57,
+    "start": 218.83,
     "end": 219.03,
-    "word": "the"
+    "text": "the"
   },
   {
-    "word": "Roomba",
-    "start": 218.98999999999998,
+    "text": "Roomba",
+    "start": 219.03,
     "end": 219.44
   },
   {
     "end": 219.85,
-    "start": 219.41,
-    "word": "vacuum"
+    "start": 219.44,
+    "text": "vacuum"
   },
   {
     "start": 219.85,
     "end": 220.29,
-    "word": "cleaner."
+    "text": "cleaner."
   },
   {
-    "word": "(Laughter)",
+    "text": "(Laughter)",
     "start": 220.46,
     "end": 220.83666666666667
   },
   {
-    "word": "It's",
+    "text": "It's",
     "start": 221.07000000000002,
     "end": 221.38333333333335
   },
   {
     "end": 221.93,
     "start": 221.68,
-    "word": "just"
+    "text": "just"
   },
   {
     "start": 221.93,
     "end": 222,
-    "word": "a"
+    "text": "a"
   },
   {
-    "word": "disc",
+    "text": "disc",
     "start": 222.1925,
     "end": 222.32
   },
   {
-    "word": "that",
+    "text": "that",
     "start": 222.45499999999998,
     "end": 222.64
   },
   {
-    "word": "roams",
+    "text": "roams",
     "start": 222.7175,
     "end": 222.96
   },
@@ -2773,147 +2773,147 @@
     "start": 222.98,
     "confidence": 1,
     "end": 223.28,
-    "word": "around",
+    "text": "around",
     "punct": "around",
     "index": 509
   },
   {
-    "word": "your",
-    "start": 223.2,
+    "text": "your",
+    "start": 223.28,
     "end": 223.53
   },
   {
-    "word": "floor",
-    "start": 223.42000000000002,
+    "text": "floor",
+    "start": 223.53,
     "end": 223.78
   },
   {
-    "word": "to",
-    "start": 223.64000000000001,
+    "text": "to",
+    "start": 223.78,
     "end": 224.03
   },
   {
     "end": 224.28,
-    "start": 223.86,
-    "word": "clean"
+    "start": 224.03,
+    "text": "clean"
   },
   {
-    "start": 224.25,
+    "start": 224.28,
     "end": 224.49,
-    "word": "it,"
+    "text": "it,"
   },
   {
-    "word": "but",
+    "text": "but",
     "start": 224.545,
     "end": 224.75500000000002
   },
   {
     "end": 225.02,
     "start": 224.84,
-    "word": "just"
+    "text": "just"
   },
   {
     "end": 225.1,
     "start": 225.02,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 225.57,
     "start": 225.1,
-    "word": "fact"
+    "text": "fact"
   },
   {
     "end": 225.74,
     "start": 225.57,
-    "word": "it's"
+    "text": "it's"
   },
   {
     "end": 226.23,
     "start": 225.74,
-    "word": "moving"
+    "text": "moving"
   },
   {
     "end": 226.56,
     "start": 226.23,
-    "word": "around"
+    "text": "around"
   },
   {
     "start": 226.56,
     "end": 226.67,
-    "word": "on"
+    "text": "on"
   },
   {
-    "word": "its",
+    "text": "its",
     "start": 226.69500000000002,
     "end": 226.89
   },
   {
     "end": 227.11,
-    "start": 226.83,
-    "word": "own"
+    "start": 226.89,
+    "text": "own"
   },
   {
     "end": 227.22,
     "start": 227.11,
-    "word": "will"
+    "text": "will"
   },
   {
     "end": 227.55,
     "start": 227.22,
-    "word": "cause"
+    "text": "cause"
   },
   {
     "end": 227.8,
     "start": 227.55,
-    "word": "people"
+    "text": "people"
   },
   {
     "end": 227.97,
     "start": 227.8,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 228.42,
     "start": 227.97,
-    "word": "name"
+    "text": "name"
   },
   {
     "start": 228.42,
     "end": 228.5,
-    "word": "the"
+    "text": "the"
   },
   {
-    "word": "Roomba",
+    "text": "Roomba",
     "start": 228.76,
     "end": 228.9
   },
   {
-    "word": "and",
+    "text": "and",
     "start": 229.1,
     "end": 229.29999999999998
   },
   {
     "end": 229.7,
     "start": 229.44,
-    "word": "feel"
+    "text": "feel"
   },
   {
     "end": 230.13,
     "start": 229.7,
-    "word": "bad"
+    "text": "bad"
   },
   {
     "end": 230.29,
     "start": 230.13,
-    "word": "for"
+    "text": "for"
   },
   {
     "start": 230.29,
     "end": 230.4,
-    "word": "the"
+    "text": "the"
   },
   {
-    "word": "Roomba",
+    "text": "Roomba",
     "start": 230.51500000000001,
     "end": 230.625
   },
@@ -2921,561 +2921,561 @@
     "start": 230.74,
     "confidence": 0.78,
     "end": 230.85,
-    "word": "when",
+    "text": "when",
     "punct": "when",
     "index": 538
   },
   {
-    "word": "it",
-    "start": 230.835,
+    "text": "it",
+    "start": 230.85,
     "end": 230.98499999999999
   },
   {
     "end": 231.12,
-    "start": 230.93,
-    "word": "gets"
+    "start": 230.98499999999999,
+    "text": "gets"
   },
   {
     "end": 231.44,
     "start": 231.12,
-    "word": "stuck"
+    "text": "stuck"
   },
   {
     "end": 231.63,
     "start": 231.44,
-    "word": "under"
+    "text": "under"
   },
   {
     "end": 231.74,
     "start": 231.63,
-    "word": "the"
+    "text": "the"
   },
   {
     "start": 231.74,
     "end": 232.56,
-    "word": "couch."
+    "text": "couch."
   },
   {
-    "word": "(Laughter)",
+    "text": "(Laughter)",
     "start": 232.985,
     "end": 233.57
   },
   {
     "end": 234.58,
     "start": 234.23,
-    "word": "And"
+    "text": "And"
   },
   {
     "end": 234.71,
     "start": 234.58,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 234.87,
     "start": 234.71,
-    "word": "can"
+    "text": "can"
   },
   {
     "start": 234.87,
     "end": 235.36,
-    "word": "design"
+    "text": "design"
   },
   {
-    "word": "robots",
-    "start": 235.275,
+    "text": "robots",
+    "start": 235.36,
     "end": 235.925
   },
   {
     "end": 236.49,
-    "start": 235.68,
-    "word": "specifically"
+    "start": 235.925,
+    "text": "specifically"
   },
   {
     "start": 236.49,
     "end": 236.66,
-    "word": "to"
+    "text": "to"
   },
   {
-    "word": "evoke",
+    "text": "evoke",
     "start": 236.75,
     "end": 236.935
   },
   {
     "end": 237.21,
     "start": 237.01,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 237.78,
     "start": 237.21,
-    "word": "response,"
+    "text": "response,"
   },
   {
     "end": 238.2,
     "start": 237.78,
-    "word": "using"
+    "text": "using"
   },
   {
     "end": 239.17,
     "start": 238.2,
-    "word": "eyes"
+    "text": "eyes"
   },
   {
     "end": 239.34,
     "start": 239.17,
-    "word": "and"
+    "text": "and"
   },
   {
     "start": 239.34,
     "end": 240.23,
-    "word": "faces"
+    "text": "faces"
   },
   {
-    "word": "or",
-    "start": 239.96,
+    "text": "or",
+    "start": 240.23,
     "end": 240.64499999999998
   },
   {
-    "start": 240.58,
+    "start": 240.64499999999998,
     "confidence": 0.65,
     "end": 241.06,
-    "word": "movements",
+    "text": "movements",
     "punct": "movements",
     "index": 560
   },
   {
-    "word": "that",
-    "start": 240.965,
+    "text": "that",
+    "start": 241.06,
     "end": 241.385
   },
   {
-    "start": 241.35,
+    "start": 241.385,
     "confidence": 1,
     "end": 241.71,
-    "word": "people",
+    "text": "people",
     "punct": "People",
     "index": 562
   },
   {
-    "word": "automatically,",
+    "text": "automatically,",
     "start": 241.94499999999996,
     "end": 242.59000000000003
   },
   {
-    "start": 242.54,
+    "start": 242.59000000000003,
     "confidence": 0.98,
     "end": 243.47,
-    "word": "subconsciously",
+    "text": "subconsciously",
     "punct": "subconsciously",
     "index": 565
   },
   {
-    "word": "associate",
+    "text": "associate",
     "start": 243.55499999999995,
     "end": 244.105
   },
   {
     "end": 244.74,
     "start": 244.57,
-    "word": "with"
+    "text": "with"
   },
   {
     "end": 245.09,
     "start": 244.74,
-    "word": "states"
+    "text": "states"
   },
   {
     "end": 245.18,
     "start": 245.09,
-    "word": "of"
+    "text": "of"
   },
   {
     "start": 245.18,
     "end": 245.85,
-    "word": "mind."
+    "text": "mind."
   },
   {
-    "word": "And",
+    "text": "And",
     "start": 245.89499999999998,
     "end": 246.345
   },
   {
     "end": 246.84,
     "start": 246.61,
-    "word": "there's"
+    "text": "there's"
   },
   {
     "end": 246.95,
     "start": 246.84,
-    "word": "an"
+    "text": "an"
   },
   {
     "end": 247.37,
     "start": 246.95,
-    "word": "entire"
+    "text": "entire"
   },
   {
     "end": 247.58,
     "start": 247.37,
-    "word": "body"
+    "text": "body"
   },
   {
     "end": 247.69,
     "start": 247.58,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 248.11,
     "start": 247.69,
-    "word": "research"
+    "text": "research"
   },
   {
     "start": 248.11,
     "end": 248.33,
-    "word": "called"
+    "text": "called"
   },
   {
-    "word": "human-robot",
+    "text": "human-robot",
     "start": 248.5,
     "end": 248.845
   },
   {
     "end": 249.36,
     "start": 248.89,
-    "word": "interaction"
+    "text": "interaction"
   },
   {
     "end": 249.64,
     "start": 249.36,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 249.92,
     "start": 249.64,
-    "word": "really"
+    "text": "really"
   },
   {
     "end": 250.41,
     "start": 249.92,
-    "word": "shows"
+    "text": "shows"
   },
   {
     "end": 250.57,
     "start": 250.41,
-    "word": "how"
+    "text": "how"
   },
   {
     "end": 250.71,
     "start": 250.57,
-    "word": "well"
+    "text": "well"
   },
   {
     "end": 250.89,
     "start": 250.71,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 251.66,
     "start": 250.89,
-    "word": "works."
+    "text": "works."
   },
   {
     "end": 251.88,
     "start": 251.66,
-    "word": "So"
+    "text": "So"
   },
   {
     "end": 252.01,
     "start": 251.88,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 252.57,
     "start": 252.01,
-    "word": "example,"
+    "text": "example,"
   },
   {
     "end": 253.13,
     "start": 252.57,
-    "word": "researchers"
+    "text": "researchers"
   },
   {
     "end": 253.42,
     "start": 253.13,
-    "word": "at"
+    "text": "at"
   },
   {
     "end": 253.97,
     "start": 253.42,
-    "word": "Stanford"
+    "text": "Stanford"
   },
   {
     "end": 254.48,
     "start": 253.97,
-    "word": "University"
+    "text": "University"
   },
   {
     "end": 254.77,
     "start": 254.48,
-    "word": "found"
+    "text": "found"
   },
   {
     "end": 254.94,
     "start": 254.77,
-    "word": "out"
+    "text": "out"
   },
   {
     "start": 254.94,
     "end": 255.09,
-    "word": "that"
+    "text": "that"
   },
   {
-    "word": "it",
-    "start": 255.01999999999998,
+    "text": "it",
+    "start": 255.09,
     "end": 255.20499999999998
   },
   {
     "end": 255.32,
-    "start": 255.1,
-    "word": "makes"
+    "start": 255.20499999999998,
+    "text": "makes"
   },
   {
     "end": 255.67,
     "start": 255.32,
-    "word": "people"
+    "text": "people"
   },
   {
     "end": 255.93,
     "start": 255.67,
-    "word": "really"
+    "text": "really"
   },
   {
     "end": 256.58,
     "start": 255.93,
-    "word": "uncomfortable"
+    "text": "uncomfortable"
   },
   {
     "end": 256.68,
     "start": 256.58,
-    "word": "when"
+    "text": "when"
   },
   {
     "end": 256.82,
     "start": 256.68,
-    "word": "you"
+    "text": "you"
   },
   {
     "end": 257.05,
     "start": 256.82,
-    "word": "ask"
+    "text": "ask"
   },
   {
     "end": 257.17,
     "start": 257.05,
-    "word": "them"
+    "text": "them"
   },
   {
     "end": 257.27,
     "start": 257.17,
-    "word": "to"
+    "text": "to"
   },
   {
     "start": 257.27,
     "end": 257.54,
-    "word": "touch"
+    "text": "touch"
   },
   {
-    "word": "a",
-    "start": 257.50333333333333,
+    "text": "a",
+    "start": 257.54,
     "end": 257.82000000000005
   },
   {
-    "word": "robot's",
-    "start": 257.7366666666667,
+    "text": "robot's",
+    "start": 257.82000000000005,
     "end": 258.1
   },
   {
     "end": 258.38,
-    "start": 257.97,
-    "word": "private"
+    "start": 258.1,
+    "text": "private"
   },
   {
     "start": 258.38,
     "end": 258.94,
-    "word": "parts."
+    "text": "parts."
   },
   {
-    "word": "(Laughter)",
+    "text": "(Laughter)",
     "start": 259.4666666666666,
     "end": 259.93666666666667
   },
   {
-    "word": "So",
+    "text": "So",
     "start": 260.5533333333333,
     "end": 260.93333333333334
   },
   {
     "end": 261.93,
     "start": 261.64,
-    "word": "from"
+    "text": "from"
   },
   {
     "start": 261.93,
     "end": 262.11,
-    "word": "this,"
+    "text": "this,"
   },
   {
-    "word": "but",
-    "start": 262.08000000000004,
+    "text": "but",
+    "start": 262.11,
     "end": 262.295
   },
   {
     "end": 262.48,
-    "start": 262.23,
-    "word": "from"
+    "start": 262.295,
+    "text": "from"
   },
   {
     "end": 262.81,
     "start": 262.48,
-    "word": "many"
+    "text": "many"
   },
   {
     "end": 262.99,
     "start": 262.81,
-    "word": "other"
+    "text": "other"
   },
   {
     "end": 263.39,
     "start": 262.99,
-    "word": "studies,"
+    "text": "studies,"
   },
   {
     "end": 263.57,
     "start": 263.39,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 264.48,
     "start": 263.57,
-    "word": "know,"
+    "text": "know,"
   },
   {
     "end": 264.66,
     "start": 264.48,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 265.09,
     "start": 264.66,
-    "word": "know"
+    "text": "know"
   },
   {
     "end": 265.27,
     "start": 265.09,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 265.79,
     "start": 265.27,
-    "word": "people"
+    "text": "people"
   },
   {
     "end": 266.42,
     "start": 265.79,
-    "word": "respond"
+    "text": "respond"
   },
   {
     "end": 266.52,
     "start": 266.42,
-    "word": "to"
+    "text": "to"
   },
   {
     "start": 266.52,
     "end": 266.64,
-    "word": "the"
+    "text": "the"
   },
   {
-    "word": "cues",
+    "text": "cues",
     "start": 266.9,
     "end": 267.09999999999997
   },
   {
     "end": 267.56,
     "start": 267.28,
-    "word": "given"
+    "text": "given"
   },
   {
     "end": 267.67,
     "start": 267.56,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 267.88,
     "start": 267.67,
-    "word": "them"
+    "text": "them"
   },
   {
     "start": 267.88,
     "end": 267.99,
-    "word": "by"
+    "text": "by"
   },
   {
-    "word": "these",
+    "text": "these",
     "start": 268.03999999999996,
     "end": 268.34000000000003
   },
   {
     "end": 268.69,
-    "start": 268.2,
-    "word": "lifelike"
+    "start": 268.34000000000003,
+    "text": "lifelike"
   },
   {
     "end": 269.89,
     "start": 268.69,
-    "word": "machines,"
+    "text": "machines,"
   },
   {
     "end": 270.2,
     "start": 269.89,
-    "word": "even"
+    "text": "even"
   },
   {
     "end": 270.3,
     "start": 270.2,
-    "word": "if"
+    "text": "if"
   },
   {
     "end": 270.43,
     "start": 270.3,
-    "word": "they"
+    "text": "they"
   },
   {
     "end": 270.67,
     "start": 270.43,
-    "word": "know"
+    "text": "know"
   },
   {
     "end": 270.84,
     "start": 270.67,
-    "word": "that"
+    "text": "that"
   },
   {
     "start": 270.84,
     "end": 271.01,
-    "word": "they're"
+    "text": "they're"
   },
   {
-    "word": "not",
+    "text": "not",
     "start": 271.7524999999999,
     "end": 271.92999999999995
   },
   {
-    "word": "real.",
+    "text": "real.",
     "start": 272.6649999999999,
     "end": 272.85
   },
   {
-    "word": "Now,",
+    "text": "Now,",
     "start": 273.57749999999993,
     "end": 273.77
   },
@@ -3483,992 +3483,992 @@
     "start": 274.49,
     "confidence": 0.99,
     "end": 274.69,
-    "word": "we're",
+    "text": "we're",
     "punct": "We're",
     "index": 644
   },
   {
-    "word": "headed",
+    "text": "headed",
     "start": 274.725,
     "end": 274.95
   },
   {
     "end": 275.21,
     "start": 274.96,
-    "word": "towards"
+    "text": "towards"
   },
   {
     "end": 275.28,
     "start": 275.21,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 275.7,
     "start": 275.28,
-    "word": "world"
+    "text": "world"
   },
   {
     "start": 275.7,
     "end": 275.86,
-    "word": "where"
+    "text": "where"
   },
   {
-    "word": "robots",
+    "text": "robots",
     "start": 275.9866666666667,
     "end": 276.47333333333336
   },
   {
-    "word": "are",
-    "start": 276.2733333333333,
+    "text": "are",
+    "start": 276.47333333333336,
     "end": 277.08666666666664
   },
   {
     "end": 277.7,
-    "start": 276.56,
-    "word": "everywhere."
+    "start": 277.08666666666664,
+    "text": "everywhere."
   },
   {
     "end": 278.03,
     "start": 277.7,
-    "word": "Robotic"
+    "text": "Robotic"
   },
   {
     "end": 278.61,
     "start": 278.03,
-    "word": "technology"
+    "text": "technology"
   },
   {
     "end": 278.86,
     "start": 278.61,
-    "word": "is"
+    "text": "is"
   },
   {
     "end": 279.25,
     "start": 278.86,
-    "word": "moving"
+    "text": "moving"
   },
   {
     "end": 279.41,
     "start": 279.25,
-    "word": "out"
+    "text": "out"
   },
   {
     "end": 279.57,
     "start": 279.41,
-    "word": "from"
+    "text": "from"
   },
   {
     "end": 279.83,
     "start": 279.57,
-    "word": "behind"
+    "text": "behind"
   },
   {
     "start": 279.83,
     "end": 280.26,
-    "word": "factory"
+    "text": "factory"
   },
   {
-    "word": "walls.",
-    "start": 280.2,
+    "text": "walls.",
+    "start": 280.26,
     "end": 280.64666666666665
   },
   {
-    "word": "It's",
-    "start": 280.57,
+    "text": "It's",
+    "start": 280.64666666666665,
     "end": 281.03333333333336
   },
   {
     "end": 281.42,
-    "start": 280.94,
-    "word": "entering"
+    "start": 281.03333333333336,
+    "text": "entering"
   },
   {
     "end": 282.45,
     "start": 281.42,
-    "word": "workplaces,"
+    "text": "workplaces,"
   },
   {
     "end": 283.69,
     "start": 282.45,
-    "word": "households."
+    "text": "households."
   },
   {
     "end": 284.13,
     "start": 283.69,
-    "word": "And"
+    "text": "And"
   },
   {
     "end": 284.34,
     "start": 284.13,
-    "word": "as"
+    "text": "as"
   },
   {
     "end": 284.55,
     "start": 284.34,
-    "word": "these"
+    "text": "these"
   },
   {
     "start": 284.55,
     "end": 285.22,
-    "word": "machines"
+    "text": "machines"
   },
   {
-    "word": "that",
-    "start": 284.945,
+    "text": "that",
+    "start": 285.22,
     "end": 285.56500000000005
   },
   {
     "end": 285.91,
-    "start": 285.34,
-    "word": "can"
+    "start": 285.56500000000005,
+    "text": "can"
   },
   {
     "end": 286.68,
     "start": 285.91,
-    "word": "sense"
+    "text": "sense"
   },
   {
     "end": 287.16,
     "start": 286.68,
-    "word": "and"
+    "text": "and"
   },
   {
-    "start": 286.99,
+    "start": 287.16,
     "end": 287.34,
-    "word": "make"
+    "text": "make"
   },
   {
-    "word": "autonomous",
+    "text": "autonomous",
     "start": 287.51500000000004,
     "end": 288.015
   },
   {
     "end": 288.69,
     "start": 288.04,
-    "word": "decisions"
+    "text": "decisions"
   },
   {
     "end": 288.94,
     "start": 288.69,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 290.05,
     "start": 288.94,
-    "word": "learn"
+    "text": "learn"
   },
   {
     "end": 290.38,
     "start": 290.05,
-    "word": "enter"
+    "text": "enter"
   },
   {
     "start": 290.38,
     "end": 290.58,
-    "word": "into"
+    "text": "into"
   },
   {
-    "word": "these",
-    "start": 290.555,
+    "text": "these",
+    "start": 290.58,
     "end": 290.83
   },
   {
     "end": 291.08,
-    "start": 290.73,
-    "word": "shared"
+    "start": 290.83,
+    "text": "shared"
   },
   {
     "end": 292.68,
     "start": 291.08,
-    "word": "spaces,"
+    "text": "spaces,"
   },
   {
     "end": 292.78,
     "start": 292.68,
-    "word": "I"
+    "text": "I"
   },
   {
     "end": 293.01,
     "start": 292.78,
-    "word": "think"
+    "text": "think"
   },
   {
     "start": 293.01,
     "end": 293.2,
-    "word": "that"
+    "text": "that"
   },
   {
-    "word": "maybe",
+    "text": "maybe",
     "start": 293.21500000000003,
     "end": 293.355
   },
   {
     "end": 293.51,
     "start": 293.42,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 293.76,
     "start": 293.51,
-    "word": "best"
+    "text": "best"
   },
   {
     "end": 294.33,
     "start": 293.76,
-    "word": "analogy"
+    "text": "analogy"
   },
   {
     "end": 294.45,
     "start": 294.33,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 294.72,
     "start": 294.45,
-    "word": "have"
+    "text": "have"
   },
   {
     "end": 294.84,
     "start": 294.72,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 295.08,
     "start": 294.84,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 295.22,
     "start": 295.08,
-    "word": "is"
+    "text": "is"
   },
   {
     "end": 295.3,
     "start": 295.22,
-    "word": "our"
+    "text": "our"
   },
   {
     "end": 296.04,
     "start": 295.3,
-    "word": "relationship"
+    "text": "relationship"
   },
   {
     "end": 296.33,
     "start": 296.04,
-    "word": "with"
+    "text": "with"
   },
   {
     "end": 297.46,
     "start": 296.33,
-    "word": "animals."
+    "text": "animals."
   },
   {
     "end": 297.99,
     "start": 297.46,
-    "word": "Thousands"
+    "text": "Thousands"
   },
   {
     "end": 298.08,
     "start": 297.99,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 298.33,
     "start": 298.08,
-    "word": "years"
+    "text": "years"
   },
   {
     "end": 299.29,
     "start": 298.33,
-    "word": "ago,"
+    "text": "ago,"
   },
   {
     "end": 299.44,
     "start": 299.29,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 299.76,
     "start": 299.44,
-    "word": "started"
+    "text": "started"
   },
   {
     "end": 299.86,
     "start": 299.76,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 300.53,
     "start": 299.86,
-    "word": "domesticate"
+    "text": "domesticate"
   },
   {
     "start": 300.53,
     "end": 301.15,
-    "word": "animals,"
+    "text": "animals,"
   },
   {
-    "word": "and",
-    "start": 300.8925,
+    "text": "and",
+    "start": 301.15,
     "end": 301.4
   },
   {
-    "word": "we",
-    "start": 301.255,
+    "text": "we",
+    "start": 301.4,
     "end": 301.65
   },
   {
-    "word": "trained",
-    "start": 301.6175,
+    "text": "trained",
+    "start": 301.65,
     "end": 301.9
   },
   {
     "end": 302.15,
     "start": 301.98,
-    "word": "them"
+    "text": "them"
   },
   {
     "end": 302.42,
     "start": 302.15,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 302.92,
     "start": 302.42,
-    "word": "work"
+    "text": "work"
   },
   {
     "end": 303.14,
     "start": 302.92,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 303.87,
     "start": 303.14,
-    "word": "weaponry"
+    "text": "weaponry"
   },
   {
     "end": 303.94,
     "start": 303.87,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 305.35,
     "start": 303.94,
-    "word": "companionship."
+    "text": "companionship."
   },
   {
     "end": 305.65,
     "start": 305.35,
-    "word": "And"
+    "text": "And"
   },
   {
     "end": 305.92,
     "start": 305.65,
-    "word": "throughout"
+    "text": "throughout"
   },
   {
     "end": 306.44,
     "start": 305.92,
-    "word": "history,"
+    "text": "history,"
   },
   {
     "end": 306.6,
     "start": 306.44,
-    "word": "we've"
+    "text": "we've"
   },
   {
     "end": 306.94,
     "start": 306.6,
-    "word": "treated"
+    "text": "treated"
   },
   {
     "end": 307.23,
     "start": 306.94,
-    "word": "some"
+    "text": "some"
   },
   {
     "end": 307.76,
     "start": 307.23,
-    "word": "animals"
+    "text": "animals"
   },
   {
     "end": 307.96,
     "start": 307.76,
-    "word": "like"
+    "text": "like"
   },
   {
-    "start": 307.93,
+    "start": 307.96,
     "end": 308.7,
-    "word": "tools"
+    "text": "tools"
   },
   {
-    "word": "or",
-    "start": 308.445,
+    "text": "or",
+    "start": 308.7,
     "end": 308.955
   },
   {
     "end": 309.21,
     "start": 308.96,
-    "word": "like"
+    "text": "like"
   },
   {
     "end": 310.46,
     "start": 309.21,
-    "word": "products,"
+    "text": "products,"
   },
   {
     "end": 310.76,
     "start": 310.46,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 310.97,
     "start": 310.76,
-    "word": "other"
+    "text": "other"
   },
   {
     "start": 310.97,
     "end": 311.32,
-    "word": "animals,"
+    "text": "animals,"
   },
   {
-    "word": "we've",
-    "start": 311.21000000000004,
+    "text": "we've",
+    "start": 311.32,
     "end": 311.525
   },
   {
     "end": 311.73,
-    "start": 311.45,
-    "word": "treated"
+    "start": 311.525,
+    "text": "treated"
   },
   {
     "end": 311.87,
     "start": 311.73,
-    "word": "with"
+    "text": "with"
   },
   {
     "end": 312.61,
     "start": 311.87,
-    "word": "kindness"
+    "text": "kindness"
   },
   {
-    "start": 312.58,
+    "start": 312.61,
     "end": 312.78,
-    "word": "and"
+    "text": "and"
   },
   {
-    "word": "we've",
-    "start": 312.71500000000003,
+    "text": "we've",
+    "start": 312.78,
     "end": 312.93499999999995
   },
   {
     "end": 313.09,
-    "start": 312.85,
-    "word": "given"
+    "start": 312.93499999999995,
+    "text": "given"
   },
   {
     "end": 313.16,
     "start": 313.09,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 313.55,
     "start": 313.16,
-    "word": "place"
+    "text": "place"
   },
   {
     "end": 313.64,
     "start": 313.55,
-    "word": "in"
+    "text": "in"
   },
   {
     "end": 314.12,
     "start": 313.64,
-    "word": "society"
+    "text": "society"
   },
   {
     "end": 314.25,
     "start": 314.12,
-    "word": "as"
+    "text": "as"
   },
   {
     "end": 314.31,
     "start": 314.25,
-    "word": "our"
+    "text": "our"
   },
   {
     "end": 315.81,
     "start": 314.31,
-    "word": "companions."
+    "text": "companions."
   },
   {
     "end": 315.94,
     "start": 315.81,
-    "word": "I"
+    "text": "I"
   },
   {
     "start": 315.94,
     "end": 316.15,
-    "word": "think"
+    "text": "think"
   },
   {
-    "word": "it's",
+    "text": "it's",
     "start": 316.18666666666667,
     "end": 316.37
   },
   {
-    "word": "plausible",
+    "text": "plausible",
     "start": 316.43333333333334,
     "end": 316.59
   },
   {
     "end": 316.81,
     "start": 316.68,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 316.98,
     "start": 316.81,
-    "word": "might"
+    "text": "might"
   },
   {
     "end": 317.18,
     "start": 316.98,
-    "word": "start"
+    "text": "start"
   },
   {
     "end": 317.38,
     "start": 317.18,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 317.82,
     "start": 317.38,
-    "word": "integrate"
+    "text": "integrate"
   },
   {
     "end": 318.39,
     "start": 317.82,
-    "word": "robots"
+    "text": "robots"
   },
   {
     "end": 318.54,
     "start": 318.39,
-    "word": "in"
+    "text": "in"
   },
   {
     "end": 318.94,
     "start": 318.54,
-    "word": "similar"
+    "text": "similar"
   },
   {
     "start": 318.94,
     "end": 319.63,
-    "word": "ways."
+    "text": "ways."
   },
   {
-    "word": "And",
+    "text": "And",
     "start": 320.30999999999995,
     "end": 320.9266666666666
   },
   {
-    "word": "sure,",
+    "text": "sure,",
     "start": 321.67999999999984,
     "end": 322.22333333333324
   },
   {
     "end": 323.52,
     "start": 323.05,
-    "word": "animals"
+    "text": "animals"
   },
   {
     "start": 323.52,
     "end": 323.68,
-    "word": "are"
+    "text": "are"
   },
   {
-    "word": "alive.",
+    "text": "alive.",
     "start": 324.128,
     "end": 324.46999999999997
   },
   {
-    "word": "Robots",
+    "text": "Robots",
     "start": 324.736,
     "end": 325.26000000000005
   },
   {
-    "word": "are",
+    "text": "are",
     "start": 325.344,
     "end": 326.05
   },
   {
-    "word": "not.",
-    "start": 325.952,
+    "text": "not.",
+    "start": 326.05,
     "end": 326.84
   },
   {
     "end": 327.63,
-    "start": 326.56,
-    "word": "And"
+    "start": 326.84,
+    "text": "And"
   },
   {
     "end": 327.88,
     "start": 327.63,
-    "word": "I"
+    "text": "I"
   },
   {
     "end": 328.03,
     "start": 327.88,
-    "word": "can"
+    "text": "can"
   },
   {
     "end": 328.25,
     "start": 328.03,
-    "word": "tell"
+    "text": "tell"
   },
   {
     "end": 328.34,
     "start": 328.25,
-    "word": "you,"
+    "text": "you,"
   },
   {
     "end": 328.64,
     "start": 328.34,
-    "word": "from"
+    "text": "from"
   },
   {
     "end": 328.94,
     "start": 328.64,
-    "word": "working"
+    "text": "working"
   },
   {
     "start": 328.94,
     "end": 329.04,
-    "word": "with"
+    "text": "with"
   },
   {
-    "word": "roboticists,",
+    "text": "roboticists,",
     "start": 329.2625,
     "end": 329.41
   },
   {
-    "word": "that",
+    "text": "that",
     "start": 329.585,
     "end": 329.78000000000003
   },
   {
-    "word": "we're",
+    "text": "we're",
     "start": 329.9075,
     "end": 330.15
   },
   {
     "end": 330.52,
     "start": 330.23,
-    "word": "pretty"
+    "text": "pretty"
   },
   {
     "end": 330.74,
     "start": 330.52,
-    "word": "far"
+    "text": "far"
   },
   {
     "end": 331.03,
     "start": 330.74,
-    "word": "away"
+    "text": "away"
   },
   {
     "end": 331.24,
     "start": 331.03,
-    "word": "from"
+    "text": "from"
   },
   {
     "end": 331.71,
     "start": 331.24,
-    "word": "developing"
+    "text": "developing"
   },
   {
     "end": 332.05,
     "start": 331.71,
-    "word": "robots"
+    "text": "robots"
   },
   {
     "end": 332.13,
     "start": 332.05,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 332.28,
     "start": 332.13,
-    "word": "can"
+    "text": "can"
   },
   {
     "end": 332.69,
     "start": 332.28,
-    "word": "feel"
+    "text": "feel"
   },
   {
     "end": 335.04,
     "start": 332.69,
-    "word": "anything."
+    "text": "anything."
   },
   {
     "end": 335.28,
     "start": 335.04,
-    "word": "But"
+    "text": "But"
   },
   {
     "end": 335.52,
     "start": 335.28,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 335.77,
     "start": 335.52,
-    "word": "feel"
+    "text": "feel"
   },
   {
     "end": 335.96,
     "start": 335.77,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 337.7,
     "start": 335.96,
-    "word": "them,"
+    "text": "them,"
   },
   {
     "end": 337.98,
     "start": 337.7,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 338.21,
     "start": 337.98,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 339.01,
     "start": 338.21,
-    "word": "matters,"
+    "text": "matters,"
   },
   {
     "end": 339.58,
     "start": 339.01,
-    "word": "because"
+    "text": "because"
   },
   {
     "end": 339.79,
     "start": 339.58,
-    "word": "if"
+    "text": "if"
   },
   {
     "end": 339.88,
     "start": 339.79,
-    "word": "we're"
+    "text": "we're"
   },
   {
     "end": 340.15,
     "start": 339.88,
-    "word": "trying"
+    "text": "trying"
   },
   {
     "end": 340.33,
     "start": 340.15,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 340.92,
     "start": 340.33,
-    "word": "integrate"
+    "text": "integrate"
   },
   {
     "end": 341.39,
     "start": 340.92,
-    "word": "robots"
+    "text": "robots"
   },
   {
     "start": 341.39,
     "end": 341.55,
-    "word": "into"
+    "text": "into"
   },
   {
-    "word": "these",
-    "start": 341.54499999999996,
+    "text": "these",
+    "start": 341.55,
     "end": 341.8
   },
   {
     "end": 342.05,
-    "start": 341.7,
-    "word": "shared"
+    "start": 341.8,
+    "text": "shared"
   },
   {
     "end": 342.7,
     "start": 342.05,
-    "word": "spaces,"
+    "text": "spaces,"
   },
   {
     "end": 342.79,
     "start": 342.7,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 342.96,
     "start": 342.79,
-    "word": "need"
+    "text": "need"
   },
   {
     "end": 343.08,
     "start": 342.96,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 343.81,
     "start": 343.08,
-    "word": "understand"
+    "text": "understand"
   },
   {
     "end": 343.92,
     "start": 343.81,
-    "word": "that"
+    "text": "that"
   },
   {
     "start": 343.92,
     "end": 344.36,
-    "word": "people"
+    "text": "people"
   },
   {
-    "word": "will",
-    "start": 344.145,
+    "text": "will",
+    "start": 344.36,
     "end": 344.495
   },
   {
     "end": 344.63,
-    "start": 344.37,
-    "word": "treat"
+    "start": 344.495,
+    "text": "treat"
   },
   {
     "end": 344.79,
     "start": 344.63,
-    "word": "them"
+    "text": "them"
   },
   {
     "end": 345.39,
     "start": 344.79,
-    "word": "differently"
+    "text": "differently"
   },
   {
     "end": 345.53,
     "start": 345.39,
-    "word": "than"
+    "text": "than"
   },
   {
     "end": 345.74,
     "start": 345.53,
-    "word": "other"
+    "text": "other"
   },
   {
     "start": 345.74,
     "end": 346.61,
-    "word": "devices,"
+    "text": "devices,"
   },
   {
-    "word": "and",
-    "start": 346.55500000000006,
+    "text": "and",
+    "start": 346.61,
     "end": 347.13
   },
   {
     "end": 347.65,
     "start": 347.37,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 347.78,
     "start": 347.65,
-    "word": "in"
+    "text": "in"
   },
   {
     "end": 348.08,
     "start": 347.78,
-    "word": "some"
+    "text": "some"
   },
   {
     "end": 349.19,
     "start": 348.08,
-    "word": "cases,"
+    "text": "cases,"
   },
   {
     "end": 349.36,
     "start": 349.19,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 349.97,
     "start": 349.36,
-    "word": "example,"
+    "text": "example,"
   },
   {
-    "start": 349.91,
+    "start": 349.97,
     "end": 350.09,
-    "word": "the"
+    "text": "the"
   },
   {
-    "word": "case",
+    "text": "case",
     "start": 350.15,
     "end": 350.28
   },
   {
     "end": 350.47,
     "start": 350.39,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 350.53,
     "start": 350.47,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 351,
     "start": 350.53,
-    "word": "soldier"
+    "text": "soldier"
   },
   {
     "end": 351.1,
     "start": 351,
-    "word": "who"
+    "text": "who"
   },
   {
     "end": 351.42,
     "start": 351.1,
-    "word": "becomes"
+    "text": "becomes"
   },
   {
     "end": 351.99,
     "start": 351.42,
-    "word": "emotionally"
+    "text": "emotionally"
   },
   {
     "end": 352.52,
     "start": 351.99,
-    "word": "attached"
+    "text": "attached"
   },
   {
     "end": 352.62,
     "start": 352.52,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 352.76,
     "start": 352.62,
-    "word": "the"
+    "text": "the"
   },
   {
     "start": 352.76,
     "end": 352.97,
-    "word": "robot"
+    "text": "robot"
   },
   {
-    "word": "that",
+    "text": "that",
     "start": 352.97,
     "end": 353.15
   },
@@ -4476,137 +4476,137 @@
     "start": 353.18,
     "confidence": 1,
     "end": 353.33,
-    "word": "they",
+    "text": "they",
     "punct": "they",
     "index": 839
   },
   {
-    "word": "work",
+    "text": "work",
     "start": 353.6166666666667,
     "end": 353.77666666666664
   },
   {
-    "word": "with,",
+    "text": "with,",
     "start": 354.05333333333334,
     "end": 354.2233333333333
   },
   {
     "end": 354.67,
     "start": 354.49,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 354.8,
     "start": 354.67,
-    "word": "can"
+    "text": "can"
   },
   {
     "end": 354.94,
     "start": 354.8,
-    "word": "be"
+    "text": "be"
   },
   {
     "end": 355.3,
     "start": 354.94,
-    "word": "anything"
+    "text": "anything"
   },
   {
     "end": 355.49,
     "start": 355.3,
-    "word": "from"
+    "text": "from"
   },
   {
     "end": 355.95,
     "start": 355.49,
-    "word": "inefficient"
+    "text": "inefficient"
   },
   {
     "end": 356.14,
     "start": 355.95,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 358.53,
     "start": 356.14,
-    "word": "dangerous."
+    "text": "dangerous."
   },
   {
     "end": 358.69,
     "start": 358.53,
-    "word": "But"
+    "text": "But"
   },
   {
     "end": 358.81,
     "start": 358.69,
-    "word": "in"
+    "text": "in"
   },
   {
     "end": 359.02,
     "start": 358.81,
-    "word": "other"
+    "text": "other"
   },
   {
     "end": 359.42,
     "start": 359.02,
-    "word": "cases,"
+    "text": "cases,"
   },
   {
     "end": 359.49,
     "start": 359.42,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 359.63,
     "start": 359.49,
-    "word": "can"
+    "text": "can"
   },
   {
     "end": 359.94,
     "start": 359.63,
-    "word": "actually"
+    "text": "actually"
   },
   {
     "start": 359.94,
     "end": 360.16,
-    "word": "be"
+    "text": "be"
   },
   {
-    "word": "useful",
+    "text": "useful",
     "start": 360.29,
     "end": 360.4975
   },
   {
-    "word": "to",
+    "text": "to",
     "start": 360.64000000000004,
     "end": 360.835
   },
   {
-    "word": "foster",
+    "text": "foster",
     "start": 360.99,
     "end": 361.17249999999996
   },
   {
     "end": 361.51,
     "start": 361.34,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 361.92,
     "start": 361.51,
-    "word": "emotional"
+    "text": "emotional"
   },
   {
     "end": 362.45,
     "start": 361.92,
-    "word": "connection"
+    "text": "connection"
   },
   {
     "start": 362.45,
     "end": 362.57,
-    "word": "to"
+    "text": "to"
   },
   {
-    "word": "robots.",
+    "text": "robots.",
     "start": 363.295,
     "end": 363.46
   },
@@ -4614,172 +4614,172 @@
     "start": 364.14,
     "confidence": 0.7,
     "end": 364.35,
-    "word": "We're",
+    "text": "We're",
     "punct": "We're",
     "index": 867
   },
   {
-    "word": "already",
+    "text": "already",
     "start": 364.385,
     "end": 364.655
   },
   {
     "end": 364.96,
-    "start": 364.63,
-    "word": "seeing"
+    "start": 364.655,
+    "text": "seeing"
   },
   {
     "end": 365.15,
     "start": 364.96,
-    "word": "some"
+    "text": "some"
   },
   {
     "end": 365.49,
     "start": 365.15,
-    "word": "great"
+    "text": "great"
   },
   {
     "end": 365.75,
     "start": 365.49,
-    "word": "use"
+    "text": "use"
   },
   {
     "end": 366.26,
     "start": 365.75,
-    "word": "cases,"
+    "text": "cases,"
   },
   {
     "end": 366.38,
     "start": 366.26,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 366.89,
     "start": 366.38,
-    "word": "example,"
+    "text": "example,"
   },
   {
     "end": 367.29,
     "start": 366.89,
-    "word": "robots"
+    "text": "robots"
   },
   {
     "end": 367.6,
     "start": 367.29,
-    "word": "working"
+    "text": "working"
   },
   {
     "start": 367.6,
     "end": 367.78,
-    "word": "with"
+    "text": "with"
   },
   {
-    "word": "autistic",
+    "text": "autistic",
     "start": 368.01,
     "end": 368.365
   },
   {
     "end": 368.95,
     "start": 368.42,
-    "word": "children"
+    "text": "children"
   },
   {
     "end": 369.1,
     "start": 368.95,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 369.67,
     "start": 369.1,
-    "word": "engage"
+    "text": "engage"
   },
   {
     "end": 369.93,
     "start": 369.67,
-    "word": "them"
+    "text": "them"
   },
   {
     "end": 370.1,
     "start": 369.93,
-    "word": "in"
+    "text": "in"
   },
   {
     "end": 370.38,
     "start": 370.1,
-    "word": "ways"
+    "text": "ways"
   },
   {
     "end": 370.48,
     "start": 370.38,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 370.59,
     "start": 370.48,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 370.96,
     "start": 370.59,
-    "word": "haven't"
+    "text": "haven't"
   },
   {
     "end": 371.18,
     "start": 370.96,
-    "word": "seen"
+    "text": "seen"
   },
   {
     "start": 371.18,
     "end": 372.04,
-    "word": "previously,"
+    "text": "previously,"
   },
   {
-    "word": "or",
-    "start": 371.97999999999996,
+    "text": "or",
+    "start": 372.04,
     "end": 372.60999999999996
   },
   {
     "end": 373.18,
     "start": 372.78,
-    "word": "robots"
+    "text": "robots"
   },
   {
     "end": 373.51,
     "start": 373.18,
-    "word": "working"
+    "text": "working"
   },
   {
     "end": 373.66,
     "start": 373.51,
-    "word": "with"
+    "text": "with"
   },
   {
     "end": 374.22,
     "start": 373.66,
-    "word": "teachers"
+    "text": "teachers"
   },
   {
     "end": 374.35,
     "start": 374.22,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 374.75,
     "start": 374.35,
-    "word": "engage"
+    "text": "engage"
   },
   {
     "start": 374.75,
     "end": 375.03,
-    "word": "kids"
+    "text": "kids"
   },
   {
-    "word": "in",
+    "text": "in",
     "start": 375.03,
     "end": 375.27666666666664
   },
   {
-    "word": "learning",
+    "text": "learning",
     "start": 375.31,
     "end": 375.5233333333333
   },
@@ -4787,327 +4787,327 @@
     "start": 375.59,
     "confidence": 1,
     "end": 375.77,
-    "word": "with",
+    "text": "with",
     "punct": "with",
     "index": 901
   },
   {
-    "word": "new",
-    "start": 375.74,
+    "text": "new",
+    "start": 375.77,
     "end": 376.5300000000001
   },
   {
     "end": 377.29,
-    "start": 375.89,
-    "word": "results."
+    "start": 376.5300000000001,
+    "text": "results."
   },
   {
     "end": 377.51,
     "start": 377.29,
-    "word": "And"
+    "text": "And"
   },
   {
     "end": 377.7,
     "start": 377.51,
-    "word": "it's"
+    "text": "it's"
   },
   {
     "end": 377.88,
     "start": 377.7,
-    "word": "not"
+    "text": "not"
   },
   {
     "end": 378.06,
     "start": 377.88,
-    "word": "just"
+    "text": "just"
   },
   {
     "end": 378.18,
     "start": 378.06,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 379.73,
     "start": 378.18,
-    "word": "kids."
+    "text": "kids."
   },
   {
     "end": 380.04,
     "start": 379.73,
-    "word": "Early"
+    "text": "Early"
   },
   {
     "end": 380.42,
     "start": 380.04,
-    "word": "studies"
+    "text": "studies"
   },
   {
     "end": 380.74,
     "start": 380.42,
-    "word": "show"
+    "text": "show"
   },
   {
     "end": 381.08,
     "start": 380.74,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 381.41,
     "start": 381.08,
-    "word": "robots"
+    "text": "robots"
   },
   {
     "end": 381.54,
     "start": 381.41,
-    "word": "can"
+    "text": "can"
   },
   {
     "end": 381.75,
     "start": 381.54,
-    "word": "help"
+    "text": "help"
   },
   {
     "end": 382.27,
     "start": 381.75,
-    "word": "doctors"
+    "text": "doctors"
   },
   {
     "end": 382.36,
     "start": 382.27,
-    "word": "and"
+    "text": "and"
   },
   {
     "start": 382.36,
     "end": 383.01,
-    "word": "patients"
+    "text": "patients"
   },
   {
-    "word": "in",
-    "start": 382.72,
+    "text": "in",
+    "start": 383.01,
     "end": 383.22
   },
   {
     "end": 383.43,
-    "start": 383.08,
-    "word": "health"
+    "start": 383.22,
+    "text": "health"
   },
   {
     "end": 383.65,
     "start": 383.43,
-    "word": "care"
+    "text": "care"
   },
   {
     "end": 385.53,
     "start": 383.65,
-    "word": "settings."
+    "text": "settings."
   },
   {
     "end": 385.74,
     "start": 385.53,
-    "word": "This"
+    "text": "This"
   },
   {
     "end": 385.9,
     "start": 385.74,
-    "word": "is"
+    "text": "is"
   },
   {
     "start": 385.9,
     "end": 385.98,
-    "word": "the"
+    "text": "the"
   },
   {
-    "word": "PARO",
+    "text": "PARO",
     "start": 386.17499999999995,
     "end": 386.3066666666667
   },
   {
-    "word": "baby",
+    "text": "baby",
     "start": 386.44999999999993,
     "end": 386.6333333333333
   },
   {
-    "word": "seal",
+    "text": "seal",
     "start": 386.72499999999997,
     "end": 386.96000000000004
   },
   {
-    "word": "robot.",
+    "text": "robot.",
     "start": 387,
     "end": 387.2866666666667
   },
   {
-    "word": "It's",
-    "start": 387.275,
+    "text": "It's",
+    "start": 387.2866666666667,
     "end": 387.61333333333334
   },
   {
     "end": 387.94,
-    "start": 387.55,
-    "word": "used"
+    "start": 387.61333333333334,
+    "text": "used"
   },
   {
     "end": 388.06,
     "start": 387.94,
-    "word": "in"
+    "text": "in"
   },
   {
     "end": 388.48,
     "start": 388.06,
-    "word": "nursing"
+    "text": "nursing"
   },
   {
     "end": 388.94,
     "start": 388.48,
-    "word": "homes"
+    "text": "homes"
   },
   {
     "end": 388.99,
     "start": 388.94,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 389.16,
     "start": 388.99,
-    "word": "with"
+    "text": "with"
   },
   {
     "end": 389.63,
     "start": 389.16,
-    "word": "dementia"
+    "text": "dementia"
   },
   {
     "start": 389.63,
     "end": 390.37,
-    "word": "patients."
+    "text": "patients."
   },
   {
-    "word": "It's",
-    "start": 390.14,
+    "text": "It's",
+    "start": 390.37,
     "end": 390.575
   },
   {
     "end": 390.78,
     "start": 390.65,
-    "word": "been"
+    "text": "been"
   },
   {
     "end": 391.08,
     "start": 390.78,
-    "word": "around"
+    "text": "around"
   },
   {
     "end": 391.22,
     "start": 391.08,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 391.3,
     "start": 391.22,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 392.17,
     "start": 391.3,
-    "word": "while."
+    "text": "while."
   },
   {
     "end": 392.35,
     "start": 392.17,
-    "word": "And"
+    "text": "And"
   },
   {
     "end": 392.47,
     "start": 392.35,
-    "word": "I"
+    "text": "I"
   },
   {
     "end": 393.36,
     "start": 392.47,
-    "word": "remember,"
+    "text": "remember,"
   },
   {
     "end": 393.81,
     "start": 393.36,
-    "word": "years"
+    "text": "years"
   },
   {
     "end": 394.06,
     "start": 393.81,
-    "word": "ago,"
+    "text": "ago,"
   },
   {
     "end": 394.25,
     "start": 394.06,
-    "word": "being"
+    "text": "being"
   },
   {
     "end": 394.3,
     "start": 394.25,
-    "word": "at"
+    "text": "at"
   },
   {
     "end": 394.38,
     "start": 394.3,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 395.6,
     "start": 394.38,
-    "word": "party"
+    "text": "party"
   },
   {
     "end": 395.75,
     "start": 395.6,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 396.19,
     "start": 395.75,
-    "word": "telling"
+    "text": "telling"
   },
   {
     "end": 396.44,
     "start": 396.19,
-    "word": "someone"
+    "text": "someone"
   },
   {
     "end": 396.71,
     "start": 396.44,
-    "word": "about"
+    "text": "about"
   },
   {
-    "start": 396.7,
+    "start": 396.71,
     "end": 396.83,
-    "word": "this"
+    "text": "this"
   },
   {
-    "word": "robot,",
+    "text": "robot,",
     "start": 397.44,
     "end": 397.59499999999997
   },
   {
     "end": 398.36,
     "start": 398.18,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 398.54,
     "start": 398.36,
-    "word": "her"
+    "text": "her"
   },
   {
     "end": 399.06,
     "start": 398.54,
-    "word": "response"
+    "text": "response"
   },
   {
     "start": 399.06,
     "end": 399.67,
-    "word": "was,"
+    "text": "was,"
   },
   {
-    "word": "\"Oh",
+    "text": "\"Oh",
     "start": 399.8,
     "end": 400.15
   },
@@ -5115,627 +5115,627 @@
     "start": 400.54,
     "confidence": 0.44,
     "end": 400.63,
-    "word": "my",
+    "text": "my",
     "punct": "my",
     "index": 967
   },
   {
-    "word": "gosh.",
+    "text": "gosh.",
     "start": 401.66499999999996,
     "end": 401.755
   },
   {
-    "word": "That's",
+    "text": "That's",
     "start": 402.78999999999996,
     "end": 402.88
   },
   {
-    "word": "horrible.",
+    "text": "horrible.",
     "start": 403.91499999999996,
     "end": 404.005
   },
   {
     "end": 405.13,
     "start": 405.04,
-    "word": "I"
+    "text": "I"
   },
   {
     "end": 405.46,
     "start": 405.13,
-    "word": "can't"
+    "text": "can't"
   },
   {
     "start": 405.46,
     "end": 405.78,
-    "word": "believe"
+    "text": "believe"
   },
   {
-    "word": "we're",
-    "start": 405.66999999999996,
+    "text": "we're",
+    "start": 405.78,
     "end": 405.975
   },
   {
     "end": 406.17,
-    "start": 405.88,
-    "word": "giving"
+    "start": 405.975,
+    "text": "giving"
   },
   {
     "end": 406.56,
     "start": 406.17,
-    "word": "people"
+    "text": "people"
   },
   {
     "end": 407.11,
     "start": 406.56,
-    "word": "robots"
+    "text": "robots"
   },
   {
     "end": 407.45,
     "start": 407.11,
-    "word": "instead"
+    "text": "instead"
   },
   {
     "end": 407.53,
     "start": 407.45,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 407.89,
     "start": 407.53,
-    "word": "human"
+    "text": "human"
   },
   {
     "end": 410.47,
     "start": 407.89,
-    "word": "care.\""
+    "text": "care.\""
   },
   {
     "end": 410.65,
     "start": 410.47,
-    "word": "And"
+    "text": "And"
   },
   {
     "end": 410.83,
     "start": 410.65,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 410.94,
     "start": 410.83,
-    "word": "is"
+    "text": "is"
   },
   {
     "end": 411.06,
     "start": 410.94,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 411.35,
     "start": 411.06,
-    "word": "really"
+    "text": "really"
   },
   {
     "end": 411.67,
     "start": 411.35,
-    "word": "common"
+    "text": "common"
   },
   {
     "end": 412.41,
     "start": 411.67,
-    "word": "response,"
+    "text": "response,"
   },
   {
     "end": 412.71,
     "start": 412.41,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 412.81,
     "start": 412.71,
-    "word": "I"
+    "text": "I"
   },
   {
     "end": 413.01,
     "start": 412.81,
-    "word": "think"
+    "text": "think"
   },
   {
     "end": 413.24,
     "start": 413.01,
-    "word": "it's"
+    "text": "it's"
   },
   {
-    "start": 413.17,
+    "start": 413.24,
     "end": 414.05,
-    "word": "absolutely"
+    "text": "absolutely"
   },
   {
-    "word": "correct,",
+    "text": "correct,",
     "start": 414.05,
     "end": 414.68
   },
   {
     "end": 415.31,
     "start": 414.93,
-    "word": "because"
+    "text": "because"
   },
   {
     "end": 415.62,
     "start": 415.31,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 415.91,
     "start": 415.62,
-    "word": "would"
+    "text": "would"
   },
   {
     "end": 416.13,
     "start": 415.91,
-    "word": "be"
+    "text": "be"
   },
   {
     "end": 417.78,
     "start": 416.13,
-    "word": "terrible."
+    "text": "terrible."
   },
   {
     "end": 417.94,
     "start": 417.78,
-    "word": "But"
+    "text": "But"
   },
   {
     "end": 418.05,
     "start": 417.94,
-    "word": "in"
+    "text": "in"
   },
   {
     "end": 418.24,
     "start": 418.05,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 418.46,
     "start": 418.24,
-    "word": "case,"
+    "text": "case,"
   },
   {
     "end": 418.6,
     "start": 418.46,
-    "word": "it's"
+    "text": "it's"
   },
   {
     "start": 418.6,
     "end": 418.83,
-    "word": "not"
+    "text": "not"
   },
   {
-    "word": "what",
-    "start": 418.75500000000005,
+    "text": "what",
+    "start": 418.83,
     "end": 418.955
   },
   {
     "end": 419.08,
-    "start": 418.91,
-    "word": "this"
+    "start": 418.955,
+    "text": "this"
   },
   {
     "end": 419.45,
     "start": 419.08,
-    "word": "robot"
+    "text": "robot"
   },
   {
     "end": 420.67,
     "start": 419.45,
-    "word": "replaces."
+    "text": "replaces."
   },
   {
     "end": 420.96,
     "start": 420.67,
-    "word": "What"
+    "text": "What"
   },
   {
     "end": 421.16,
     "start": 420.96,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 421.55,
     "start": 421.16,
-    "word": "robot"
+    "text": "robot"
   },
   {
     "start": 421.55,
     "end": 422.25,
-    "word": "replaces"
+    "text": "replaces"
   },
   {
-    "word": "is",
-    "start": 422.055,
+    "text": "is",
+    "start": 422.25,
     "end": 422.58
   },
   {
     "end": 422.91,
-    "start": 422.56,
-    "word": "animal"
+    "start": 422.58,
+    "text": "animal"
   },
   {
     "end": 423.97,
     "start": 422.91,
-    "word": "therapy"
+    "text": "therapy"
   },
   {
-    "start": 423.65,
+    "start": 423.97,
     "end": 424.13,
-    "word": "in"
+    "text": "in"
   },
   {
-    "word": "contexts",
+    "text": "contexts",
     "start": 424.21000000000004,
     "end": 424.5
   },
   {
     "end": 424.87,
     "start": 424.77,
-    "word": "where"
+    "text": "where"
   },
   {
     "start": 424.87,
     "end": 425.02,
-    "word": "we"
+    "text": "we"
   },
   {
-    "word": "can't",
+    "text": "can't",
     "start": 425.17,
     "end": 425.42499999999995
   },
   {
     "end": 425.83,
     "start": 425.47,
-    "word": "use"
+    "text": "use"
   },
   {
     "end": 426.15,
     "start": 425.83,
-    "word": "real"
+    "text": "real"
   },
   {
     "start": 426.15,
     "end": 426.89,
-    "word": "animals"
+    "text": "animals"
   },
   {
-    "word": "but",
-    "start": 426.69999999999993,
+    "text": "but",
+    "start": 426.89,
     "end": 427.16499999999996
   },
   {
     "end": 427.44,
     "start": 427.25,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 427.78,
     "start": 427.44,
-    "word": "can"
+    "text": "can"
   },
   {
     "end": 427.96,
     "start": 427.78,
-    "word": "use"
+    "text": "use"
   },
   {
     "end": 428.38,
     "start": 427.96,
-    "word": "robots,"
+    "text": "robots,"
   },
   {
     "end": 428.66,
     "start": 428.38,
-    "word": "because"
+    "text": "because"
   },
   {
     "start": 428.66,
     "end": 428.97,
-    "word": "people"
+    "text": "people"
   },
   {
-    "word": "will",
-    "start": 428.86,
+    "text": "will",
+    "start": 428.97,
     "end": 429.46500000000003
   },
   {
     "end": 429.96,
-    "start": 429.06,
-    "word": "consistently"
+    "start": 429.46500000000003,
+    "text": "consistently"
   },
   {
     "end": 430.32,
     "start": 429.96,
-    "word": "treat"
+    "text": "treat"
   },
   {
     "end": 431.79,
     "start": 430.32,
-    "word": "them"
+    "text": "them"
   },
   {
     "end": 431.99,
     "start": 431.79,
-    "word": "more"
+    "text": "more"
   },
   {
     "end": 432.24,
     "start": 431.99,
-    "word": "like"
+    "text": "like"
   },
   {
     "end": 432.34,
     "start": 432.24,
-    "word": "an"
+    "text": "an"
   },
   {
-    "start": 432.3,
+    "start": 432.34,
     "end": 432.88,
-    "word": "animal"
+    "text": "animal"
   },
   {
-    "word": "than",
-    "start": 432.675,
+    "text": "than",
+    "start": 432.88,
     "end": 432.99
   },
   {
     "end": 433.1,
     "start": 433.05,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 435.49,
     "start": 433.1,
-    "word": "device."
+    "text": "device."
   },
   {
     "end": 436.2,
     "start": 435.49,
-    "word": "Acknowledging"
+    "text": "Acknowledging"
   },
   {
     "end": 436.36,
     "start": 436.2,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 436.74,
     "start": 436.36,
-    "word": "emotional"
+    "text": "emotional"
   },
   {
     "start": 436.74,
     "end": 437.22,
-    "word": "connection"
+    "text": "connection"
   },
   {
-    "word": "to",
-    "start": 437.02,
+    "text": "to",
+    "start": 437.22,
     "end": 437.3933333333333
   },
   {
-    "word": "robots",
-    "start": 437.3,
+    "text": "robots",
+    "start": 437.3933333333333,
     "end": 437.5666666666667
   },
   {
     "end": 437.74,
     "start": 437.58,
-    "word": "can"
+    "text": "can"
   },
   {
     "end": 438.02,
     "start": 437.74,
-    "word": "also"
+    "text": "also"
   },
   {
     "end": 438.24,
     "start": 438.02,
-    "word": "help"
+    "text": "help"
   },
   {
     "end": 438.41,
     "start": 438.24,
-    "word": "us"
+    "text": "us"
   },
   {
     "end": 438.92,
     "start": 438.41,
-    "word": "anticipate"
+    "text": "anticipate"
   },
   {
     "end": 439.88,
     "start": 438.92,
-    "word": "challenges"
+    "text": "challenges"
   },
   {
     "end": 440.13,
     "start": 439.88,
-    "word": "as"
+    "text": "as"
   },
   {
     "end": 440.28,
     "start": 440.13,
-    "word": "these"
+    "text": "these"
   },
   {
     "end": 440.87,
     "start": 440.28,
-    "word": "devices"
+    "text": "devices"
   },
   {
     "end": 441.23,
     "start": 440.87,
-    "word": "move"
+    "text": "move"
   },
   {
     "end": 441.42,
     "start": 441.23,
-    "word": "into"
+    "text": "into"
   },
   {
     "end": 441.6,
     "start": 441.42,
-    "word": "more"
+    "text": "more"
   },
   {
     "end": 442.02,
     "start": 441.6,
-    "word": "intimate"
+    "text": "intimate"
   },
   {
     "end": 442.34,
     "start": 442.02,
-    "word": "areas"
+    "text": "areas"
   },
   {
     "end": 442.43,
     "start": 442.34,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 442.78,
     "start": 442.43,
-    "word": "people's"
+    "text": "people's"
   },
   {
     "end": 444.07,
     "start": 442.78,
-    "word": "lives."
+    "text": "lives."
   },
   {
     "end": 444.23,
     "start": 444.07,
-    "word": "For"
+    "text": "For"
   },
   {
     "end": 444.83,
     "start": 444.23,
-    "word": "example,"
+    "text": "example,"
   },
   {
     "end": 444.98,
     "start": 444.83,
-    "word": "is"
+    "text": "is"
   },
   {
     "end": 445.07,
     "start": 444.98,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 445.51,
     "start": 445.07,
-    "word": "OK"
+    "text": "OK"
   },
   {
     "end": 445.64,
     "start": 445.51,
-    "word": "if"
+    "text": "if"
   },
   {
     "end": 445.74,
     "start": 445.64,
-    "word": "your"
+    "text": "your"
   },
   {
     "end": 446.68,
     "start": 445.74,
-    "word": "child's"
+    "text": "child's"
   },
   {
     "end": 446.99,
     "start": 446.68,
-    "word": "teddy"
+    "text": "teddy"
   },
   {
     "start": 446.99,
     "end": 447.17,
-    "word": "bear"
+    "text": "bear"
   },
   {
-    "word": "robot",
+    "text": "robot",
     "start": 447.27,
     "end": 447.52000000000004
   },
   {
     "end": 447.87,
     "start": 447.55,
-    "word": "records"
+    "text": "records"
   },
   {
     "end": 448.19,
     "start": 447.87,
-    "word": "private"
+    "text": "private"
   },
   {
     "end": 449.76,
     "start": 448.19,
-    "word": "conversations?"
+    "text": "conversations?"
   },
   {
     "end": 449.88,
     "start": 449.76,
-    "word": "Is"
+    "text": "Is"
   },
   {
     "end": 449.98,
     "start": 449.88,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 450.3,
     "start": 449.98,
-    "word": "OK"
+    "text": "OK"
   },
   {
     "end": 450.43,
     "start": 450.3,
-    "word": "if"
+    "text": "if"
   },
   {
     "end": 450.59,
     "start": 450.43,
-    "word": "your"
+    "text": "your"
   },
   {
     "end": 451.04,
     "start": 450.59,
-    "word": "sex"
+    "text": "sex"
   },
   {
     "end": 451.46,
     "start": 451.04,
-    "word": "robot"
+    "text": "robot"
   },
   {
     "end": 451.65,
     "start": 451.46,
-    "word": "has"
+    "text": "has"
   },
   {
     "start": 451.65,
     "end": 452.31,
-    "word": "compelling"
+    "text": "compelling"
   },
   {
-    "word": "in-app",
+    "text": "in-app",
     "start": 452.56000000000006,
     "end": 453.1475
   },
   {
-    "word": "purchases?",
+    "text": "purchases?",
     "start": 453.47000000000014,
     "end": 453.98500000000007
   },
   {
-    "word": "(Laughter)",
+    "text": "(Laughter)",
     "start": 454.38,
     "end": 454.82250000000005
   },
@@ -5743,1791 +5743,1791 @@
     "start": 455.29,
     "confidence": 1,
     "end": 455.66,
-    "word": "Because",
+    "text": "Because",
     "punct": "because",
     "index": 1091
   },
   {
-    "word": "robots",
+    "text": "robots",
     "start": 455.7533333333334,
     "end": 456.3766666666666
   },
   {
-    "word": "plus",
-    "start": 456.21666666666664,
+    "text": "plus",
+    "start": 456.3766666666666,
     "end": 457.0933333333333
   },
   {
     "end": 457.81,
-    "start": 456.68,
-    "word": "capitalism"
+    "start": 457.0933333333333,
+    "text": "capitalism"
   },
   {
     "end": 458.17,
     "start": 457.81,
-    "word": "equals"
+    "text": "equals"
   },
   {
     "end": 458.93,
     "start": 458.17,
-    "word": "questions"
+    "text": "questions"
   },
   {
     "end": 459.72,
     "start": 458.93,
-    "word": "around"
+    "text": "around"
   },
   {
     "end": 460.18,
     "start": 459.72,
-    "word": "consumer"
+    "text": "consumer"
   },
   {
     "end": 460.79,
     "start": 460.18,
-    "word": "protection"
+    "text": "protection"
   },
   {
     "start": 460.79,
     "end": 460.89,
-    "word": "and"
+    "text": "and"
   },
   {
-    "word": "privacy.",
+    "text": "privacy.",
     "start": 461.6700000000001,
     "end": 461.78999999999985
   },
   {
     "end": 462.69,
     "start": 462.55,
-    "word": "And"
+    "text": "And"
   },
   {
     "end": 462.9,
     "start": 462.69,
-    "word": "those"
+    "text": "those"
   },
   {
     "end": 463.14,
     "start": 462.9,
-    "word": "aren't"
+    "text": "aren't"
   },
   {
     "end": 463.27,
     "start": 463.14,
-    "word": "the"
+    "text": "the"
   },
   {
     "start": 463.27,
     "end": 463.54,
-    "word": "only"
+    "text": "only"
   },
   {
-    "word": "reasons",
+    "text": "reasons",
     "start": 463.572,
     "end": 463.84
   },
   {
-    "word": "that",
+    "text": "that",
     "start": 463.87399999999997,
     "end": 464.14
   },
   {
-    "word": "our",
+    "text": "our",
     "start": 464.176,
     "end": 464.44
   },
   {
-    "word": "behavior",
+    "text": "behavior",
     "start": 464.478,
     "end": 464.74
   },
   {
     "end": 465.04,
     "start": 464.78,
-    "word": "around"
+    "text": "around"
   },
   {
     "end": 465.21,
     "start": 465.04,
-    "word": "these"
+    "text": "these"
   },
   {
     "end": 465.64,
     "start": 465.21,
-    "word": "machines"
+    "text": "machines"
   },
   {
     "end": 465.83,
     "start": 465.64,
-    "word": "could"
+    "text": "could"
   },
   {
     "end": 468.75,
     "start": 465.83,
-    "word": "matter."
+    "text": "matter."
   },
   {
     "end": 468.83,
     "start": 468.75,
-    "word": "A"
+    "text": "A"
   },
   {
     "end": 469.1,
     "start": 468.83,
-    "word": "few"
+    "text": "few"
   },
   {
     "end": 469.36,
     "start": 469.1,
-    "word": "years"
+    "text": "years"
   },
   {
     "end": 470.14,
     "start": 469.36,
-    "word": "after"
+    "text": "after"
   },
   {
     "end": 470.36,
     "start": 470.14,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 470.7,
     "start": 470.36,
-    "word": "first"
+    "text": "first"
   },
   {
     "end": 471.09,
     "start": 470.7,
-    "word": "initial"
+    "text": "initial"
   },
   {
     "end": 471.72,
     "start": 471.09,
-    "word": "experience"
+    "text": "experience"
   },
   {
     "end": 471.8,
     "start": 471.72,
-    "word": "I"
+    "text": "I"
   },
   {
     "end": 472.08,
     "start": 471.8,
-    "word": "had"
+    "text": "had"
   },
   {
     "end": 472.21,
     "start": 472.08,
-    "word": "with"
+    "text": "with"
   },
   {
     "end": 472.42,
     "start": 472.21,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 472.67,
     "start": 472.42,
-    "word": "baby"
+    "text": "baby"
   },
   {
     "start": 472.67,
     "end": 473.12,
-    "word": "dinosaur"
+    "text": "dinosaur"
   },
   {
-    "word": "robot,",
-    "start": 473.07800000000003,
+    "text": "robot,",
+    "start": 473.12,
     "end": 473.528
   },
   {
-    "word": "I",
-    "start": 473.486,
+    "text": "I",
+    "start": 473.528,
     "end": 473.93600000000004
   },
   {
-    "word": "did",
-    "start": 473.894,
+    "text": "did",
+    "start": 473.93600000000004,
     "end": 474.344
   },
   {
-    "word": "a",
-    "start": 474.30199999999996,
+    "text": "a",
+    "start": 474.344,
     "end": 474.752
   },
   {
     "end": 475.16,
-    "start": 474.71,
-    "word": "workshop"
+    "start": 474.752,
+    "text": "workshop"
   },
   {
     "end": 475.29,
     "start": 475.16,
-    "word": "with"
+    "text": "with"
   },
   {
     "end": 475.39,
     "start": 475.29,
-    "word": "my"
+    "text": "my"
   },
   {
     "start": 475.39,
     "end": 475.69,
-    "word": "friend"
+    "text": "friend"
   },
   {
-    "word": "Hannes",
+    "text": "Hannes",
     "start": 475.93000000000006,
     "end": 476.18750000000006
   },
   {
-    "word": "Gassert.",
+    "text": "Gassert.",
     "start": 476.47,
     "end": 476.685
   },
   {
-    "word": "And",
+    "text": "And",
     "start": 477.01,
     "end": 477.18249999999995
   },
   {
     "end": 477.68,
     "start": 477.55,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 477.88,
     "start": 477.68,
-    "word": "took"
+    "text": "took"
   },
   {
     "end": 478.26,
     "start": 477.88,
-    "word": "five"
+    "text": "five"
   },
   {
     "end": 478.36,
     "start": 478.26,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 478.67,
     "start": 478.36,
-    "word": "these"
+    "text": "these"
   },
   {
     "end": 478.9,
     "start": 478.67,
-    "word": "baby"
+    "text": "baby"
   },
   {
     "start": 478.9,
     "end": 479.38,
-    "word": "dinosaur"
+    "text": "dinosaur"
   },
   {
-    "word": "robots",
-    "start": 479.158,
+    "text": "robots",
+    "start": 479.38,
     "end": 479.57
   },
   {
-    "word": "and",
-    "start": 479.416,
+    "text": "and",
+    "start": 479.57,
     "end": 479.76
   },
   {
-    "word": "we",
-    "start": 479.674,
+    "text": "we",
+    "start": 479.76,
     "end": 479.95
   },
   {
-    "word": "gave",
-    "start": 479.932,
+    "text": "gave",
+    "start": 479.95,
     "end": 480.14
   },
   {
     "start": 480.19,
     "confidence": 0.88,
     "end": 480.33,
-    "word": "them",
+    "text": "them",
     "punct": "them.",
     "index": 1154
   },
   {
-    "word": "to",
-    "start": 480.295,
+    "text": "to",
+    "start": 480.33,
     "end": 480.54499999999996
   },
   {
     "end": 480.76,
-    "start": 480.4,
-    "word": "five"
+    "start": 480.54499999999996,
+    "text": "five"
   },
   {
     "end": 481.08,
     "start": 480.76,
-    "word": "teams"
+    "text": "teams"
   },
   {
     "end": 481.17,
     "start": 481.08,
-    "word": "of"
+    "text": "of"
   },
   {
     "start": 481.17,
     "end": 481.72,
-    "word": "people."
+    "text": "people."
   },
   {
-    "word": "And",
+    "text": "And",
     "start": 481.74000000000007,
     "end": 482.115
   },
   {
     "end": 482.51,
     "start": 482.31,
-    "word": "we"
+    "text": "we"
   },
   {
     "start": 482.51,
     "end": 482.7,
-    "word": "had"
+    "text": "had"
   },
   {
-    "word": "them",
-    "start": 482.65000000000003,
+    "text": "them",
+    "start": 482.7,
     "end": 482.96000000000004
   },
   {
     "end": 483.22,
-    "start": 482.79,
-    "word": "name"
+    "start": 482.96000000000004,
+    "text": "name"
   },
   {
     "end": 484,
     "start": 483.22,
-    "word": "them"
+    "text": "them"
   },
   {
     "end": 484.13,
     "start": 484,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 484.43,
     "start": 484.13,
-    "word": "play"
+    "text": "play"
   },
   {
     "end": 484.61,
     "start": 484.43,
-    "word": "with"
+    "text": "with"
   },
   {
     "end": 485.14,
     "start": 484.61,
-    "word": "them"
+    "text": "them"
   },
   {
     "end": 485.24,
     "start": 485.14,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 485.79,
     "start": 485.24,
-    "word": "interact"
+    "text": "interact"
   },
   {
     "end": 485.92,
     "start": 485.79,
-    "word": "with"
+    "text": "with"
   },
   {
     "end": 486.3,
     "start": 485.92,
-    "word": "them"
+    "text": "them"
   },
   {
     "end": 486.82,
     "start": 486.3,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 487.17,
     "start": 486.82,
-    "word": "about"
+    "text": "about"
   },
   {
     "end": 487.28,
     "start": 487.17,
-    "word": "an"
+    "text": "an"
   },
   {
     "end": 488.48,
     "start": 487.28,
-    "word": "hour."
+    "text": "hour."
   },
   {
     "end": 488.81,
     "start": 488.48,
-    "word": "And"
+    "text": "And"
   },
   {
     "end": 489.07,
     "start": 488.81,
-    "word": "then"
+    "text": "then"
   },
   {
     "end": 489.19,
     "start": 489.07,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 489.73,
     "start": 489.19,
-    "word": "unveiled"
+    "text": "unveiled"
   },
   {
-    "start": 489.7,
+    "start": 489.73,
     "end": 489.82,
-    "word": "a"
+    "text": "a"
   },
   {
-    "word": "hammer",
+    "text": "hammer",
     "start": 489.835,
     "end": 490.025
   },
   {
     "end": 490.23,
-    "start": 489.97,
-    "word": "and"
+    "start": 490.025,
+    "text": "and"
   },
   {
     "end": 490.33,
     "start": 490.23,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 490.92,
     "start": 490.33,
-    "word": "hatchet"
+    "text": "hatchet"
   },
   {
     "end": 491.02,
     "start": 490.92,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 491.14,
     "start": 491.02,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 491.39,
     "start": 491.14,
-    "word": "told"
+    "text": "told"
   },
   {
     "end": 491.51,
     "start": 491.39,
-    "word": "them"
+    "text": "them"
   },
   {
     "end": 491.61,
     "start": 491.51,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 492.01,
     "start": 491.61,
-    "word": "torture"
+    "text": "torture"
   },
   {
     "end": 492.1,
     "start": 492.01,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 492.41,
     "start": 492.1,
-    "word": "kill"
+    "text": "kill"
   },
   {
     "start": 492.41,
     "end": 492.56,
-    "word": "the"
+    "text": "the"
   },
   {
-    "word": "robots.",
+    "text": "robots.",
     "start": 493.1771428571429,
     "end": 493.32571428571424
   },
   {
-    "word": "(Laughter)",
+    "text": "(Laughter)",
     "start": 493.94428571428574,
     "end": 494.0914285714286
   },
   {
-    "word": "And",
+    "text": "And",
     "start": 494.7114285714286,
     "end": 494.85714285714283
   },
   {
-    "word": "this",
+    "text": "this",
     "start": 495.47857142857134,
     "end": 495.6228571428571
   },
   {
-    "word": "turned",
+    "text": "turned",
     "start": 496.2457142857142,
     "end": 496.3885714285714
   },
   {
-    "word": "out",
+    "text": "out",
     "start": 497.01285714285706,
     "end": 497.15428571428566
   },
   {
     "end": 497.92,
     "start": 497.78,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 498.04,
     "start": 497.92,
-    "word": "be"
+    "text": "be"
   },
   {
     "end": 498.1,
     "start": 498.04,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 498.29,
     "start": 498.1,
-    "word": "little"
+    "text": "little"
   },
   {
     "end": 498.43,
     "start": 498.29,
-    "word": "more"
+    "text": "more"
   },
   {
     "end": 499.01,
     "start": 498.43,
-    "word": "dramatic"
+    "text": "dramatic"
   },
   {
     "end": 499.13,
     "start": 499.01,
-    "word": "than"
+    "text": "than"
   },
   {
     "end": 499.24,
     "start": 499.13,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 499.91,
     "start": 499.24,
-    "word": "expected"
+    "text": "expected"
   },
   {
     "end": 500.01,
     "start": 499.91,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 500.12,
     "start": 500.01,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 500.3,
     "start": 500.12,
-    "word": "be,"
+    "text": "be,"
   },
   {
     "end": 500.6,
     "start": 500.3,
-    "word": "because"
+    "text": "because"
   },
   {
     "end": 500.91,
     "start": 500.6,
-    "word": "none"
+    "text": "none"
   },
   {
     "end": 501.02,
     "start": 500.91,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 501.1,
     "start": 501.02,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 501.86,
     "start": 501.1,
-    "word": "participants"
+    "text": "participants"
   },
   {
     "end": 502.43,
     "start": 501.86,
-    "word": "would"
+    "text": "would"
   },
   {
     "end": 502.71,
     "start": 502.43,
-    "word": "even"
+    "text": "even"
   },
   {
     "end": 502.81,
     "start": 502.71,
-    "word": "so"
+    "text": "so"
   },
   {
     "start": 502.81,
     "end": 503.01,
-    "word": "much"
+    "text": "much"
   },
   {
-    "word": "as",
-    "start": 502.95,
+    "text": "as",
+    "start": 503.01,
     "end": 503.29
   },
   {
     "end": 503.57,
-    "start": 503.09,
-    "word": "strike"
+    "start": 503.29,
+    "text": "strike"
   },
   {
     "start": 503.57,
     "end": 503.78,
-    "word": "these"
+    "text": "these"
   },
   {
-    "word": "baby",
+    "text": "baby",
     "start": 503.8675,
     "end": 504.18999999999994
   },
   {
-    "word": "dinosaur",
-    "start": 504.16499999999996,
+    "text": "dinosaur",
+    "start": 504.18999999999994,
     "end": 504.5999999999999
   },
   {
-    "word": "robots,",
-    "start": 504.4625,
+    "text": "robots,",
+    "start": 504.5999999999999,
     "end": 505.01
   },
   {
     "end": 505.42,
-    "start": 504.76,
-    "word": "so"
+    "start": 505.01,
+    "text": "so"
   },
   {
     "end": 505.56,
     "start": 505.42,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 505.65,
     "start": 505.56,
-    "word": "had"
+    "text": "had"
   },
   {
     "end": 505.71,
     "start": 505.65,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 506.22,
     "start": 505.71,
-    "word": "improvise"
+    "text": "improvise"
   },
   {
     "start": 506.22,
     "end": 506.31,
-    "word": "a"
+    "text": "a"
   },
   {
-    "word": "little,",
+    "text": "little,",
     "start": 506.7900000000001,
     "end": 507.06
   },
   {
     "end": 507.81,
     "start": 507.36,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 507.99,
     "start": 507.81,
-    "word": "at"
+    "text": "at"
   },
   {
     "end": 508.16,
     "start": 507.99,
-    "word": "some"
+    "text": "some"
   },
   {
     "end": 508.33,
     "start": 508.16,
-    "word": "point,"
+    "text": "point,"
   },
   {
     "end": 508.42,
     "start": 508.33,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 508.72,
     "start": 508.42,
-    "word": "said,"
+    "text": "said,"
   },
   {
     "end": 510.06,
     "start": 508.72,
-    "word": "\"OK,"
+    "text": "\"OK,"
   },
   {
     "end": 510.35,
     "start": 510.06,
-    "word": "you"
+    "text": "you"
   },
   {
     "end": 510.51,
     "start": 510.35,
-    "word": "can"
+    "text": "can"
   },
   {
     "end": 510.86,
     "start": 510.51,
-    "word": "save"
+    "text": "save"
   },
   {
     "end": 511.16,
     "start": 510.86,
-    "word": "your"
+    "text": "your"
   },
   {
     "start": 511.16,
     "end": 511.6,
-    "word": "team's"
+    "text": "team's"
   },
   {
-    "word": "robot",
+    "text": "robot",
     "start": 511.63499999999993,
     "end": 511.96500000000003
   },
   {
     "end": 512.33,
     "start": 512.11,
-    "word": "if"
+    "text": "if"
   },
   {
     "end": 512.45,
     "start": 512.33,
-    "word": "you"
+    "text": "you"
   },
   {
     "end": 513.05,
     "start": 512.45,
-    "word": "destroy"
+    "text": "destroy"
   },
   {
     "end": 513.64,
     "start": 513.05,
-    "word": "another"
+    "text": "another"
   },
   {
-    "start": 513.63,
+    "start": 513.64,
     "end": 514.02,
-    "word": "team's"
+    "text": "team's"
   },
   {
-    "word": "robot.\"",
+    "text": "robot.\"",
     "start": 514.3380000000001,
     "end": 514.6840000000001
   },
   {
-    "word": "(Laughter)",
+    "text": "(Laughter)",
     "start": 515.046,
     "end": 515.3480000000001
   },
   {
-    "word": "And",
+    "text": "And",
     "start": 515.754,
     "end": 516.0120000000001
   },
   {
-    "word": "even",
+    "text": "even",
     "start": 516.462,
     "end": 516.676
   },
   {
     "end": 517.34,
     "start": 517.17,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 517.58,
     "start": 517.34,
-    "word": "didn't"
+    "text": "didn't"
   },
   {
     "start": 517.58,
     "end": 517.85,
-    "word": "work."
+    "text": "work."
   },
   {
-    "word": "They",
-    "start": 517.76,
+    "text": "They",
+    "start": 517.85,
     "end": 518.0350000000001
   },
   {
     "end": 518.22,
-    "start": 517.94,
-    "word": "couldn't"
+    "start": 518.0350000000001,
+    "text": "couldn't"
   },
   {
     "end": 518.34,
     "start": 518.22,
-    "word": "do"
+    "text": "do"
   },
   {
     "start": 518.34,
     "end": 518.57,
-    "word": "it."
+    "text": "it."
   },
   {
-    "word": "So",
-    "start": 518.54,
+    "text": "So",
+    "start": 518.57,
     "end": 518.94
   },
   {
-    "start": 518.74,
+    "start": 518.94,
     "confidence": 1,
     "end": 519.31,
-    "word": "finally,",
+    "text": "finally,",
     "punct": "finally",
     "index": 1261
   },
   {
-    "word": "we",
-    "start": 519.0350000000001,
+    "text": "we",
+    "start": 519.31,
     "end": 519.68
   },
   {
     "end": 520.05,
-    "start": 519.33,
-    "word": "said,"
+    "start": 519.68,
+    "text": "said,"
   },
   {
-    "start": 519.74,
+    "start": 520.05,
     "end": 520.23,
-    "word": "\"We're"
+    "text": "\"We're"
   },
   {
-    "word": "going",
-    "start": 519.9633333333334,
+    "text": "going",
+    "start": 520.23,
     "end": 520.4633333333334
   },
   {
-    "word": "to",
-    "start": 520.1866666666666,
+    "text": "to",
+    "start": 520.4633333333334,
     "end": 520.6966666666666
   },
   {
     "end": 520.93,
-    "start": 520.41,
-    "word": "destroy"
+    "start": 520.6966666666666,
+    "text": "destroy"
   },
   {
-    "start": 520.9,
+    "start": 520.93,
     "end": 521.26,
-    "word": "all"
+    "text": "all"
   },
   {
-    "word": "of",
-    "start": 521.1675,
+    "text": "of",
+    "start": 521.26,
     "end": 521.495
   },
   {
-    "word": "the",
-    "start": 521.435,
+    "text": "the",
+    "start": 521.495,
     "end": 521.73
   },
   {
-    "word": "robots",
-    "start": 521.7025,
+    "text": "robots",
+    "start": 521.73,
     "end": 521.965
   },
   {
     "end": 522.2,
     "start": 521.97,
-    "word": "unless"
+    "text": "unless"
   },
   {
     "end": 522.5,
     "start": 522.2,
-    "word": "someone"
+    "text": "someone"
   },
   {
     "end": 522.71,
     "start": 522.5,
-    "word": "takes"
+    "text": "takes"
   },
   {
     "end": 522.77,
     "start": 522.71,
-    "word": "a"
+    "text": "a"
   },
   {
     "start": 522.77,
     "end": 523.24,
-    "word": "hatchet"
+    "text": "hatchet"
   },
   {
-    "word": "to",
-    "start": 523.06,
+    "text": "to",
+    "start": 523.24,
     "end": 523.405
   },
   {
     "end": 523.57,
-    "start": 523.35,
-    "word": "one"
+    "start": 523.405,
+    "text": "one"
   },
   {
     "end": 523.72,
     "start": 523.57,
-    "word": "of"
+    "text": "of"
   },
   {
     "start": 523.72,
     "end": 524,
-    "word": "them.\""
+    "text": "them.\""
   },
   {
-    "word": "And",
+    "text": "And",
     "start": 524.7050000000002,
     "end": 524.99
   },
   {
     "end": 525.98,
     "start": 525.69,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 526.24,
     "start": 525.98,
-    "word": "guy"
+    "text": "guy"
   },
   {
     "end": 526.51,
     "start": 526.24,
-    "word": "stood"
+    "text": "stood"
   },
   {
     "end": 526.8,
     "start": 526.51,
-    "word": "up,"
+    "text": "up,"
   },
   {
     "end": 527.05,
     "start": 526.8,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 527.3,
     "start": 527.05,
-    "word": "he"
+    "text": "he"
   },
   {
     "end": 527.64,
     "start": 527.3,
-    "word": "took"
+    "text": "took"
   },
   {
     "end": 527.82,
     "start": 527.64,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 529.11,
     "start": 527.82,
-    "word": "hatchet,"
+    "text": "hatchet,"
   },
   {
     "end": 529.38,
     "start": 529.11,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 529.46,
     "start": 529.38,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 529.73,
     "start": 529.46,
-    "word": "whole"
+    "text": "whole"
   },
   {
     "start": 529.73,
     "end": 530.09,
-    "word": "room"
+    "text": "room"
   },
   {
-    "word": "winced",
-    "start": 529.9757142857143,
+    "text": "winced",
+    "start": 530.09,
     "end": 530.3328571428572
   },
   {
-    "word": "as",
-    "start": 530.2214285714285,
+    "text": "as",
+    "start": 530.3328571428572,
     "end": 530.5757142857143
   },
   {
-    "word": "he",
-    "start": 530.4671428571428,
+    "text": "he",
+    "start": 530.5757142857143,
     "end": 530.8185714285714
   },
   {
-    "word": "brought",
-    "start": 530.7128571428572,
+    "text": "brought",
+    "start": 530.8185714285714,
     "end": 531.0614285714286
   },
   {
-    "word": "the",
-    "start": 530.9585714285715,
+    "text": "the",
+    "start": 531.0614285714286,
     "end": 531.3042857142857
   },
   {
-    "word": "hatchet",
-    "start": 531.2042857142858,
+    "text": "hatchet",
+    "start": 531.3042857142857,
     "end": 531.5471428571428
   },
   {
     "end": 531.79,
-    "start": 531.45,
-    "word": "down"
+    "start": 531.5471428571428,
+    "text": "down"
   },
   {
     "start": 531.79,
     "end": 531.9,
-    "word": "on"
+    "text": "on"
   },
   {
-    "word": "the",
-    "start": 531.8599999999999,
+    "text": "the",
+    "start": 531.9,
     "end": 532.165
   },
   {
     "end": 532.43,
-    "start": 531.93,
-    "word": "robot's"
+    "start": 532.165,
+    "text": "robot's"
   },
   {
     "end": 533.65,
     "start": 532.43,
-    "word": "neck,"
+    "text": "neck,"
   },
   {
     "end": 534.07,
     "start": 533.65,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 534.33,
     "start": 534.07,
-    "word": "there"
+    "text": "there"
   },
   {
     "end": 534.52,
     "start": 534.33,
-    "word": "was"
+    "text": "was"
   },
   {
     "start": 534.52,
     "end": 534.7,
-    "word": "this"
+    "text": "this"
   },
   {
-    "word": "half-joking,",
+    "text": "half-joking,",
     "start": 535.49,
     "end": 535.7366666666667
   },
   {
-    "word": "half-serious",
+    "text": "half-serious",
     "start": 536.46,
     "end": 536.7733333333333
   },
   {
     "end": 537.81,
     "start": 537.43,
-    "word": "moment"
+    "text": "moment"
   },
   {
     "end": 537.88,
     "start": 537.81,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 538.57,
     "start": 537.88,
-    "word": "silence"
+    "text": "silence"
   },
   {
     "end": 538.81,
     "start": 538.57,
-    "word": "in"
+    "text": "in"
   },
   {
     "end": 538.91,
     "start": 538.81,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 540.04,
     "start": 538.91,
-    "word": "room"
+    "text": "room"
   },
   {
     "end": 540.27,
     "start": 540.04,
-    "word": "for"
+    "text": "for"
   },
   {
     "start": 540.27,
     "end": 540.5,
-    "word": "this"
+    "text": "this"
   },
   {
-    "word": "fallen",
+    "text": "fallen",
     "start": 541.005,
     "end": 541.2874999999999
   },
   {
-    "word": "robot.",
+    "text": "robot.",
     "start": 541.74,
     "end": 542.0749999999998
   },
   {
-    "word": "(Laughter)",
+    "text": "(Laughter)",
     "start": 542.475,
     "end": 542.8625
   },
   {
     "end": 543.65,
     "start": 543.21,
-    "word": "So"
+    "text": "So"
   },
   {
     "end": 543.88,
     "start": 543.65,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 544.04,
     "start": 543.88,
-    "word": "was"
+    "text": "was"
   },
   {
     "end": 544.19,
     "start": 544.04,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 544.57,
     "start": 544.19,
-    "word": "really"
+    "text": "really"
   },
   {
     "end": 545.37,
     "start": 544.57,
-    "word": "interesting"
+    "text": "interesting"
   },
   {
     "start": 545.37,
     "end": 546.54,
-    "word": "experience."
+    "text": "experience."
   },
   {
-    "word": "Now,",
-    "start": 546.225,
+    "text": "Now,",
+    "start": 546.54,
     "end": 546.905
   },
   {
     "end": 547.27,
     "start": 547.08,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 547.54,
     "start": 547.27,
-    "word": "wasn't"
+    "text": "wasn't"
   },
   {
     "end": 547.59,
     "start": 547.54,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 548.26,
     "start": 547.59,
-    "word": "controlled"
+    "text": "controlled"
   },
   {
     "start": 548.26,
     "end": 548.73,
-    "word": "study,"
+    "text": "study,"
   },
   {
-    "word": "obviously,",
+    "text": "obviously,",
     "start": 548.8299999999999,
     "end": 549.1500000000001
   },
   {
     "end": 549.57,
     "start": 549.4,
-    "word": "but"
+    "text": "but"
   },
   {
     "end": 549.7,
     "start": 549.57,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 549.94,
     "start": 549.7,
-    "word": "did"
+    "text": "did"
   },
   {
     "end": 550.13,
     "start": 549.94,
-    "word": "lead"
+    "text": "lead"
   },
   {
     "end": 550.22,
     "start": 550.13,
-    "word": "to"
+    "text": "to"
   },
   {
     "start": 550.23,
     "end": 550.47,
-    "word": "some"
+    "text": "some"
   },
   {
-    "word": "later",
+    "text": "later",
     "start": 550.475,
     "end": 550.84
   },
   {
     "end": 551.21,
-    "start": 550.72,
-    "word": "research"
+    "start": 550.84,
+    "text": "research"
   },
   {
     "end": 551.34,
     "start": 551.21,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 551.43,
     "start": 551.34,
-    "word": "I"
+    "text": "I"
   },
   {
     "start": 551.43,
     "end": 551.79,
-    "word": "did"
+    "text": "did"
   },
   {
-    "word": "at",
-    "start": 551.71,
+    "text": "at",
+    "start": 551.79,
     "end": 552.0133333333333
   },
   {
-    "word": "MIT",
-    "start": 551.99,
+    "text": "MIT",
+    "start": 552.0133333333333,
     "end": 552.2366666666667
   },
   {
     "start": 552.27,
     "confidence": 1,
     "end": 552.46,
-    "word": "with",
+    "text": "with",
     "punct": "With",
     "index": 1349
   },
   {
-    "word": "Palash",
+    "text": "Palash",
     "start": 552.56,
     "end": 552.73
   },
   {
-    "word": "Nandy",
+    "text": "Nandy",
     "start": 552.85,
     "end": 553
   },
   {
     "end": 553.27,
     "start": 553.14,
-    "word": "and"
+    "text": "and"
   },
   {
     "start": 553.27,
     "end": 553.64,
-    "word": "Cynthia"
+    "text": "Cynthia"
   },
   {
-    "word": "Breazeal,",
+    "text": "Breazeal,",
     "start": 553.895,
     "end": 554.23
   },
   {
     "end": 554.82,
     "start": 554.52,
-    "word": "where"
+    "text": "where"
   },
   {
     "end": 554.97,
     "start": 554.82,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 555.11,
     "start": 554.97,
-    "word": "had"
+    "text": "had"
   },
   {
     "end": 555.33,
     "start": 555.11,
-    "word": "people"
+    "text": "people"
   },
   {
     "end": 555.53,
     "start": 555.33,
-    "word": "come"
+    "text": "come"
   },
   {
     "end": 555.71,
     "start": 555.53,
-    "word": "into"
+    "text": "into"
   },
   {
     "end": 555.81,
     "start": 555.71,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 556.66,
     "start": 555.81,
-    "word": "lab"
+    "text": "lab"
   },
   {
     "end": 556.9,
     "start": 556.66,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 557.25,
     "start": 556.9,
-    "word": "smash"
+    "text": "smash"
   },
   {
     "start": 557.25,
     "end": 557.44,
-    "word": "these"
+    "text": "these"
   },
   {
-    "word": "HEXBUGs",
+    "text": "HEXBUGs",
     "start": 557.73,
     "end": 557.875
   },
   {
     "end": 558.31,
     "start": 558.21,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 558.6,
     "start": 558.31,
-    "word": "move"
+    "text": "move"
   },
   {
     "end": 559.1,
     "start": 558.6,
-    "word": "around"
+    "text": "around"
   },
   {
     "end": 559.24,
     "start": 559.1,
-    "word": "in"
+    "text": "in"
   },
   {
     "end": 559.29,
     "start": 559.24,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 559.5,
     "start": 559.29,
-    "word": "really"
+    "text": "really"
   },
   {
     "end": 559.91,
     "start": 559.5,
-    "word": "lifelike"
+    "text": "lifelike"
   },
   {
     "end": 560.07,
     "start": 559.91,
-    "word": "way,"
+    "text": "way,"
   },
   {
     "end": 560.31,
     "start": 560.07,
-    "word": "like"
+    "text": "like"
   },
   {
     "end": 561.3,
     "start": 560.31,
-    "word": "insects."
+    "text": "insects."
   },
   {
     "end": 561.49,
     "start": 561.3,
-    "word": "So"
+    "text": "So"
   },
   {
     "end": 561.71,
     "start": 561.49,
-    "word": "instead"
+    "text": "instead"
   },
   {
     "end": 561.8,
     "start": 561.71,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 562.1,
     "start": 561.8,
-    "word": "choosing"
+    "text": "choosing"
   },
   {
     "start": 562.1,
     "end": 562.35,
-    "word": "something"
+    "text": "something"
   },
   {
-    "word": "cute",
-    "start": 562.34,
+    "text": "cute",
+    "start": 562.35,
     "end": 562.8033333333334
   },
   {
-    "word": "that",
-    "start": 562.58,
+    "text": "that",
+    "start": 562.8033333333334,
     "end": 563.2566666666667
   },
   {
     "end": 563.71,
-    "start": 562.82,
-    "word": "people"
+    "start": 563.2566666666667,
+    "text": "people"
   },
   {
-    "start": 563.33,
+    "start": 563.71,
     "end": 563.84,
-    "word": "are"
+    "text": "are"
   },
   {
-    "word": "drawn",
-    "start": 563.6179999999999,
+    "text": "drawn",
+    "start": 563.84,
     "end": 564.0820000000001
   },
   {
-    "word": "to,",
-    "start": 563.906,
+    "text": "to,",
+    "start": 564.0820000000001,
     "end": 564.3240000000001
   },
   {
-    "word": "we",
-    "start": 564.194,
+    "text": "we",
+    "start": 564.3240000000001,
     "end": 564.566
   },
   {
-    "word": "chose",
-    "start": 564.482,
+    "text": "chose",
+    "start": 564.566,
     "end": 564.808
   },
   {
     "end": 565.05,
-    "start": 564.77,
-    "word": "something"
+    "start": 564.808,
+    "text": "something"
   },
   {
     "end": 565.23,
     "start": 565.05,
-    "word": "more"
+    "text": "more"
   },
   {
     "end": 566.57,
     "start": 565.23,
-    "word": "basic,"
+    "text": "basic,"
   },
   {
     "end": 567.21,
     "start": 566.57,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 567.41,
     "start": 567.21,
-    "word": "what"
+    "text": "what"
   },
   {
     "end": 567.53,
     "start": 567.41,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 568.19,
     "start": 567.53,
-    "word": "found"
+    "text": "found"
   },
   {
     "end": 568.55,
     "start": 568.19,
-    "word": "was"
+    "text": "was"
   },
   {
     "start": 568.55,
     "end": 568.77,
-    "word": "that"
+    "text": "that"
   },
   {
-    "word": "high-empathy",
+    "text": "high-empathy",
     "start": 569.105,
     "end": 569.435
   },
   {
     "end": 570.1,
     "start": 569.66,
-    "word": "people"
+    "text": "people"
   },
   {
     "end": 570.24,
     "start": 570.1,
-    "word": "would"
+    "text": "would"
   },
   {
     "end": 570.8,
     "start": 570.24,
-    "word": "hesitate"
+    "text": "hesitate"
   },
   {
     "start": 570.8,
     "end": 571.03,
-    "word": "more"
+    "text": "more"
   },
   {
-    "word": "to",
-    "start": 570.93,
+    "text": "to",
+    "start": 571.03,
     "end": 571.155
   },
   {
     "end": 571.28,
-    "start": 571.06,
-    "word": "hit"
+    "start": 571.155,
+    "text": "hit"
   },
   {
-    "start": 571.26,
+    "start": 571.28,
     "end": 571.36,
-    "word": "the"
+    "text": "the"
   },
   {
-    "word": "HEXBUGS.",
+    "text": "HEXBUGS.",
     "start": 571.9933333333333,
     "end": 572.1633333333333
   },
   {
-    "word": "Now",
+    "text": "Now",
     "start": 572.7266666666667,
     "end": 572.9666666666668
   },
   {
     "end": 573.77,
     "start": 573.46,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 573.92,
     "start": 573.77,
-    "word": "is"
+    "text": "is"
   },
   {
     "end": 574.11,
     "start": 573.92,
-    "word": "just"
+    "text": "just"
   },
   {
     "end": 574.2,
     "start": 574.11,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 574.4,
     "start": 574.2,
-    "word": "little"
+    "text": "little"
   },
   {
     "end": 574.91,
     "start": 574.4,
-    "word": "study,"
+    "text": "study,"
   },
   {
     "end": 575.49,
     "start": 574.91,
-    "word": "but"
+    "text": "but"
   },
   {
     "end": 575.74,
     "start": 575.49,
-    "word": "it's"
+    "text": "it's"
   },
   {
     "end": 575.97,
     "start": 575.74,
-    "word": "part"
+    "text": "part"
   },
   {
     "end": 576.07,
     "start": 575.97,
-    "word": "of"
+    "text": "of"
   },
   {
     "start": 576.07,
     "end": 576.11,
-    "word": "a"
+    "text": "a"
   },
   {
-    "word": "larger",
+    "text": "larger",
     "start": 576.28,
     "end": 576.44
   },
   {
     "end": 576.77,
     "start": 576.49,
-    "word": "body"
+    "text": "body"
   },
   {
     "end": 576.88,
     "start": 576.77,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 577.56,
     "start": 576.88,
-    "word": "research"
+    "text": "research"
   },
   {
     "end": 578.02,
     "start": 577.56,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 578.24,
     "start": 578.02,
-    "word": "is"
+    "text": "is"
   },
   {
     "end": 578.61,
     "start": 578.24,
-    "word": "starting"
+    "text": "starting"
   },
   {
     "end": 578.76,
     "start": 578.61,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 579.2,
     "start": 578.76,
-    "word": "indicate"
+    "text": "indicate"
   },
   {
     "end": 579.31,
     "start": 579.2,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 579.4,
     "start": 579.31,
-    "word": "there"
+    "text": "there"
   },
   {
     "end": 579.63,
     "start": 579.4,
-    "word": "may"
+    "text": "may"
   },
   {
     "end": 579.89,
     "start": 579.63,
-    "word": "be"
+    "text": "be"
   },
   {
     "end": 579.93,
     "start": 579.89,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 580.54,
     "start": 579.93,
-    "word": "connection"
+    "text": "connection"
   },
   {
     "end": 580.87,
     "start": 580.54,
-    "word": "between"
+    "text": "between"
   },
   {
     "end": 581.28,
     "start": 580.87,
-    "word": "people's"
+    "text": "people's"
   },
   {
     "end": 581.81,
     "start": 581.28,
-    "word": "tendencies"
+    "text": "tendencies"
   },
   {
     "end": 581.92,
     "start": 581.81,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 582.88,
     "start": 581.92,
-    "word": "empathy"
+    "text": "empathy"
   },
   {
     "end": 583.04,
     "start": 582.88,
-    "word": "and"
+    "text": "and"
   },
   {
     "start": 583.04,
     "end": 583.15,
-    "word": "their"
+    "text": "their"
   },
   {
-    "word": "behavior",
+    "text": "behavior",
     "start": 583.42,
     "end": 583.6700000000001
   },
@@ -7535,130 +7535,130 @@
     "start": 583.8,
     "confidence": 1,
     "end": 584.19,
-    "word": "around",
+    "text": "around",
     "punct": "around,",
     "index": 1444
   },
   {
-    "word": "robots.",
+    "text": "robots.",
     "start": 584.7450000000001,
     "end": 585.03
   },
   {
     "end": 585.87,
     "start": 585.69,
-    "word": "But"
+    "text": "But"
   },
   {
     "end": 586.1,
     "start": 585.87,
-    "word": "my"
+    "text": "my"
   },
   {
     "end": 586.87,
     "start": 586.1,
-    "word": "question"
+    "text": "question"
   },
   {
     "end": 587.01,
     "start": 586.87,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 587.1,
     "start": 587.01,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 587.61,
     "start": 587.1,
-    "word": "coming"
+    "text": "coming"
   },
   {
     "end": 587.97,
     "start": 587.61,
-    "word": "era"
+    "text": "era"
   },
   {
-    "start": 587.95,
+    "start": 587.97,
     "end": 588.09,
-    "word": "of"
+    "text": "of"
   },
   {
-    "word": "human-robot",
+    "text": "human-robot",
     "start": 588.32,
     "end": 588.725
   },
   {
     "end": 589.36,
-    "start": 588.69,
-    "word": "interaction"
+    "start": 588.725,
+    "text": "interaction"
   },
   {
-    "start": 589.33,
+    "start": 589.36,
     "end": 589.55,
-    "word": "is"
+    "text": "is"
   },
   {
-    "word": "not:",
+    "text": "not:",
     "start": 589.89,
     "end": 590.075
   },
   {
     "end": 590.6,
     "start": 590.45,
-    "word": "\"Do"
+    "text": "\"Do"
   },
   {
     "start": 590.6,
     "end": 590.76,
-    "word": "we"
+    "text": "we"
   },
   {
-    "word": "empathize",
+    "text": "empathize",
     "start": 591.01,
     "end": 591.185
   },
   {
     "end": 591.61,
     "start": 591.42,
-    "word": "with"
+    "text": "with"
   },
   {
     "end": 593.18,
     "start": 591.61,
-    "word": "robots?\""
+    "text": "robots?\""
   },
   {
-    "start": 592.41,
+    "start": 593.18,
     "end": 593.42,
-    "word": "It's:"
+    "text": "It's:"
   },
   {
-    "word": "\"Can",
-    "start": 593.0566666666667,
+    "text": "\"Can",
+    "start": 593.42,
     "end": 593.9466666666667
   },
   {
-    "word": "robots",
-    "start": 593.7033333333334,
+    "text": "robots",
+    "start": 593.9466666666667,
     "end": 594.4733333333334
   },
   {
-    "start": 594.35,
+    "start": 594.4733333333334,
     "confidence": 0.8,
     "end": 595,
-    "word": "change",
+    "text": "change",
     "punct": "change",
     "index": 1467
   },
   {
-    "word": "people's",
+    "text": "people's",
     "start": 595.3933333333333,
     "end": 595.9000000000001
   },
   {
-    "word": "empathy?\"",
+    "text": "empathy?\"",
     "start": 596.4366666666666,
     "end": 596.8
   },
@@ -7666,1341 +7666,1341 @@
     "start": 597.48,
     "confidence": 0.94,
     "end": 597.7,
-    "word": "Is",
+    "text": "Is",
     "punct": "is",
     "index": 1471
   },
   {
-    "word": "there",
-    "start": 597.6700000000001,
+    "text": "there",
+    "start": 597.7,
     "end": 597.985
   },
   {
     "end": 598.27,
-    "start": 597.86,
-    "word": "reason"
+    "start": 597.985,
+    "text": "reason"
   },
   {
     "end": 598.49,
     "start": 598.27,
-    "word": "to,"
+    "text": "to,"
   },
   {
     "end": 598.65,
     "start": 598.49,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 599.79,
     "start": 598.65,
-    "word": "example,"
+    "text": "example,"
   },
   {
-    "start": 599.2,
+    "start": 599.79,
     "end": 600.15,
-    "word": "prevent"
+    "text": "prevent"
   },
   {
-    "word": "your",
-    "start": 599.72,
+    "text": "your",
+    "start": 600.15,
     "end": 600.4200000000001
   },
   {
     "end": 600.69,
-    "start": 600.24,
-    "word": "child"
+    "start": 600.4200000000001,
+    "text": "child"
   },
   {
     "end": 600.85,
     "start": 600.69,
-    "word": "from"
+    "text": "from"
   },
   {
     "start": 600.85,
     "end": 601.25,
-    "word": "kicking"
+    "text": "kicking"
   },
   {
-    "word": "a",
+    "text": "a",
     "start": 601.388,
     "end": 601.792
   },
   {
-    "word": "robotic",
+    "text": "robotic",
     "start": 601.926,
     "end": 602.3340000000001
   },
   {
-    "word": "dog,",
+    "text": "dog,",
     "start": 602.464,
     "end": 602.8760000000001
   },
   {
-    "word": "not",
+    "text": "not",
     "start": 603.0020000000001,
     "end": 603.4180000000001
   },
   {
     "end": 603.96,
     "start": 603.54,
-    "word": "just"
+    "text": "just"
   },
   {
     "end": 604.06,
     "start": 603.96,
-    "word": "out"
+    "text": "out"
   },
   {
     "end": 604.15,
     "start": 604.06,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 604.66,
     "start": 604.15,
-    "word": "respect"
+    "text": "respect"
   },
   {
     "end": 604.79,
     "start": 604.66,
-    "word": "for"
+    "text": "for"
   },
   {
     "start": 604.79,
     "end": 605.56,
-    "word": "property,"
+    "text": "property,"
   },
   {
-    "word": "but",
-    "start": 605.53,
+    "text": "but",
+    "start": 605.56,
     "end": 606.195
   },
   {
     "end": 606.83,
     "start": 606.27,
-    "word": "because"
+    "text": "because"
   },
   {
     "end": 606.93,
     "start": 606.83,
-    "word": "the"
+    "text": "the"
   },
   {
     "start": 606.93,
     "end": 607.25,
-    "word": "child"
+    "text": "child"
   },
   {
-    "word": "might",
-    "start": 607.135,
+    "text": "might",
+    "start": 607.25,
     "end": 607.36
   },
   {
     "end": 607.47,
-    "start": 607.34,
-    "word": "be"
+    "start": 607.36,
+    "text": "be"
   },
   {
     "end": 607.59,
     "start": 607.47,
-    "word": "more"
+    "text": "more"
   },
   {
     "end": 607.97,
     "start": 607.59,
-    "word": "likely"
+    "text": "likely"
   },
   {
     "end": 608.06,
     "start": 607.97,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 608.28,
     "start": 608.06,
-    "word": "kick"
+    "text": "kick"
   },
   {
     "end": 608.35,
     "start": 608.28,
-    "word": "a"
+    "text": "a"
   },
   {
     "start": 608.35,
     "end": 608.54,
-    "word": "real"
+    "text": "real"
   },
   {
-    "word": "dog?",
+    "text": "dog?",
     "start": 609.35,
     "end": 609.5900000000001
   },
   {
     "end": 610.64,
     "start": 610.35,
-    "word": "And"
+    "text": "And"
   },
   {
     "end": 610.96,
     "start": 610.64,
-    "word": "again,"
+    "text": "again,"
   },
   {
     "end": 611.18,
     "start": 610.96,
-    "word": "it's"
+    "text": "it's"
   },
   {
     "end": 611.46,
     "start": 611.18,
-    "word": "not"
+    "text": "not"
   },
   {
     "end": 611.73,
     "start": 611.46,
-    "word": "just"
+    "text": "just"
   },
   {
     "end": 613.53,
     "start": 611.73,
-    "word": "kids."
+    "text": "kids."
   },
   {
     "end": 613.77,
     "start": 613.53,
-    "word": "This"
+    "text": "This"
   },
   {
     "end": 613.96,
     "start": 613.77,
-    "word": "is"
+    "text": "is"
   },
   {
     "end": 614.41,
     "start": 613.96,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 615.04,
     "start": 614.41,
-    "word": "violent"
+    "text": "violent"
   },
   {
     "end": 615.38,
     "start": 615.04,
-    "word": "video"
+    "text": "video"
   },
   {
     "end": 615.69,
     "start": 615.38,
-    "word": "games"
+    "text": "games"
   },
   {
     "end": 616.15,
     "start": 615.69,
-    "word": "question,"
+    "text": "question,"
   },
   {
     "end": 616.28,
     "start": 616.15,
-    "word": "but"
+    "text": "but"
   },
   {
     "start": 616.28,
     "end": 616.4,
-    "word": "it's"
+    "text": "it's"
   },
   {
-    "word": "on",
-    "start": 616.3499999999999,
+    "text": "on",
+    "start": 616.4,
     "end": 616.4599999999999
   },
   {
     "end": 616.52,
-    "start": 616.42,
-    "word": "a"
+    "start": 616.4599999999999,
+    "text": "a"
   },
   {
     "end": 617.15,
     "start": 616.52,
-    "word": "completely"
+    "text": "completely"
   },
   {
     "end": 617.41,
     "start": 617.15,
-    "word": "new"
+    "text": "new"
   },
   {
     "end": 617.6,
     "start": 617.41,
-    "word": "level"
+    "text": "level"
   },
   {
     "end": 617.85,
     "start": 617.6,
-    "word": "because"
+    "text": "because"
   },
   {
     "end": 617.94,
     "start": 617.85,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 618.16,
     "start": 617.94,
-    "word": "this"
+    "text": "this"
   },
   {
     "end": 618.82,
     "start": 618.16,
-    "word": "visceral"
+    "text": "visceral"
   },
   {
     "end": 619.75,
     "start": 618.82,
-    "word": "physicality"
+    "text": "physicality"
   },
   {
     "end": 619.93,
     "start": 619.75,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 620.07,
     "start": 619.93,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 620.7,
     "start": 620.07,
-    "word": "respond"
+    "text": "respond"
   },
   {
     "end": 621.03,
     "start": 620.7,
-    "word": "more"
+    "text": "more"
   },
   {
     "end": 621.75,
     "start": 621.03,
-    "word": "intensely"
+    "text": "intensely"
   },
   {
     "start": 621.75,
     "end": 622.19,
-    "word": "to"
+    "text": "to"
   },
   {
-    "word": "than",
-    "start": 622.0766666666666,
+    "text": "than",
+    "start": 622.19,
     "end": 622.5066666666667
   },
   {
-    "word": "to",
-    "start": 622.4033333333333,
+    "text": "to",
+    "start": 622.5066666666667,
     "end": 622.8233333333333
   },
   {
     "end": 623.14,
-    "start": 622.73,
-    "word": "images"
+    "start": 622.8233333333333,
+    "text": "images"
   },
   {
     "end": 623.24,
     "start": 623.14,
-    "word": "on"
+    "text": "on"
   },
   {
     "end": 623.32,
     "start": 623.24,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 625.64,
     "start": 623.32,
-    "word": "screen."
+    "text": "screen."
   },
   {
     "end": 625.86,
     "start": 625.64,
-    "word": "When"
+    "text": "When"
   },
   {
     "end": 625.96,
     "start": 625.86,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 626.31,
     "start": 625.96,
-    "word": "behave"
+    "text": "behave"
   },
   {
     "end": 626.9,
     "start": 626.31,
-    "word": "violently"
+    "text": "violently"
   },
   {
     "start": 626.9,
     "end": 627.43,
-    "word": "towards"
+    "text": "towards"
   },
   {
-    "word": "robots,",
+    "text": "robots,",
     "start": 627.51,
     "end": 628.1349999999999
   },
   {
     "end": 628.84,
-    "start": 628.12,
-    "word": "specifically"
+    "start": 628.1349999999999,
+    "text": "specifically"
   },
   {
     "end": 629.22,
     "start": 628.84,
-    "word": "robots"
+    "text": "robots"
   },
   {
     "end": 629.37,
     "start": 629.22,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 629.47,
     "start": 629.37,
-    "word": "are"
+    "text": "are"
   },
   {
     "end": 629.95,
     "start": 629.47,
-    "word": "designed"
+    "text": "designed"
   },
   {
     "end": 630.08,
     "start": 629.95,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 630.41,
     "start": 630.08,
-    "word": "mimic"
+    "text": "mimic"
   },
   {
     "end": 631.37,
     "start": 630.41,
-    "word": "life,"
+    "text": "life,"
   },
   {
     "end": 631.55,
     "start": 631.37,
-    "word": "is"
+    "text": "is"
   },
   {
     "end": 632.49,
     "start": 631.55,
-    "word": "that"
+    "text": "that"
   },
   {
     "end": 632.63,
     "start": 632.49,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 633.04,
     "start": 632.63,
-    "word": "healthy"
+    "text": "healthy"
   },
   {
     "start": 633.04,
     "end": 633.48,
-    "word": "outlet"
+    "text": "outlet"
   },
   {
-    "word": "for",
+    "text": "for",
     "start": 633.6125,
     "end": 633.975
   },
   {
-    "word": "violent",
+    "text": "violent",
     "start": 634.185,
     "end": 634.47
   },
   {
-    "word": "behavior",
+    "text": "behavior",
     "start": 634.7574999999999,
     "end": 634.965
   },
   {
     "end": 635.46,
     "start": 635.33,
-    "word": "or"
+    "text": "or"
   },
   {
     "end": 635.6,
     "start": 635.46,
-    "word": "is"
+    "text": "is"
   },
   {
     "end": 635.92,
     "start": 635.6,
-    "word": "that"
+    "text": "that"
   },
   {
-    "start": 635.89,
+    "start": 635.92,
     "end": 636.42,
-    "word": "training"
+    "text": "training"
   },
   {
-    "word": "our",
-    "start": 636.2733333333333,
+    "text": "our",
+    "start": 636.42,
     "end": 636.8666666666667
   },
   {
-    "word": "cruelty",
-    "start": 636.6566666666666,
+    "text": "cruelty",
+    "start": 636.8666666666667,
     "end": 637.3133333333333
   },
   {
-    "start": 637.04,
+    "start": 637.3133333333333,
     "confidence": 0.62,
     "end": 637.76,
-    "word": "muscles?",
+    "text": "muscles?",
     "punct": "muscles.",
     "index": 1568
   },
   {
-    "word": "We",
+    "text": "We",
     "start": 638.1500000000001,
     "end": 638.7559999999999
   },
   {
-    "word": "don't",
+    "text": "don't",
     "start": 639.26,
     "end": 639.752
   },
   {
-    "word": "know",
+    "text": "know",
     "start": 640.3699999999999,
     "end": 640.748
   },
   {
-    "word": "...",
+    "text": "...",
     "start": 641.48,
     "end": 641.7439999999999
   },
   {
     "end": 642.74,
     "start": 642.59,
-    "word": "But"
+    "text": "But"
   },
   {
     "end": 642.9,
     "start": 642.74,
-    "word": "the"
+    "text": "the"
   },
   {
-    "start": 642.88,
+    "start": 642.9,
     "end": 643.15,
-    "word": "answer"
+    "text": "answer"
   },
   {
-    "word": "to",
-    "start": 643.02,
+    "text": "to",
+    "start": 643.15,
     "end": 643.315
   },
   {
     "end": 643.48,
-    "start": 643.16,
-    "word": "this"
+    "start": 643.315,
+    "text": "this"
   },
   {
     "end": 644.1,
     "start": 643.48,
-    "word": "question"
+    "text": "question"
   },
   {
     "end": 644.34,
     "start": 644.1,
-    "word": "has"
+    "text": "has"
   },
   {
     "end": 644.42,
     "start": 644.34,
-    "word": "the"
+    "text": "the"
   },
   {
     "start": 644.42,
     "end": 644.99,
-    "word": "potential"
+    "text": "potential"
   },
   {
-    "word": "to",
-    "start": 644.7049999999999,
+    "text": "to",
+    "start": 644.99,
     "end": 645.22
   },
   {
     "end": 645.45,
-    "start": 644.99,
-    "word": "impact"
+    "start": 645.22,
+    "text": "impact"
   },
   {
     "start": 645.45,
     "end": 645.73,
-    "word": "human"
+    "text": "human"
   },
   {
-    "word": "behavior,",
+    "text": "behavior,",
     "start": 645.84,
     "end": 646.12
   },
   {
-    "word": "it",
+    "text": "it",
     "start": 646.23,
     "end": 646.51
   },
   {
     "end": 646.9,
     "start": 646.62,
-    "word": "has"
+    "text": "has"
   },
   {
     "end": 646.98,
     "start": 646.9,
-    "word": "the"
+    "text": "the"
   },
   {
     "start": 646.98,
     "end": 647.49,
-    "word": "potential"
+    "text": "potential"
   },
   {
-    "word": "to",
-    "start": 647.235,
+    "text": "to",
+    "start": 647.49,
     "end": 647.72
   },
   {
     "end": 647.95,
-    "start": 647.49,
-    "word": "impact"
+    "start": 647.72,
+    "text": "impact"
   },
   {
     "end": 648.33,
     "start": 647.95,
-    "word": "social"
+    "text": "social"
   },
   {
     "end": 649.34,
     "start": 648.33,
-    "word": "norms,"
+    "text": "norms,"
   },
   {
     "end": 649.48,
     "start": 649.34,
-    "word": "it"
+    "text": "it"
   },
   {
     "end": 649.69,
     "start": 649.48,
-    "word": "has"
+    "text": "has"
   },
   {
     "end": 649.77,
     "start": 649.69,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 650.22,
     "start": 649.77,
-    "word": "potential"
+    "text": "potential"
   },
   {
     "end": 650.37,
     "start": 650.22,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 650.89,
     "start": 650.37,
-    "word": "inspire"
+    "text": "inspire"
   },
   {
     "end": 651.46,
     "start": 650.89,
-    "word": "rules"
+    "text": "rules"
   },
   {
     "end": 651.8,
     "start": 651.46,
-    "word": "around"
+    "text": "around"
   },
   {
     "end": 651.93,
     "start": 651.8,
-    "word": "what"
+    "text": "what"
   },
   {
     "end": 652.31,
     "start": 651.93,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 652.65,
     "start": 652.31,
-    "word": "can"
+    "text": "can"
   },
   {
     "end": 652.73,
     "start": 652.65,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 653.04,
     "start": 652.73,
-    "word": "can't"
+    "text": "can't"
   },
   {
     "end": 653.23,
     "start": 653.04,
-    "word": "do"
+    "text": "do"
   },
   {
     "end": 653.34,
     "start": 653.23,
-    "word": "with"
+    "text": "with"
   },
   {
     "start": 653.34,
     "end": 653.62,
-    "word": "certain"
+    "text": "certain"
   },
   {
-    "word": "robots,",
+    "text": "robots,",
     "start": 653.6700000000001,
     "end": 653.96
   },
   {
-    "word": "similar",
+    "text": "similar",
     "start": 654.0000000000001,
     "end": 654.3000000000001
   },
   {
-    "word": "to",
+    "text": "to",
     "start": 654.33,
     "end": 654.6400000000001
   },
   {
-    "word": "our",
+    "text": "our",
     "start": 654.6600000000001,
     "end": 654.98
   },
   {
     "end": 655.32,
     "start": 654.99,
-    "word": "animal"
+    "text": "animal"
   },
   {
     "start": 655.32,
     "end": 655.74,
-    "word": "cruelty"
+    "text": "cruelty"
   },
   {
-    "word": "laws.",
+    "text": "laws.",
     "start": 656.265,
     "end": 656.6499999999999
   },
   {
     "end": 657.56,
     "start": 657.21,
-    "word": "Because"
+    "text": "Because"
   },
   {
     "end": 657.86,
     "start": 657.56,
-    "word": "even"
+    "text": "even"
   },
   {
     "end": 658.02,
     "start": 657.86,
-    "word": "if"
+    "text": "if"
   },
   {
     "end": 658.44,
     "start": 658.02,
-    "word": "robots"
+    "text": "robots"
   },
   {
     "start": 658.44,
     "end": 658.72,
-    "word": "can't"
+    "text": "can't"
   },
   {
-    "word": "feel,",
+    "text": "feel,",
     "start": 659.0525000000001,
     "end": 659.3474999999999
   },
   {
-    "word": "our",
+    "text": "our",
     "start": 659.6650000000001,
     "end": 659.9749999999999
   },
   {
-    "word": "behavior",
+    "text": "behavior",
     "start": 660.2775,
     "end": 660.6025
   },
   {
     "end": 661.23,
     "start": 660.89,
-    "word": "towards"
+    "text": "towards"
   },
   {
     "end": 661.35,
     "start": 661.23,
-    "word": "them"
+    "text": "them"
   },
   {
     "end": 661.65,
     "start": 661.35,
-    "word": "might"
+    "text": "might"
   },
   {
     "end": 662.39,
     "start": 661.65,
-    "word": "matter"
+    "text": "matter"
   },
   {
     "end": 662.66,
     "start": 662.39,
-    "word": "for"
+    "text": "for"
   },
   {
     "end": 664.89,
     "start": 662.66,
-    "word": "us."
+    "text": "us."
   },
   {
     "end": 665.06,
     "start": 664.89,
-    "word": "And"
+    "text": "And"
   },
   {
     "end": 665.6,
     "start": 665.06,
-    "word": "regardless"
+    "text": "regardless"
   },
   {
     "end": 665.69,
     "start": 665.6,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 665.93,
     "start": 665.69,
-    "word": "whether"
+    "text": "whether"
   },
   {
     "end": 666.06,
     "start": 665.93,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 666.21,
     "start": 666.06,
-    "word": "end"
+    "text": "end"
   },
   {
     "end": 666.29,
     "start": 666.21,
-    "word": "up"
+    "text": "up"
   },
   {
     "start": 666.29,
     "end": 666.88,
-    "word": "changing"
+    "text": "changing"
   },
   {
-    "word": "our",
+    "text": "our",
     "start": 667.1600000000001,
     "end": 667.7000000000002
   },
   {
-    "word": "rules,",
+    "text": "rules,",
     "start": 668.03,
     "end": 668.5200000000001
   },
   {
     "end": 669.34,
     "start": 668.9,
-    "word": "robots"
+    "text": "robots"
   },
   {
     "end": 669.56,
     "start": 669.34,
-    "word": "might"
+    "text": "might"
   },
   {
     "end": 669.73,
     "start": 669.56,
-    "word": "be"
+    "text": "be"
   },
   {
     "end": 669.94,
     "start": 669.73,
-    "word": "able"
+    "text": "able"
   },
   {
     "end": 670.03,
     "start": 669.94,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 670.25,
     "start": 670.03,
-    "word": "help"
+    "text": "help"
   },
   {
     "end": 670.38,
     "start": 670.25,
-    "word": "us"
+    "text": "us"
   },
   {
     "end": 670.59,
     "start": 670.38,
-    "word": "come"
+    "text": "come"
   },
   {
     "end": 670.72,
     "start": 670.59,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 670.79,
     "start": 670.72,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 671.02,
     "start": 670.79,
-    "word": "new"
+    "text": "new"
   },
   {
     "end": 671.59,
     "start": 671.02,
-    "word": "understanding"
+    "text": "understanding"
   },
   {
     "end": 671.7,
     "start": 671.59,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 674.24,
     "start": 671.7,
-    "word": "ourselves."
+    "text": "ourselves."
   },
   {
     "end": 674.49,
     "start": 674.24,
-    "word": "Most"
+    "text": "Most"
   },
   {
     "end": 674.55,
     "start": 674.49,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 674.67,
     "start": 674.55,
-    "word": "what"
+    "text": "what"
   },
   {
     "end": 674.8,
     "start": 674.67,
-    "word": "I've"
+    "text": "I've"
   },
   {
     "end": 675.06,
     "start": 674.8,
-    "word": "learned"
+    "text": "learned"
   },
   {
     "end": 675.17,
     "start": 675.06,
-    "word": "over"
+    "text": "over"
   },
   {
     "end": 675.24,
     "start": 675.17,
-    "word": "the"
+    "text": "the"
   },
   {
     "end": 675.53,
     "start": 675.24,
-    "word": "past"
+    "text": "past"
   },
   {
     "end": 675.72,
     "start": 675.53,
-    "word": "10"
+    "text": "10"
   },
   {
     "start": 675.72,
     "end": 676.36,
-    "word": "years"
+    "text": "years"
   },
   {
-    "word": "has",
-    "start": 676.175,
+    "text": "has",
+    "start": 676.36,
     "end": 676.615
   },
   {
     "end": 676.87,
     "start": 676.63,
-    "word": "not"
+    "text": "not"
   },
   {
     "end": 676.98,
     "start": 676.87,
-    "word": "been"
+    "text": "been"
   },
   {
     "end": 677.21,
     "start": 676.98,
-    "word": "about"
+    "text": "about"
   },
   {
     "end": 677.76,
     "start": 677.21,
-    "word": "technology"
+    "text": "technology"
   },
   {
     "end": 677.93,
     "start": 677.76,
-    "word": "at"
+    "text": "at"
   },
   {
     "end": 678.83,
     "start": 677.93,
-    "word": "all."
+    "text": "all."
   },
   {
     "end": 679.07,
     "start": 678.83,
-    "word": "It's"
+    "text": "It's"
   },
   {
     "end": 679.21,
     "start": 679.07,
-    "word": "been"
+    "text": "been"
   },
   {
     "end": 679.45,
     "start": 679.21,
-    "word": "about"
+    "text": "about"
   },
   {
     "end": 679.76,
     "start": 679.45,
-    "word": "human"
+    "text": "human"
   },
   {
     "end": 681.35,
     "start": 679.76,
-    "word": "psychology"
+    "text": "psychology"
   },
   {
     "end": 681.59,
     "start": 681.35,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 682.31,
     "start": 681.59,
-    "word": "empathy"
+    "text": "empathy"
   },
   {
     "end": 682.43,
     "start": 682.31,
-    "word": "and"
+    "text": "and"
   },
   {
     "end": 682.66,
     "start": 682.43,
-    "word": "how"
+    "text": "how"
   },
   {
     "end": 682.79,
     "start": 682.66,
-    "word": "we"
+    "text": "we"
   },
   {
     "end": 683.13,
     "start": 682.79,
-    "word": "relate"
+    "text": "relate"
   },
   {
     "end": 683.26,
     "start": 683.13,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 685.5,
     "start": 683.26,
-    "word": "others."
+    "text": "others."
   },
   {
     "end": 685.84,
     "start": 685.5,
-    "word": "Because"
+    "text": "Because"
   },
   {
     "end": 685.98,
     "start": 685.84,
-    "word": "when"
+    "text": "when"
   },
   {
     "end": 686.05,
     "start": 685.98,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 686.47,
     "start": 686.05,
-    "word": "child"
+    "text": "child"
   },
   {
     "end": 686.6,
     "start": 686.47,
-    "word": "is"
+    "text": "is"
   },
   {
     "end": 686.99,
     "start": 686.6,
-    "word": "kind"
+    "text": "kind"
   },
   {
     "start": 686.99,
     "end": 687.22,
-    "word": "to"
+    "text": "to"
   },
   {
-    "word": "a",
+    "text": "a",
     "start": 687.7433333333333,
     "end": 687.95
   },
   {
-    "word": "Roomba,",
+    "text": "Roomba,",
     "start": 688.4966666666667,
     "end": 688.6800000000001
   },
   {
     "end": 689.41,
     "start": 689.25,
-    "word": "when"
+    "text": "when"
   },
   {
     "end": 689.5,
     "start": 689.41,
-    "word": "a"
+    "text": "a"
   },
   {
     "start": 689.5,
     "end": 690.01,
-    "word": "soldier"
+    "text": "soldier"
   },
   {
-    "word": "tries",
-    "start": 689.9200000000001,
+    "text": "tries",
+    "start": 690.01,
     "end": 690.235
   },
   {
     "end": 690.46,
     "start": 690.34,
-    "word": "to"
+    "text": "to"
   },
   {
     "end": 690.77,
     "start": 690.46,
-    "word": "save"
+    "text": "save"
   },
   {
     "end": 690.86,
     "start": 690.77,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 691.23,
     "start": 690.86,
-    "word": "robot"
+    "text": "robot"
   },
   {
     "end": 691.36,
     "start": 691.23,
-    "word": "on"
+    "text": "on"
   },
   {
     "end": 691.43,
     "start": 691.36,
-    "word": "the"
+    "text": "the"
   },
   {
     "start": 691.43,
     "end": 692.3,
-    "word": "battlefield,"
+    "text": "battlefield,"
   },
   {
-    "word": "or",
+    "text": "or",
     "start": 692.3950000000001,
     "end": 692.9300000000001
   },
   {
     "end": 693.56,
     "start": 693.36,
-    "word": "when"
+    "text": "when"
   },
   {
     "end": 693.63,
     "start": 693.56,
-    "word": "a"
+    "text": "a"
   },
   {
     "end": 693.83,
     "start": 693.63,
-    "word": "group"
+    "text": "group"
   },
   {
     "end": 693.97,
     "start": 693.83,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 694.34,
     "start": 693.97,
-    "word": "people"
+    "text": "people"
   },
   {
     "end": 694.9,
     "start": 694.34,
-    "word": "refuses"
+    "text": "refuses"
   },
   {
     "end": 695,
     "start": 694.9,
-    "word": "to"
+    "text": "to"
   },
   {
     "start": 695,
     "end": 695.44,
-    "word": "harm"
+    "text": "harm"
   },
   {
-    "word": "a",
-    "start": 695.3066666666667,
+    "text": "a",
+    "start": 695.44,
     "end": 695.6700000000001
   },
   {
-    "word": "robotic",
-    "start": 695.6133333333333,
+    "text": "robotic",
+    "start": 695.6700000000001,
     "end": 695.9000000000001
   },
   {
     "end": 696.13,
     "start": 695.92,
-    "word": "baby"
+    "text": "baby"
   },
   {
     "end": 698.22,
     "start": 696.13,
-    "word": "dinosaur,"
+    "text": "dinosaur,"
   },
   {
     "end": 698.46,
     "start": 698.22,
-    "word": "those"
+    "text": "those"
   },
   {
     "end": 698.88,
     "start": 698.46,
-    "word": "robots"
+    "text": "robots"
   },
   {
     "end": 699.07,
     "start": 698.88,
-    "word": "aren't"
+    "text": "aren't"
   },
   {
     "end": 699.44,
     "start": 699.07,
-    "word": "just"
+    "text": "just"
   },
   {
-    "start": 699.41,
+    "start": 699.44,
     "end": 699.9,
-    "word": "motors"
+    "text": "motors"
   },
   {
-    "word": "and",
-    "start": 699.7066666666667,
+    "text": "and",
+    "start": 699.9,
     "end": 700.08
   },
   {
-    "word": "gears",
-    "start": 700.0033333333333,
+    "text": "gears",
+    "start": 700.08,
     "end": 700.26
   },
   {
     "end": 700.44,
     "start": 700.3,
-    "word": "and"
+    "text": "and"
   },
   {
-    "start": 700.43,
+    "start": 700.44,
     "end": 701.45,
-    "word": "algorithms."
+    "text": "algorithms."
   },
   {
-    "word": "They're",
+    "text": "They're",
     "start": 701.5149999999999,
     "end": 702.355
   },
   {
     "end": 703.26,
     "start": 702.6,
-    "word": "reflections"
+    "text": "reflections"
   },
   {
     "end": 703.36,
     "start": 703.26,
-    "word": "of"
+    "text": "of"
   },
   {
     "end": 703.47,
     "start": 703.36,
-    "word": "our"
+    "text": "our"
   },
   {
     "end": 703.64,
     "start": 703.47,
-    "word": "own"
+    "text": "own"
   },
   {
     "start": 703.64,
     "end": 704.33,
-    "word": "humanity."
+    "text": "humanity."
   },
   {
-    "word": "Thank",
-    "start": 703.81,
+    "text": "Thank",
+    "start": 704.33,
     "end": 705.0200000000001
   },
   {
-    "word": "you.",
-    "start": 703.9799999999999,
+    "text": "you.",
+    "start": 705.0200000000001,
     "end": 705.7100000000002
   },
   {
-    "word": "(Applause)",
-    "start": 704.1499999999999,
+    "text": "(Applause)",
+    "start": 705.7100000000002,
     "end": 706.4000000000002
   }
 ]

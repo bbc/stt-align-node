@@ -1,8 +1,8 @@
 {
-  "name": "@bbc/stt-align-node",
-  "version": "1.1.0",
+  "name": "stt-align-node",
+  "version": "1.1.4",
   "description": "",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "start": "node lib/index.js",
     "test": "jest",
@@ -10,9 +10,9 @@
     "example": "node lib/example-usage.js",
     "build": "babel src -d build",
     "build:demo": "webpack --mode production",
-    "publish:public": "npm run build && /bin/cp -rf package.json build/ && npm publish build --access public",
+    "publish:public": "npm run build && /bin/cp -rf package.json build/ && /bin/cp -rf README.md build/README.md  && npm publish build --access public",
     "publish:dry:run": "npm publish --dry-run",
-    "deploy:ghpages": "gh-pages -d demo"
+    "deploy:ghpages": "npm run build:demo && gh-pages -d demo"
   },
   "author": "",
   "license": "ISC",
