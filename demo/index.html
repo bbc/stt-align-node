@@ -159,11 +159,11 @@
 
     
      loadDemoBtn.addEventListener("click",async (e) => {
-      const response = await fetch('/Soleio_Cuervo.json')
+      const response = await fetch(`${window.location.href}/Soleio_Cuervo.json`)
       const data = await response.json()
       const sttTocompare = data;
 
-      const responseText = await fetch('/Soleio_Cuervo_text.json')
+      const responseText = await fetch(`${window.location.href}/Soleio_Cuervo_text.json`)
       const dataText = await responseText.json()
       const baseText = dataText.text;
       // const sourceMediaUrl = "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Soleio+Cuervo-OIAUfZBd_7w.mp4";
