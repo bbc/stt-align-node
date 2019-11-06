@@ -9,7 +9,7 @@ Originally developed as a node version of python's [stt-align](https://github.co
 ## Setup - development
 
 ```
-git clone git@github.com:pietrop/stt-align-node.git
+git clone git@github.com:bbc/stt-align-node.git
 ```
 
 ```
@@ -23,7 +23,7 @@ npm install
 ## Setup - in production
 
 ```
-npm install stt-align-node
+npm install @bbc/stt-align-node
 ```
  
 

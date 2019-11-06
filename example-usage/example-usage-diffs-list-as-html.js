@@ -1,4 +1,4 @@
-// const alignSTT = require('stt-align-node').alignSTT;
+// const alignSTT = require('@bbc/stt-align-node').alignSTT;
 const diffsListAsHtml = require('../src/index.js').diffsListAsHtml;
 const fs = require('fs');
 

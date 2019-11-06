@@ -1,4 +1,4 @@
-// const calculateWordDuration = require('stt-align-node').calculateWordDuration;
+// const calculateWordDuration = require('@bbc/stt-align-node').calculateWordDuration;
 const calculateWordDuration = require('../src/index.js').calculateWordDuration;
 
 const word = 'Hello';

@@ -1,4 +1,4 @@
-//const diffsCount = require('stt-align-node').diffsCount;
+//const diffsCount = require('@bbc/stt-align-node').diffsCount;
 const diffsCount = require('../src/index.js').diffsCount;
 const fs = require('fs');
 
