@@ -1,6 +1,6 @@
 {
-  "name": "stt-align-node",
-  "version": "1.2.0",
+  "name": "@bbc/stt-align-node",
+  "version": "1.4.0",
   "description": "",
   "main": "index.js",
   "scripts": {
