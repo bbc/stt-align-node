@@ -58,13 +58,14 @@ function adjustTimecodesBoundaries(words) {
     });
   }
 
-function interpolate(wordsList){
+function interpolate(wordsList, start, end) {
     let words = interpolationOptimization(wordsList)
     const indicies = [...Array(words.length).keys()];
     let indiciesWithStart = [];
     let indiciesWithEnd = [];
     let startTimes = [];
     let endTimes = [];
+    
     // interpolate times for start
     for (let i=0; i<words.length; i++) {
         if('start' in words[i]){
@@ -72,13 +73,25 @@ function interpolate(wordsList){
         startTimes.push(words[i].start);
       }
     }
-     // interpolate times for end
+
+    if (start && indiciesWithStart[0] !== 0) {
+        indiciesWithStart = [0, ...indiciesWithStart];
+        startTimes = [start, ...startTimes];
+    }
+
+    // interpolate times for end
     for (let i=0; i<words.length; i++) {
         if('end' in words[i]){
         indiciesWithEnd.push(i);
         endTimes.push(words[i].end);
       }
     }
+
+    if (end && indiciesWithEnd[indiciesWithEnd.length - 1] !== indicies[indicies.length - 1]) {
+        indiciesWithEnd.push(indicies[indicies.length - 1]);
+        endTimes.push(end);
+    }
+
     // http://borischumichev.github.io/everpolate/#linear
     const outStartTimes = linear(indicies, indiciesWithStart, startTimes);
     const outEndTimes = linear(indicies, indiciesWithEnd, endTimes);
@@ -94,7 +107,7 @@ function interpolate(wordsList){
     return adjustTimecodesBoundaries(words);
 }
 
-function alignRefTextWithSTT(opCodes, sttWords, transcriptWords){
+function alignRefTextWithSTT(opCodes, sttWords, transcriptWords, start, end) {
     // # create empty list to receive data
     // transcriptData = [{} for _ in range(len(transcriptWords))]
     let transcriptData = [];
@@ -123,7 +136,7 @@ function alignRefTextWithSTT(opCodes, sttWords, transcriptWords){
         
     })
     // # fill in missing timestamps
-    return interpolate(transcriptData);
+    return interpolate(transcriptData, start, end);
 }
 
 module.exports = alignRefTextWithSTT;
