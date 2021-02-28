@@ -80,11 +80,11 @@ function diffsCount(sttWords, transcriptText){
     return alignedResults;
 }
 
-function alignSTT(sttWords, transcriptText){
+function alignSTT(sttWords, transcriptText, start, end) {
     const sttWordsList = sttWords.words;
     const opCodes =  diff(sttWordsList, transcriptText);
     const transcriptWords = convertRefTextToList(transcriptText);
-    const alignedResults = alignRefTextWithSTT(opCodes,sttWordsList,transcriptWords);
+    const alignedResults = alignRefTextWithSTT(opCodes, sttWordsList, transcriptWords, start, end);
     return alignedResults;
 }
 
