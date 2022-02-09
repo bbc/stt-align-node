@@ -2,11 +2,11 @@ const path = require('path');
 module.exports = {
     entry: './src/index.js',
     output: {
-        path: path.resolve(__dirname, 'demo'),
-        filename: 'main.bundle.js' ,
-        libraryTarget: 'var',
+        path: path.resolve(__dirname, 'lib'),
+        filename: 'index.js' ,
+        libraryTarget: 'umd',
         library: 'STTdiff',
-	      libraryExport: ''
+	    libraryExport: ''
       },
     module: {
       rules: [
