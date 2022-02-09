@@ -1,47 +1,51 @@
-const difflib = require('difflib');
-const normaliseWord = require('./normalise-word/index.js');
-const countDiffs = require('./count-diffs/index.js');
-const getDiffsList = require('./diffs-list/index.js');
-const alignRefTextWithSTT = require('./align/index.js');
-const calculateWordDuration = require('./calculate-word-duration/index.js');
-const diffsListToHtml = require('./diffs-list-to-html/index.js').diffsListToHtml;
+const difflib = require("difflib");
+const normaliseWord = require("./normalise-word/index.js");
+const countDiffs = require("./count-diffs/index.js");
+const getDiffsList = require("./diffs-list/index.js");
+const alignRefTextWithSTT = require("./align/index.js");
+const calculateWordDuration = require("./calculate-word-duration/index.js");
+const diffsListToHtml =
+  require("./diffs-list-to-html/index.js").diffsListToHtml;
 
 /**
- * 
+ *
  * @param {array} sttData - array of STT words
  * @param {array} transcriptWords - array of base text accurate words
  * @return {array} opCodes - diffs opcodes
  */
-function diffGetOpcodes(sttWords, transcriptWords){   
-    // # convert words to lowercase and remove numbers and special characters
-    // sttWordsStripped = [re.sub('[^a-z]', '', word.lower()) for word in sttWords]
-    const sttWordsStripped = sttWords.map((word)=>{
-        return normaliseWord(word.text);
-    })
-  
-    // transcriptWordsStripped = [re.sub('[^a-z]', '', word.lower()) for word in transcriptWords]
-    const transcriptWordsStripped = transcriptWords.map((word)=>{
-        return normaliseWord(word);
-    })
-    
-    const matcher = new difflib.SequenceMatcher(null,   sttWordsStripped, transcriptWordsStripped);
-    const opCodes  = matcher.getOpcodes();
-    return opCodes;
+function diffGetOpcodes(sttWords, transcriptWords) {
+  // # convert words to lowercase and remove numbers and special characters
+  // sttWordsStripped = [re.sub('[^a-z]', '', word.lower()) for word in sttWords]
+  const sttWordsStripped = sttWords.map((word) => {
+    return normaliseWord(word.text);
+  });
+
+  // transcriptWordsStripped = [re.sub('[^a-z]', '', word.lower()) for word in transcriptWords]
+  const transcriptWordsStripped = transcriptWords.map((word) => {
+    return normaliseWord(word);
+  });
+
+  const matcher = new difflib.SequenceMatcher(
+    null,
+    sttWordsStripped,
+    transcriptWordsStripped
+  );
+  const opCodes = matcher.getOpcodes();
+  return opCodes;
 }
 
-
-function removeNewLinesFromRefText(refText){
-    return refText.trim().replace(/\n\n/g,' ').replace(/\n/g,' ')
+function removeNewLinesFromRefText(refText) {
+  return refText.trim().replace(/\n\n/g, " ").replace(/\n/g, " ");
 }
 
-function convertRefTextToList(refText){
-    const transcriptTextWithoutLineBreaks = removeNewLinesFromRefText(refText);
-    const transcriptTextArray = transcriptTextWithoutLineBreaks.split(' ');
-    return transcriptTextArray;
+function convertRefTextToList(refText) {
+  const transcriptTextWithoutLineBreaks = removeNewLinesFromRefText(refText);
+  const transcriptTextArray = transcriptTextWithoutLineBreaks.split(" ");
+  return transcriptTextArray;
 }
 
 /**
- * 
+ *
  * @param {json} sttWords - stt transcript json
  * @param {array} sttWords.words
  * @param {float} sttWords.words[0].start
@@ -49,47 +53,78 @@ function convertRefTextToList(refText){
  * @param {float} sttWords.words[0].text
  * @param {string} transcriptText - plain text corrected transcript, base text
  */
-function diff(sttWords, transcriptText){
-    const transcriptTextArray = convertRefTextToList(transcriptText);
-    const diffResults = diffGetOpcodes(sttWords, transcriptTextArray);
-    return diffResults;
+function diff(sttWords, transcriptText) {
+  const transcriptTextArray = convertRefTextToList(transcriptText);
+  const diffResults = diffGetOpcodes(sttWords, transcriptTextArray);
+  return diffResults;
 }
 
-
-function diffsListAsHtml(sttWords, transcriptText, mediaUrl){
-    const sttWordsList = sttWords.words;
-    const opCodes =  diff(sttWordsList, transcriptText);
-    const transcriptWords = convertRefTextToList(transcriptText);
-    const alignedResults = getDiffsList(opCodes,sttWordsList,transcriptWords);
-    return diffsListToHtml(alignedResults,mediaUrl);
+function diffsListAsHtml(sttWords, transcriptText, mediaUrl) {
+  const sttWordsList = sttWords.words;
+  const opCodes = diff(sttWordsList, transcriptText);
+  const transcriptWords = convertRefTextToList(transcriptText);
+  const alignedResults = getDiffsList(opCodes, sttWordsList, transcriptWords);
+  return diffsListToHtml(alignedResults, mediaUrl);
 }
 
-function diffsList(sttWords, transcriptText){
-    const sttWordsList = sttWords.words;
-    const opCodes =  diff(sttWordsList, transcriptText);
-    const transcriptWords = convertRefTextToList(transcriptText);
-    const alignedResults = getDiffsList(opCodes,sttWordsList,transcriptWords);
-    return alignedResults;
+function diffsList(sttWords, transcriptText) {
+  const sttWordsList = sttWords.words;
+  const opCodes = diff(sttWordsList, transcriptText);
+  const transcriptWords = convertRefTextToList(transcriptText);
+  const alignedResults = getDiffsList(opCodes, sttWordsList, transcriptWords);
+  return alignedResults;
 }
 
-function diffsCount(sttWords, transcriptText){
-    const sttWordsList = sttWords.words;
-    const opCodes =  diff(sttWordsList, transcriptText);
-    const transcriptWords = convertRefTextToList(transcriptText);
-    const alignedResults = countDiffs(opCodes,sttWordsList,transcriptWords);
-    return alignedResults;
+function diffsCount(sttWords, transcriptText) {
+  const sttWordsList = sttWords.words;
+  const opCodes = diff(sttWordsList, transcriptText);
+  const transcriptWords = convertRefTextToList(transcriptText);
+  const alignedResults = countDiffs(opCodes, sttWordsList, transcriptWords);
+  return alignedResults;
 }
 
 function alignSTT(sttWords, transcriptText, start, end) {
-    const sttWordsList = sttWords.words;
-    const opCodes =  diff(sttWordsList, transcriptText);
-    const transcriptWords = convertRefTextToList(transcriptText);
-    const alignedResults = alignRefTextWithSTT(opCodes, sttWordsList, transcriptWords, start, end);
-    return alignedResults;
+  const sttWordsList = sttWords.words;
+  const opCodes = diff(sttWordsList, transcriptText);
+  const transcriptWords = convertRefTextToList(transcriptText);
+  const alignedResults = alignRefTextWithSTT(
+    opCodes,
+    sttWordsList,
+    transcriptWords,
+    start,
+    end
+  );
+  return alignedResults;
 }
 
-module.exports = alignSTT; 
-module.exports.alignSTT = alignSTT; 
+function alignSTTwithPadding(
+  sttWords,
+  transcriptText,
+  start,
+  end,
+  padLeft,
+  padRight
+) {
+  const PADLEFT = padLeft ? padLeft : "Nwxskfsxn HHLPdJNbX KRrdghXzJ";
+  const PADRIGHT = padRight ? padRight : "XxjzKsmwK pHcdxnFch LmLXFdCVr";
+
+  return alignSTT(
+    {
+      words: [
+        ...PADLEFT.split(" ").map((text) => ({ start, end: start, text })),
+        ...sttWords.words,
+        ...PADRIGHT.split(" ").map((text) => ({ start: end, end, text })),
+      ],
+    },
+    `${PADLEFT} ${transcriptText} ${PADRIGHT}`,
+    start,
+    end
+  ).slice(PADLEFT.split(" ").length, -PADRIGHT.split(" ").length);
+}
+
+module.exports = alignSTT;
+module.exports.alignSTT = alignSTT;
+module.exports.alignSTTwithPadding = alignSTTwithPadding;
 module.exports.diffsList = diffsList;
 module.exports.diffsCount = diffsCount;
 module.exports.calculateWordDuration = calculateWordDuration;
