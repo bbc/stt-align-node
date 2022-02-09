@@ -1,6 +1,6 @@
 {
   "name": "@bbc/stt-align-node",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "deploy:ghpages": "npm run build:demo && gh-pages -d demo"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.7.7",
     "@babel/core": "^7.7.7",
