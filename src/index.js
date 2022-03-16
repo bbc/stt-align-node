@@ -53,11 +53,39 @@ function convertRefTextToList(refText) {
  * @param {float} sttWords.words[0].text
  * @param {string} transcriptText - plain text corrected transcript, base text
  */
-function diff(sttWords, transcriptText) {
+
+
+/*function diff(sttWords, transcriptText) {
   const transcriptTextArray = convertRefTextToList(transcriptText);
   const diffResults = diffGetOpcodes(sttWords, transcriptTextArray);
   return diffResults;
+}*/
+
+function diff(sttWords, transcriptText) {
+  const transcriptTextArray = convertTextStringToArrayList(transcriptText);
+  const diffResults = diffGetOpcodes(sttWords, transcriptTextArray);
+  return diffResults;
 }
+
+const removeCarriageReturnFromString = (refText) => {
+  return refText.trim().replace(/\n\n/g, ' ').replace(/\n/g, ' ');
+};
+
+const removeExtraWhiteSpaces = (text) => {
+  return text.trim().replace(/\s\s+/g, ' ');
+};
+
+const splitOnWhiteSpaces = (text) => {
+  return removeExtraWhiteSpaces(text).split(' ');
+};
+
+function convertTextStringToArrayList(refText) {
+  const transcriptTextWithoutLineBreaks = removeCarriageReturnFromString(refText);
+  // const transcriptTextArray = transcriptTextWithoutLineBreaks.split(' ');
+  const transcriptTextArray = splitOnWhiteSpaces(transcriptTextWithoutLineBreaks);
+  return transcriptTextArray;
+}
+
 
 function diffsListAsHtml(sttWords, transcriptText, mediaUrl) {
   const sttWordsList = sttWords.words;
@@ -83,16 +111,43 @@ function diffsCount(sttWords, transcriptText) {
   return alignedResults;
 }
 
-function alignSTT(sttWords, transcriptText, start, end) {
+/*function alignSTT(sttWords, transcriptText, start, end) {
+  console.log("alignSTT");
   const sttWordsList = sttWords.words;
+  console.log("sttWordsList");
+  console.log(sttWordsList);
   const opCodes = diff(sttWordsList, transcriptText);
+  console.log("opCodes");
+  console.log(opCodes);
   const transcriptWords = convertRefTextToList(transcriptText);
+  console.log("transcriptWords");
+  console.log(transcriptWords);
   const alignedResults = alignRefTextWithSTT(
     opCodes,
     sttWordsList,
     transcriptWords,
     start,
     end
+  );
+  return alignedResults;
+}*/
+
+function alignSTT(sttWords, transcriptText, optionalSegmentStartTime = 0) {
+  console.log("alignSTT");
+  const sttWordsList = sttWords.words;
+  console.log("sttWordsList");
+  console.log(sttWordsList);
+  const opCodes = diff(sttWordsList, transcriptText);
+  console.log("opCodes");
+  console.log(opCodes);
+  const transcriptWords = convertRefTextToList(transcriptText);
+  console.log("transcriptWords");
+  console.log(transcriptWords);
+  const alignedResults = alignRefTextWithSTT(
+    opCodes,
+    sttWordsList,
+    transcriptWords,
+    optionalSegmentStartTime
   );
   return alignedResults;
 }
