@@ -111,38 +111,11 @@ function diffsCount(sttWords, transcriptText) {
   return alignedResults;
 }
 
-/*function alignSTT(sttWords, transcriptText, start, end) {
-  console.log("alignSTT");
-  const sttWordsList = sttWords.words;
-  console.log("sttWordsList");
-  console.log(sttWordsList);
-  const opCodes = diff(sttWordsList, transcriptText);
-  console.log("opCodes");
-  console.log(opCodes);
-  const transcriptWords = convertRefTextToList(transcriptText);
-  console.log("transcriptWords");
-  console.log(transcriptWords);
-  const alignedResults = alignRefTextWithSTT(
-    opCodes,
-    sttWordsList,
-    transcriptWords,
-    start,
-    end
-  );
-  return alignedResults;
-}*/
-
 function alignSTT(sttWords, transcriptText, optionalSegmentStartTime = 0) {
-  console.log("alignSTT");
   const sttWordsList = sttWords.words;
-  console.log("sttWordsList");
-  console.log(sttWordsList);
   const opCodes = diff(sttWordsList, transcriptText);
-  console.log("opCodes");
-  console.log(opCodes);
   const transcriptWords = convertRefTextToList(transcriptText);
-  console.log("transcriptWords");
-  console.log(transcriptWords);
+
   const alignedResults = alignRefTextWithSTT(
     opCodes,
     sttWordsList,
